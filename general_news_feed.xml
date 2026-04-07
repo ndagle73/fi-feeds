@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>📰 General News Daily</title>
+  <description>Daily news briefing — markets, real estate, construction, finance, tech, health, and general interest</description>
+  <link>http://feeds.rss:8089/general_news_feed.xml</link>
+  <atom:link href="http://feeds.rss:8089/general_news_feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-us</language>
+  <lastBuildDate>Tue, 07 Apr 2026 09:00:00 -0700</lastBuildDate>
+
+  <item>
+    <title>📰 General News — Tuesday, April 07, 2026</title>
+    <description><![CDATA[
+<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; max-width:700px; margin:0 auto; color:#1a1a1a; line-height:1.6;">
+<div style="background:linear-gradient(135deg,#1a1a2e,#16213e); padding:20px 24px; border-radius:12px; margin-bottom:20px;">
+  <div style="font-size:22px; font-weight:700; color:#fff;">📰 General News Daily</div>
+  <div style="font-size:13px; color:#8899aa; margin-top:4px;">Tuesday, April 7, 2026 · Web research edition</div>
+  <div style="font-size:11px; color:#667788; margin-top:6px;">⚠️ No newsletter emails in Outlook inbox today — digest built from web sources</div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 🔥 TOP STORY -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#999; margin-bottom:12px; border-bottom:2px solid #444; padding-bottom:6px;">🔥 TOP STORY — Iran Deadline Looms, Markets Slide</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-after-trumps-iran-deadline-looms-143610934.html" style="color:#1a1a1a; text-decoration:none;">Iran Rejects Ceasefire as Trump's Tuesday Deadline Approaches — Oil Tops $117, Stocks Sink</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Iran continued to reject ceasefire proposals as Trump's 8 PM ET Tuesday deadline for reopening the Strait of Hormuz approaches. WTI crude surged past $117/barrel (+4%), while the S&amp;P 500 dropped 1.1%, Dow fell 0.9%, and Nasdaq sank 1.7%. The Magnificent Seven tech stocks are at fresh yearly lows relative to the S&amp;P. Energy, utilities, and real estate were the only sectors in positive territory.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Yahoo Finance / Bloomberg</span>
+      <span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General Interest</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Oil above $117 drives fuel, material delivery, and energy costs directly higher for Insight Remodels. Market volatility could affect client confidence and project financing decisions this week.
+    </div>
+  </div>
+
+  <!-- SVG: Iran Deadline Decision Tree -->
+  <div style="background:#fafafa; border:1px solid #e8e8e8; border-radius:10px; padding:14px; margin-bottom:12px; text-align:center;">
+    <svg viewBox="0 0 420 160" style="max-width:100%; height:auto;" xmlns="http://www.w3.org/2000/svg">
+      <rect x="0" y="0" width="420" height="160" rx="8" fill="#fafafa"/>
+      <text x="210" y="18" text-anchor="middle" font-size="11" font-weight="700" fill="#333">Iran Deadline Tuesday 8 PM ET</text>
+      <!-- Center box -->
+      <rect x="140" y="28" width="140" height="36" rx="6" fill="#999" stroke="#333" stroke-width="1.5"/>
+      <text x="210" y="52" text-anchor="middle" font-size="10" font-weight="600" fill="#fff">Decision Point</text>
+      <!-- Left path (green - ceasefire) -->
+      <line x1="170" y1="64" x2="80" y2="92" stroke="#7dcf5a" stroke-width="2"/>
+      <rect x="10" y="85" width="140" height="60" rx="6" fill="#2d4a22" stroke="#7dcf5a" stroke-width="1.5"/>
+      <text x="80" y="105" text-anchor="middle" font-size="9" font-weight="600" fill="#7dcf5a">✅ Ceasefire</text>
+      <text x="80" y="120" text-anchor="middle" font-size="8" fill="#aaa">Oil drops to ~$85-90</text>
+      <text x="80" y="133" text-anchor="middle" font-size="8" fill="#aaa">Markets rally, rates ease</text>
+      <!-- Right path (red - escalation) -->
+      <line x1="250" y1="64" x2="340" y2="92" stroke="#f08080" stroke-width="2"/>
+      <rect x="270" y="85" width="140" height="60" rx="6" fill="#2a1a1a" stroke="#f08080" stroke-width="1.5"/>
+      <text x="340" y="105" text-anchor="middle" font-size="9" font-weight="600" fill="#f08080">⚠️ Escalation</text>
+      <text x="340" y="120" text-anchor="middle" font-size="8" fill="#aaa">Oil spikes toward $150+</text>
+      <text x="340" y="133" text-anchor="middle" font-size="8" fill="#aaa">Rates jump, recession risk</text>
+    </svg>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 📈 MARKETS & ECONOMY -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#4f9cf9; margin-bottom:12px; border-bottom:2px solid #1e3a5f; padding-bottom:6px;">📈 MARKETS &amp; ECONOMY</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://markets.financialcontent.com/stocks/article/marketminute-2026-4-7-s-and-p-500-technical-outlook-april-2026-navigating-the-moving-average-resistance" style="color:#1a1a1a; text-decoration:none;">S&amp;P 500 Technical Outlook: Navigating Moving Average Resistance</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      The S&amp;P 500 faces critical resistance at its 50-day and 200-day moving averages after a four-day rally snapped. Technical analysts note the index needs to reclaim these levels to confirm any recovery trend. The Iran deadline creates a binary catalyst that could resolve the pattern either way.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">MarketMinute</span>
+      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> If markets break lower, expect tighter lending conditions and weaker client sentiment for big remodeling projects.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://nationaltoday.com/us/dc/washington/news/2026/04/03/one-year-after-trumps-trade-war-tariffs-impact-remains-unclear/" style="color:#1a1a1a; text-decoration:none;">Tariffs One Year Later: Impact Remains Unclear</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      One year after Trump's initial tariff barrage in April 2025, the effective US tariff rate sits at 10.3% (up from 2.2%). The Supreme Court struck down IEEPA tariffs in February, but Section 122 tariffs of 10% remain on $1.2 trillion in imports through July 24, 2026. Tariffs cost households ~$2,512 annually in 2026.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">National Today / Tax Foundation</span>
+      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Higher tariffs on steel, aluminum, and copper continue to inflate your material costs directly. The July expiration date is a key watch.
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 🏠 REAL ESTATE & HOUSING -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#7dcf5a; margin-bottom:12px; border-bottom:2px solid #2d4a22; padding-bottom:6px;">🏠 REAL ESTATE &amp; HOUSING</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.realestatenews.com/2026/04/02/housing-market-in-a-holding-pattern-as-rates-hit-7-month-high" style="color:#1a1a1a; text-decoration:none;">Housing Market in 'Holding Pattern' as Rates Hit 7-Month High</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      The 30-year fixed rate averaged 6.46% as of April 2 — five straight weeks of increases. Monthly payments are ~$115 higher than four weeks ago, stalling mortgage applications. Buyers and sellers are both hesitating, waiting for clearer rate signals.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Real Estate News</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🏠 Real Estate</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Higher rates slow the home transaction pipeline, which directly affects remodeling demand. New homeowners are a key client source.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.noradarealestate.com/blog/mortgage-rate-predictions-april-june-2026/" style="color:#1a1a1a; text-decoration:none;">Mortgage Rate Forecast: Relief Expected by Summer</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Despite current headwinds, forecasters expect rates to drift toward 6.0–6.3% by end of June. Fannie Mae projects 5.7% by Q4 2026. The Iran situation and inflation data are the key wildcards — resolution could accelerate the decline.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Norada Real Estate / Fannie Mae</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🏠 Real Estate</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> If rates drop to 6% range by summer, expect a surge in purchase activity and renovation demand in the Gilroy/Hollister market.
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 🏗️ CONSTRUCTION & TRADES -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#c07af0; margin-bottom:12px; border-bottom:2px solid #2a1a3a; padding-bottom:6px;">🏗️ CONSTRUCTION &amp; TRADES</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.constructionowners.com/news/construction-costs-surge-in-2026" style="color:#1a1a1a; text-decoration:none;">Construction Material Prices Jump 12.6% Annualized in Early 2026</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Material input prices surged at a 12.6% annualized rate in Jan-Feb 2026 — the steepest acceleration since the pandemic spike. Aluminum mill shapes are up 30%+ year-over-year, steel bars up 12.1%. Tariffs of up to 50% on steel, aluminum, and copper products are showing directly in bid prices.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Construction Owners Association / ENR</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">🏗️ Construction</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> 🔥 This directly hits your bottom line. Material escalation clauses in contracts are essential right now — locking prices more than 30 days out is risky.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://news.constructconnect.com/construction-material-prices-rise-faster-than-bid-prices" style="color:#1a1a1a; text-decoration:none;">Bid Prices Lag Behind Costs — Margin Squeeze Continues</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Final construction bid prices rose only 2.7% in 2025 while material costs jumped 6.2% and labor costs climbed faster. The gap means contractors are absorbing the difference. Middle East energy disruptions are adding further pressure, causing some owners to delay projects.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">ConstructConnect / ENR</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">🏗️ Construction</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> ⚠️ If you're bidding fixed-price jobs, factor in the material-bid gap. Escalation clauses and shorter quote validity windows are protective measures.
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 💰 PERSONAL FINANCE -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#f0b429; margin-bottom:12px; border-bottom:2px solid #3a2d0a; padding-bottom:6px;">💰 PERSONAL FINANCE</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://blog.richify.ai/financial-literacy/tariffs-purchasing-power-2026/" style="color:#1a1a1a; text-decoration:none;">Tariffs Costing Households $2,512 in 2026 — Up 44%</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Congressional estimates show tariffs now cost the average household ~$2,512 annually, a 44% increase from last year. The impact flows through higher consumer prices, reduced savings capacity, and potentially lower investment returns. Pharmaceutical tariffs could reach 200%.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Richify / Congressional Research</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Higher household costs reduce discretionary spending on home improvements. Factor this into project pipeline forecasting.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://rbj.net/2026/04/02/supreme-court-tariff-ruling-financial-planning-us/" style="color:#1a1a1a; text-decoration:none;">Supreme Court Tariff Ruling Reshapes Financial Planning</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      The February Supreme Court ruling that IEEPA tariffs are unconstitutional removed broad executive tariff authority, but Section 122 tariffs remain through July. Financial advisors recommend building tariff uncertainty into planning — diversifying supply chains and maintaining higher cash reserves.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Rochester Business Journal</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> The July 24 Section 122 expiration is a potential inflection point for material costs. Worth tracking for Q3 project pricing.
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 🖥️ TECHNOLOGY -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#4fd1c5; margin-bottom:12px; border-bottom:2px solid #0a2a2a; padding-bottom:6px;">🖥️ TECHNOLOGY</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://thehackernews.com/" style="color:#1a1a1a; text-decoration:none;">Critical Fortinet Vulnerability Under Active Exploitation — Patch Now</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Fortinet released emergency patches for CVE-2026-35616 (CVSS 9.1) in FortiClient EMS — a pre-auth API bypass allowing privilege escalation. CISA ordered federal agencies to patch by Friday. If you use Fortinet products, patch immediately.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">The Hacker News / CISA</span>
+      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> If Insight Remodels or your IT provider uses Fortinet for network security, this needs immediate attention.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.bleepingcomputer.com/" style="color:#1a1a1a; text-decoration:none;">WhatsApp Attachment Attack Targets Windows Users</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Microsoft researchers discovered a campaign abusing WhatsApp attachments to install remote access scripts on Windows machines. The attack works through seemingly normal file attachments that execute hidden scripts when opened.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">BleepingComputer / Microsoft</span>
+      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> If you or your team use WhatsApp on Windows for client/vendor communication, avoid opening unexpected file attachments.
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 🏥 HEALTH & WELLNESS -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#f08080; margin-bottom:12px; border-bottom:2px solid #2a1a1a; padding-bottom:6px;">🏥 HEALTH &amp; WELLNESS</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.healthline.com/health-news" style="color:#1a1a1a; text-decoration:none;">New Blood Pressure Drug Shows Strong Results for Treatment-Resistant Hypertension</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Baxdrostat, a new pill targeting aldosterone synthesis, is showing strong results in clinical trials for people with dangerously high blood pressure who don't respond to standard treatments. The drug addresses a previously undertreated population.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Healthline / Clinical Trials</span>
+      <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">🏥 Health</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> 💡 A breakthrough for the ~15% of hypertension patients who don't respond to current medications. Worth watching if this applies to anyone in your circle.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.sciencedaily.com/news/health_medicine/" style="color:#1a1a1a; text-decoration:none;">A Few Minutes of Harder Exercise Dramatically Lowers Disease Risk</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      New research confirms that brief bouts of vigorous exercise — even just a few minutes daily — can dramatically reduce risk of major diseases including cardiovascular disease, diabetes, and certain cancers. The finding reinforces that intensity matters more than duration.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">ScienceDaily</span>
+      <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">🏥 Health</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Good news for a busy schedule — short intense workouts count. Even a few hard minutes between job sites adds up.
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
+  Sources: Web research (no newsletter emails in inbox today)<br/>
+  Generated April 7, 2026 by Claude Cowork · General News RSS Feed
+</div>
+</div>
+
+    ]]></description>
+    <pubDate>Tue, 07 Apr 2026 09:00:00 -0700</pubDate>
+    <guid isPermaLink="false">general-news-2026-04-07</guid>
+  </item>
+
+<item>
+    <title>📰 General News — Monday, April 06, 2026</title>
+    <description><![CDATA[
+<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; max-width:700px; margin:0 auto; color:#1a1a1a; line-height:1.6;">
+
+<!-- HEADER -->
+<div style="background:linear-gradient(135deg,#1a1a2e,#16213e); padding:20px 24px; border-radius:12px; margin-bottom:20px;">
+  <div style="font-size:22px; font-weight:700; color:#fff;">📰 General News Daily</div>
+  <div style="font-size:13px; color:#8899aa; margin-top:4px;">Monday, April 6, 2026 · Web research edition</div>
+  <div style="font-size:11px; color:#667788; margin-top:6px;">⚠️ No newsletter emails in Outlook inbox today — digest built from web sources</div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 🔥 TOP STORY -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#999; margin-bottom:12px; border-bottom:2px solid #444; padding-bottom:6px;">🔥 TOP STORY — Iran Ceasefire Talks Hit Critical Juncture</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.cnbc.com/2026/04/06/trump-iran-deadline-investors-markets-trade-deal-war-.html" style="color:#1a1a1a; text-decoration:none;">🔥 45-Day Ceasefire Proposal on the Table — But Iran Rejects Temporary Deal</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Egyptian, Pakistani, and Turkish mediators sent Iran and the U.S. a proposal calling for a 45-day ceasefire and reopening of the Strait of Hormuz. Trump has set a Tuesday 8 PM ET deadline for Iran to reopen Hormuz, threatening strikes on power plants and bridges. Tehran rejected the temporary deal, saying it has formulated its own response and will not accept deadlines or pressure.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">CNBC / NBC News / CNN</span>
+      <span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General Interest</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> This conflict drives oil above $110/bbl, pushing material and fuel costs higher for construction. Ceasefire outcome directly affects energy costs, mortgage rates, and market stability this week.
+    </div>
+  </div>
+
+  <!-- SVG: Ceasefire Decision Tree -->
+  <div style="background:#fafafa; border:1px solid #e8e8e8; border-radius:10px; padding:14px; margin-bottom:12px; text-align:center;">
+    <svg viewBox="0 0 420 160" style="max-width:100%; height:auto;" xmlns="http://www.w3.org/2000/svg">
+      <rect x="0" y="0" width="420" height="160" rx="8" fill="#fafafa"/>
+      <text x="210" y="18" text-anchor="middle" font-size="11" font-weight="700" fill="#333">⚖️ Iran Ceasefire — Two Paths</text>
+      <!-- Center box -->
+      <rect x="145" y="30" width="130" height="32" rx="6" fill="#f0b429" stroke="#333" stroke-width="1.5"/>
+      <text x="210" y="51" text-anchor="middle" font-size="10" font-weight="600" fill="#333">Tuesday Deadline</text>
+      <!-- Left path -->
+      <line x1="175" y1="62" x2="90" y2="90" stroke="#7dcf5a" stroke-width="2"/>
+      <rect x="20" y="85" width="140" height="55" rx="6" fill="#2d4a22" stroke="#7dcf5a" stroke-width="1.5"/>
+      <text x="90" y="102" text-anchor="middle" font-size="9" font-weight="600" fill="#7dcf5a">✅ Ceasefire Holds</text>
+      <text x="90" y="116" text-anchor="middle" font-size="8" fill="#aaa">Oil drops to ~$85-90</text>
+      <text x="90" y="128" text-anchor="middle" font-size="8" fill="#aaa">Rates ease, markets rally</text>
+      <!-- Right path -->
+      <line x1="245" y1="62" x2="330" y2="90" stroke="#f08080" stroke-width="2"/>
+      <rect x="260" y="85" width="140" height="55" rx="6" fill="#2a1a1a" stroke="#f08080" stroke-width="1.5"/>
+      <text x="330" y="102" text-anchor="middle" font-size="9" font-weight="600" fill="#f08080">⚠️ Escalation</text>
+      <text x="330" y="116" text-anchor="middle" font-size="8" fill="#aaa">Oil spikes toward $150+</text>
+      <text x="330" y="128" text-anchor="middle" font-size="8" fill="#aaa">Rates jump, recession risk</text>
+    </svg>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 📈 MARKETS & ECONOMY -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#4f9cf9; margin-bottom:12px; border-bottom:2px solid #1e3a5f; padding-bottom:6px;">📈 MARKETS &amp; ECONOMY</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.thestreet.com/latest-news/stock-market-today-apr-6-2026-updates" style="color:#1a1a1a; text-decoration:none;">Markets Edge Higher on Ceasefire Hopes — S&amp;P +0.12%, Nasdaq +0.42%</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Stocks opened cautiously Monday. The S&amp;P 500 rose 0.12%, Nasdaq gained 0.42%, and Russell 2000 climbed 0.75% on small-cap optimism. The Dow dipped 0.18%. Oil eased to ~$110/bbl on ceasefire talk but Saudi Arabia raised its flagship crude to a record premium of $19.50 over benchmarks. Apple rose 1.84%; Goldman upgraded Netflix to Buy with $120 target. JPMorgan warned Tesla could fall another 60%.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">TheStreet / 24/7 Wall St / CNBC</span>
+      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Markets remain hostage to the Iran situation. Friday's CPI report (April 10) is the next big data release — elevated oil prices likely pushing inflation readings higher.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.cnbc.com/2026/04/03/jobs-report-march-2026-.html" style="color:#1a1a1a; text-decoration:none;">March Jobs Report: 178K Added, Beating Expectations by 3x</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Nonfarm payrolls rose 178,000 in March, a sharp reversal from February's 133,000 decline and well above the 59,000 consensus estimate. Unemployment edged down to 4.3%. Health care led with 76K new jobs, followed by construction and transportation. Wages up 0.2% month-over-month (3.5% YoY) — softer than expected, giving the Fed room to maneuver.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">CNBC / BLS</span>
+      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Construction job gains are a positive signal for the industry. Soft wage growth could support eventual rate cuts, but oil-driven inflation complicates the picture.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-april-6-gold-strengthens-after-improved-jobs-report-and-mixed-war-news-110339214.html" style="color:#1a1a1a; text-decoration:none;">Gold Near $4,650 — Safe Haven Demand Persists</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Gold June futures opened at $4,648.60, down 0.7% from Thursday. Despite the dip, gold remains elevated on geopolitical uncertainty. Bitcoin rose to ~$69K and Ethereum to ~$2,109 on ceasefire optimism.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Yahoo Finance</span>
+      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Gold at these levels signals deep uncertainty. Crypto catching a bid on ceasefire talk, but both are risk barometers right now.
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 🏠 REAL ESTATE & HOUSING -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#7dcf5a; margin-bottom:12px; border-bottom:2px solid #2d4a22; padding-bottom:6px;">🏠 REAL ESTATE &amp; HOUSING</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.noradarealestate.com/blog/mortgage-rate-predictions-for-april-2026/" style="color:#1a1a1a; text-decoration:none;">Mortgage Rates Climb to 6.46% — Up Half a Point in a Month</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      The 30-year fixed hit 6.46% as of April 2, up from 6.38% the prior week and roughly half a point higher than a month ago. The 15-year fixed averaged 5.77%. Rising oil prices and Treasury yields are the primary drivers. Forecasts diverge: MBA says rates stay above 6% all year; Fannie Mae projects 5.7% by year-end if the Iran situation resolves.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Freddie Mac / Norada Real Estate</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🏠 Real Estate</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Higher rates directly impact remodeling demand — homeowners stay put but defer discretionary projects. The rate trajectory hinges entirely on the Iran/oil situation and Friday's CPI.
+    </div>
+  </div>
+
+  <!-- SVG: Mortgage rate trend -->
+  <div style="background:#fafafa; border:1px solid #e8e8e8; border-radius:10px; padding:14px; margin-bottom:12px; text-align:center;">
+    <svg viewBox="0 0 420 130" style="max-width:100%; height:auto;" xmlns="http://www.w3.org/2000/svg">
+      <rect x="0" y="0" width="420" height="130" rx="8" fill="#fafafa"/>
+      <text x="210" y="18" text-anchor="middle" font-size="11" font-weight="700" fill="#333">🏠 30-Year Fixed Mortgage Rate — Recent Trend</text>
+      <!-- Axis -->
+      <line x1="60" y1="100" x2="390" y2="100" stroke="#ccc" stroke-width="1"/>
+      <line x1="60" y1="30" x2="60" y2="100" stroke="#ccc" stroke-width="1"/>
+      <!-- Labels -->
+      <text x="55" y="38" text-anchor="end" font-size="8" fill="#999">6.50%</text>
+      <text x="55" y="58" text-anchor="end" font-size="8" fill="#999">6.30%</text>
+      <text x="55" y="78" text-anchor="end" font-size="8" fill="#999">6.10%</text>
+      <text x="55" y="98" text-anchor="end" font-size="8" fill="#999">5.90%</text>
+      <!-- Data points: ~5.96 early Mar → 6.38 late Mar → 6.46 Apr 2 -->
+      <polyline points="90,93 170,72 250,52 330,47 370,42" fill="none" stroke="#f08080" stroke-width="2.5" stroke-linecap="round"/>
+      <circle cx="90" cy="93" r="4" fill="#f08080"/>
+      <circle cx="170" cy="72" r="4" fill="#f08080"/>
+      <circle cx="250" cy="52" r="4" fill="#f08080"/>
+      <circle cx="330" cy="47" r="4" fill="#f08080"/>
+      <circle cx="370" cy="42" r="4" fill="#f08080"/>
+      <!-- Date labels -->
+      <text x="90" y="115" text-anchor="middle" font-size="7" fill="#999">Mar 5</text>
+      <text x="170" y="115" text-anchor="middle" font-size="7" fill="#999">Mar 12</text>
+      <text x="250" y="115" text-anchor="middle" font-size="7" fill="#999">Mar 19</text>
+      <text x="330" y="115" text-anchor="middle" font-size="7" fill="#999">Mar 26</text>
+      <text x="370" y="115" text-anchor="middle" font-size="7" fill="#999">Apr 2</text>
+      <!-- Annotation -->
+      <text x="370" y="35" text-anchor="middle" font-size="9" font-weight="700" fill="#f08080">6.46%</text>
+    </svg>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 🏗️ CONSTRUCTION & TRADES -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#c07af0; margin-bottom:12px; border-bottom:2px solid #2a1a3a; padding-bottom:6px;">🏗️ CONSTRUCTION &amp; TRADES</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://constructioncitizen.com/blog/agcs-data-digest-march-30-april-3-2026/2604031" style="color:#1a1a1a; text-decoration:none;">Construction Employment Gains 26K in March — But Job Openings at 9-Year Low</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Construction employment hit 8.33M in March, up 26K from February and 57K (0.7%) year-over-year. However, job openings dropped to 202K — the lowest February reading since 2017, down 21% YoY. Labor costs continue to outpace other sectors: construction hourly earnings for production workers rose 5.0% YoY vs. 3.4% for private sector overall. The industry needs an estimated 349K net new workers in 2026 to meet demand.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AGC / Construction Citizen / ENR</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">🏗️ Construction</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Wage pressure of 5% YoY directly hits your labor costs. Falling job openings may signal cooling demand in some segments, but workforce shortages remain the binding constraint for remodeling.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.enr.com/articles/62769-construction-economics-for-april-6-2026" style="color:#1a1a1a; text-decoration:none;">ENR Construction Economics: Pipeline Growth vs. Hiring Crunch</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      The 2026 outlook shows expanding project pipelines in infrastructure, data centers, and renewable energy — but hiring capacity is tightening. Contractors project 4.0% executive compensation increases for 2026. The NDAA now explicitly authorizes progressive design-build for military construction, opening new delivery methods.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">ENR / JLL / PBMares</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">🏗️ Construction</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Infrastructure and data center work is pulling labor away from residential remodeling. Plan accordingly for crew availability and subcontractor pricing.
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 💰 PERSONAL FINANCE -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#f0b429; margin-bottom:12px; border-bottom:2px solid #3a2d0a; padding-bottom:6px;">💰 PERSONAL FINANCE</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-april-6-2026-100000352.html" style="color:#1a1a1a; text-decoration:none;">Money Market Rates Still Attractive at 3.75% — CDs Averaging 1.52%</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Top money market accounts offer 3.75% APY (Prime Alliance, Northern Bank Direct). CD rates average 1.52% for 1-year national average, though top offers reach 4.15% APY. Rates remain high by historical standards but have begun a downward trajectory following recent Fed cuts. The Fed is divided on next steps — most policymakers expect rates to end 2026 in the 3.0-3.5% range.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Yahoo Finance</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Business cash reserves still earn decent yield in MMAs. Tax deadline approaching mid-April — time to finalize filings.
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 🖥️ TECHNOLOGY -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#4fd1c5; margin-bottom:12px; border-bottom:2px solid #0a2a2a; padding-bottom:6px;">🖥️ TECHNOLOGY</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://innovationinthenews.substack.com/p/innovation-in-the-news-april-6-2026" style="color:#1a1a1a; text-decoration:none;">Intel Buys Back 49% of Ireland Fab for $14.2B — Shares Jump 9%</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Intel agreed to repurchase a 49% stake in its Fab 34 facility in Ireland from Apollo Global Management for $14.2 billion, regaining full control of the advanced semiconductor plant. Separately, Sony will form a JV with TCL called Bravia Inc. (51% Sony) for home entertainment products starting April 2027. Samsung is discontinuing its Messages app in the US in July 2026, pushing users to Google Messages.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Innovation in the News / Tech Startups</span>
+      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Intel's move signals semiconductor reshoring confidence. Samsung Messages change — if you have Android devices, switch to Google Messages before July.
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 🏥 HEALTH & WELLNESS -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#f08080; margin-bottom:12px; border-bottom:2px solid #2a1a1a; padding-bottom:6px;">🏥 HEALTH &amp; WELLNESS</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.healthline.com/health-news" style="color:#1a1a1a; text-decoration:none;">Brief Hard Exercise May Dramatically Cut Disease Risk — New Research</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Research released in early April shows just a few minutes of harder-intensity exercise daily may dramatically lower risk of major diseases. Separately, a new study found women who exercise during midlife cut their early death risk by 50%. The AHA released updated dietary guidance emphasizing 9 key steps for cardiovascular health. April is Stress Awareness Month.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Healthline / AHA</span>
+      <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">🏥 Health</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Short high-intensity bursts fit a contractor's schedule — even a few minutes counts. Physical job demands aren't the same as intentional exercise.
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 📰 GENERAL INTEREST -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#999; margin-bottom:12px; border-bottom:2px solid #444; padding-bottom:6px;">📰 GENERAL INTEREST</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-5-2026" style="color:#1a1a1a; text-decoration:none;">🚀 Artemis II Crew Performs Lunar Flyby Today</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      NASA's Artemis II crew — Commander Reid Wiseman, Pilot Victor Glover, Mission Specialist Christina Koch, and Canadian astronaut Jeremy Hansen — will loop around the Moon today before heading home. The first crewed lunar flyby in over 50 years. Flight controllers cancelled the first trajectory correction burn because the flight path was already perfect.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">NASA / Space.com</span>
+      <span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General Interest</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> A bright spot amid heavy geopolitical news. Historic achievement — first humans near the Moon since Apollo 17 in 1972.
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ -->
+<!-- 📅 WEEK AHEAD -->
+<!-- ════════════════════════════════════════ -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:16px; font-weight:700; color:#999; margin-bottom:12px; border-bottom:2px solid #444; padding-bottom:6px;">📅 WEEK AHEAD</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:13px; color:#555; line-height:1.8;">
+      <strong>Tuesday, Apr 7</strong> — 🔥 Trump's Hormuz deadline (8 PM ET). Ceasefire or escalation.<br/>
+      <strong>Thursday, Apr 9</strong> — Weekly jobless claims<br/>
+      <strong>Friday, Apr 10</strong> — 🔥 March CPI report (8:30 AM ET). Key inflation reading — oil-driven pressure expected.<br/>
+      <strong>Mid-April</strong> — Tax filing deadline approaching
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
+  Sources: Web research (no newsletter emails in inbox today)<br/>
+  Generated April 6, 2026 by Claude Cowork · General News RSS Feed
+</div>
+
+</div>
+    ]]></description>
+    <pubDate>Mon, 06 Apr 2026 09:00:00 -0700</pubDate>
+    <guid isPermaLink="false">general-news-2026-04-06</guid>
+  </item>
+
+
+<item>
+    <title>📰 General News — Sunday, April 05, 2026</title>
+    <description>
+&lt;div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; max-width:700px; margin:0 auto; color:#1a1a1a; line-height:1.6;"&gt;
+
+&lt;!-- HEADER --&gt;
+&lt;div style="background:linear-gradient(135deg,#1a1a2e,#16213e); padding:20px 24px; border-radius:12px; margin-bottom:20px;"&gt;
+  &lt;div style="font-size:22px; font-weight:700; color:#fff;"&gt;📰 General News Daily&lt;/div&gt;
+  &lt;div style="font-size:13px; color:#8899aa; margin-top:4px;"&gt;Sunday, April 5, 2026 · Web research edition&lt;/div&gt;
+  &lt;div style="font-size:11px; color:#667788; margin-top:6px;"&gt;⚠️ No newsletter emails found in Outlook inbox today — digest built from web sources&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 📰 TOP STORY --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#999; margin-bottom:12px; border-bottom:2px solid #444; padding-bottom:6px;"&gt;📰 TOP STORY&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-5-2026" style="color:#1a1a1a; text-decoration:none;"&gt;🔥 Artemis II Crew Speeding Toward the Moon — Lunar Flyby Tomorrow&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      NASA's Artemis II mission launched April 1, sending four astronauts on a 10-day trip around the Moon aboard the Orion spacecraft. The crew — Commander Reid Wiseman, Pilot Victor Glover, Mission Specialist Christina Koch, and Canadian astronaut Jeremy Hansen — will loop around the Moon tomorrow (April 6) before heading home. Flight controllers cancelled the first trajectory correction burn because the flight path was already perfect.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;NASA / Space.com&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;📰 General Interest&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; First crewed lunar mission in over 50 years. A historic milestone in human space exploration and a major U.S. achievement amid a challenging geopolitical period.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;!-- SVG: Artemis II Timeline --&gt;
+  &lt;div style="background:#fafafa; border:1px solid #e8e8e8; border-radius:10px; padding:14px; margin-bottom:12px; text-align:center;"&gt;
+    &lt;svg viewBox="0 0 420 120" style="max-width:100%; height:auto;" xmlns="http://www.w3.org/2000/svg"&gt;
+      &lt;rect x="0" y="0" width="420" height="120" rx="8" fill="#fafafa"/&gt;
+      &lt;text x="210" y="18" text-anchor="middle" font-size="11" font-weight="700" fill="#333"&gt;🚀 Artemis II Mission Timeline&lt;/text&gt;
+      &lt;!-- Timeline line --&gt;
+      &lt;line x1="30" y1="60" x2="390" y2="60" stroke="#ddd" stroke-width="2"/&gt;
+      &lt;!-- Day markers --&gt;
+      &lt;circle cx="60" cy="60" r="8" fill="#4f9cf9"/&gt;
+      &lt;text x="60" y="48" text-anchor="middle" font-size="9" font-weight="600" fill="#4f9cf9"&gt;Apr 1&lt;/text&gt;
+      &lt;text x="60" y="80" text-anchor="middle" font-size="8" fill="#888"&gt;Launch&lt;/text&gt;
+      &lt;circle cx="150" cy="60" r="8" fill="#7dcf5a"/&gt;
+      &lt;text x="150" y="48" text-anchor="middle" font-size="9" font-weight="600" fill="#7dcf5a"&gt;Apr 2&lt;/text&gt;
+      &lt;text x="150" y="80" text-anchor="middle" font-size="8" fill="#888"&gt;TLI Burn&lt;/text&gt;
+      &lt;circle cx="230" cy="60" r="10" fill="#f0b429" stroke="#f0b429" stroke-width="2"/&gt;
+      &lt;text x="230" y="48" text-anchor="middle" font-size="9" font-weight="700" fill="#f0b429"&gt;Apr 5&lt;/text&gt;
+      &lt;text x="230" y="80" text-anchor="middle" font-size="8" font-weight="600" fill="#f0b429"&gt;TODAY&lt;/text&gt;
+      &lt;circle cx="290" cy="60" r="8" fill="#f08080"/&gt;
+      &lt;text x="290" y="48" text-anchor="middle" font-size="9" font-weight="600" fill="#f08080"&gt;Apr 6&lt;/text&gt;
+      &lt;text x="290" y="80" text-anchor="middle" font-size="8" fill="#888"&gt;Moon Flyby&lt;/text&gt;
+      &lt;circle cx="370" cy="60" r="8" fill="#c07af0"/&gt;
+      &lt;text x="370" y="48" text-anchor="middle" font-size="9" font-weight="600" fill="#c07af0"&gt;~Apr 11&lt;/text&gt;
+      &lt;text x="370" y="80" text-anchor="middle" font-size="8" fill="#888"&gt;Splashdown&lt;/text&gt;
+      &lt;!-- Moon icon --&gt;
+      &lt;text x="290" y="105" text-anchor="middle" font-size="16"&gt;🌕&lt;/text&gt;
+    &lt;/svg&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 📈 MARKETS &amp; ECONOMY --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#4f9cf9; margin-bottom:12px; border-bottom:2px solid #1e3a5f; padding-bottom:6px;"&gt;📈 MARKETS &amp;amp; ECONOMY&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.cbsnews.com/news/iran-war-strait-of-hormuz-closed-oil-gas-price/" style="color:#1a1a1a; text-decoration:none;"&gt;🔥 Oil Tops $112/Barrel — Strait of Hormuz Closure Intensifying&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      WTI crude has nearly doubled this year, closing above $112/barrel. Brent is up 80% in 2026 at $109+. The IEA warns April will be "much worse than March" for supply constraints. Analysts warn if the Strait stays closed past mid-April, oil could hit $150+. U.S. gas prices at $4.10-$4.15/gallon average.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;CBS News / CNBC / IEA&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;📈 Markets&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Fuel surcharges hitting material deliveries hard. Every $10/barrel increase adds roughly 2-3% to transport-dependent construction material costs. Budget accordingly on active bids.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.cnbc.com/2026/04/03/stock-market-next-week-outlook-for-april-6-10-2026.html" style="color:#1a1a1a; text-decoration:none;"&gt;Wall Street Snaps 5-Week Losing Streak — But Fed May Hold All Year&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Markets rallied enough to break the losing streak as investors digest the Iran war's economic impact. But the futures market now shows 60% probability the Fed holds rates unchanged all of 2026 (up from 5.3% a month ago). The 5-year breakeven inflation rate has jumped 26 basis points since the conflict began.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;CNBC / Schwab&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;📈 Markets&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; If the Fed holds all year, mortgage rates stay elevated and client financing costs remain high. Factor this into project timelines and client conversations.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.cnbc.com/2026/04/02/liberation-day-1-year-on-investors-are-rethinking-us-assets.html" style="color:#1a1a1a; text-decoration:none;"&gt;One Year Since "Liberation Day" — Tariffs Still Shaping the Economy&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      One year after Trump's April 2025 tariff day, the Supreme Court struck down the tariff regime in February 2026. But Trump launched new Section 301 investigations into China, EU, Japan, India, and others. Businesses that absorbed tariff costs in 2025 are now passing them to consumers. Bright spot: U.S.-India interim deal cut effective tariffs from 50% to 18%.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;CNBC / Motley Fool&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;📈 Markets&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Imported materials (tile, fixtures, hardware) still carry tariff-inflated pricing. The India deal could ease costs on some stone and tile imports — watch for supplier price adjustments.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;!-- SVG: Fed Rate Probability Shift --&gt;
+  &lt;div style="background:#fafafa; border:1px solid #e8e8e8; border-radius:10px; padding:14px; margin-bottom:12px; text-align:center;"&gt;
+    &lt;svg viewBox="0 0 400 130" style="max-width:100%; height:auto;" xmlns="http://www.w3.org/2000/svg"&gt;
+      &lt;rect x="0" y="0" width="400" height="130" rx="8" fill="#fafafa"/&gt;
+      &lt;text x="200" y="18" text-anchor="middle" font-size="11" font-weight="700" fill="#333"&gt;⚠️ Probability Fed Holds Rates All 2026&lt;/text&gt;
+      &lt;!-- Bars --&gt;
+      &lt;rect x="60" y="85" width="60" height="15" rx="4" fill="#7dcf5a" opacity="0.7"/&gt;
+      &lt;text x="90" y="80" text-anchor="middle" font-size="11" font-weight="600" fill="#7dcf5a"&gt;5.3%&lt;/text&gt;
+      &lt;text x="90" y="115" text-anchor="middle" font-size="9" fill="#888"&gt;1 Month Ago&lt;/text&gt;
+      &lt;rect x="170" y="55" width="60" height="45" rx="4" fill="#f0b429" opacity="0.7"/&gt;
+      &lt;text x="200" y="50" text-anchor="middle" font-size="11" font-weight="600" fill="#f0b429"&gt;47%&lt;/text&gt;
+      &lt;text x="200" y="115" text-anchor="middle" font-size="9" fill="#888"&gt;1 Week Ago&lt;/text&gt;
+      &lt;rect x="280" y="35" width="60" height="65" rx="4" fill="#f08080" opacity="0.8"/&gt;
+      &lt;text x="310" y="30" text-anchor="middle" font-size="11" font-weight="700" fill="#c0392b"&gt;60%&lt;/text&gt;
+      &lt;text x="310" y="115" text-anchor="middle" font-size="9" fill="#888"&gt;Today&lt;/text&gt;
+      &lt;!-- Trend arrow --&gt;
+      &lt;line x1="90" y1="92" x2="300" y2="65" stroke="#c0392b" stroke-width="2" stroke-dasharray="5,3"/&gt;
+    &lt;/svg&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 🏠 REAL ESTATE &amp; HOUSING --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#7dcf5a; margin-bottom:12px; border-bottom:2px solid #2d4a22; padding-bottom:6px;"&gt;🏠 REAL ESTATE &amp;amp; HOUSING&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.realestatenews.com/2026/04/02/housing-market-in-a-holding-pattern-as-rates-hit-7-month-high" style="color:#1a1a1a; text-decoration:none;"&gt;⚠️ Housing in "Holding Pattern" — Mortgage Rates at 6.46%, 7-Month High&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Mortgage applications have stalled as rates hit 6.46% after five straight weeks of increases driven by the Iran war's inflation fears. Surging energy prices are pushing up 10-year Treasury yields, the benchmark for home loan pricing. Buyers who can afford current rates are finding a more buyer-friendly market with more negotiating leverage.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Real Estate News / WTOP&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏠 Real Estate&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Higher rates cool remodeling demand from recent buyers and HELOC borrowers. But sellers sitting on unsold homes may invest in renovations to compete — potential lead source.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.redfin.com/news/housing-market-predictions-2026/" style="color:#1a1a1a; text-decoration:none;"&gt;💡 Median Home Prices Expected to Rise Just 1% in 2026&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Redfin projects the median U.S. home-sale price to rise only 1% year-over-year in 2026. High mortgage rates and prices plus a weakening economy will curb demand. For sellers, April 12-18 may be the "Goldilocks window" — the best moment in 2026 when price, demand, and competition align.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Redfin / NAR&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏠 Real Estate&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Flat home prices mean homeowners are less likely to "cash-out refi" for big remodels. Focus marketing on necessity-driven renovations and ROI messaging for sellers prepping to list.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 🏗️ CONSTRUCTION &amp; TRADES --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#c07af0; margin-bottom:12px; border-bottom:2px solid #2a1a3a; padding-bottom:6px;"&gt;🏗️ CONSTRUCTION &amp;amp; TRADES&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://constructioncitizen.com/blog/agcs-data-digest-march-30-april-3-2026/2604031" style="color:#1a1a1a; text-decoration:none;"&gt;Construction Adds 26K Jobs in March — But Job Openings at 9-Year Low&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Construction employment hit 8.33M (seasonally adjusted), up 57K year-over-year. But the counter-signal: job openings dropped to 202K — the lowest February level since 2017, down 21% YoY. The openings rate fell from 3.0% to 2.4%. Meanwhile, labor costs for construction outpaced other sectors at 5.0% wage growth YoY.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;AGC / Construction Citizen&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏗️ Construction&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Fewer openings + 5% wage growth = sub labor is getting more expensive while competition for workers eases slightly. Good time to lock in reliable subs before the spring rush.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.enr.com/articles/62769-construction-economics-for-april-6-2026" style="color:#1a1a1a; text-decoration:none;"&gt;💡 2026 Construction Outlook: Infrastructure &amp;amp; Data Centers Up, Hiring Tight&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Project pipelines are expanding in infrastructure, data centers, and renewable energy. But hiring capacity is tightening simultaneously. Contractors project 4.0% executive pay increases and 3.9% overall for 2026, with regional variation. The industry faces uneven demand, rapid technological change, and persistent workforce shortages.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;ENR / JLL / AGC&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏗️ Construction&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Big infrastructure/data center projects are absorbing trade labor regionally. If commercial remodeling pipelines slow, some of those workers may become available — watch for sub availability shifts in the South Bay.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 🖥️ TECHNOLOGY --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#4fd1c5; margin-bottom:12px; border-bottom:2px solid #0a2a2a; padding-bottom:6px;"&gt;🖥️ TECHNOLOGY&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://thehackernews.com/" style="color:#1a1a1a; text-decoration:none;"&gt;⚠️ Chrome Emergency Update — Actively Exploited WebGPU Vulnerability&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Google issued an emergency Chrome update for CVE-2026-5281, a high-severity use-after-free vulnerability in the Dawn WebGPU component that's being actively exploited in the wild. Update Chrome immediately. Separately, a "BrowserGate" report reveals LinkedIn is using hidden JavaScript to scan visitors' browsers for installed extensions and collect device data.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Hacker News / BleepingComputer&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🖥️ Technology&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; 🛠️ Action item — update Chrome on all devices today. Active exploits in the wild mean this is urgent, not routine.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://blog.mean.ceo/cybersecurity-news-april-2026/" style="color:#1a1a1a; text-decoration:none;"&gt;Meta Targets Italian Spyware Firm Over Fake WhatsApp&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Meta is taking action against Asigint, an Italian subsidiary of spyware company SIO, for allegedly creating a counterfeit version of WhatsApp designed to spy on users. The EU's CERT-EU has also attributed the European Commission cloud hack to the TeamPCP threat group, exposing data of 29+ EU entities.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Cybernews / Digital Forensics Mag&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🖥️ Technology&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Fake app scams are increasingly sophisticated. Be cautious about any "updated" app installs that come via email or text rather than the official App Store.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 🏥 HEALTH &amp; WELLNESS --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#f08080; margin-bottom:12px; border-bottom:2px solid #2a1a1a; padding-bottom:6px;"&gt;🏥 HEALTH &amp;amp; WELLNESS&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.globalwellnesssummit.com/2026trends/" style="color:#1a1a1a; text-decoration:none;"&gt;💡 "Neurowellness" Named Top Wellness Trend for 2026&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      The Global Wellness Summit named "neurowellness" — using technology to manually regulate the nervous system — as the #1 wellness trend for 2026. The longevity space is pivoting from managing symptoms to addressing root causes, with a particular focus on women's healthspan. April is also Stress Awareness Month.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Global Wellness Summit&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏥 Health&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Nervous system regulation through breathwork, cold exposure, and targeted supplements aligns with a whole-food, low-PUFA health approach. Worth exploring for stress management during busy construction seasons.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.healthline.com/health-news" style="color:#1a1a1a; text-decoration:none;"&gt;✅ New AHA Guidance: 9 Key Steps to Better Heart Health&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      The American Heart Association released updated dietary guidance with 9 key steps that may significantly improve cardiovascular health. A separate study found women who exercise during midlife cut their risk of early death by 50%, reinforcing that consistent physical activity remains the single most impactful health intervention.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Healthline / AHA&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏥 Health&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Exercise during midlife = 50% lower mortality risk. Strong motivation to keep up physical activity even during intense work seasons.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 📰 GENERAL INTEREST --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#999; margin-bottom:12px; border-bottom:2px solid #444; padding-bottom:6px;"&gt;📰 GENERAL INTEREST&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.cnn.com/2026/04/05/world/live-news/iran-war-us-trump-oil" style="color:#1a1a1a; text-decoration:none;"&gt;🔥 Iran War Day 36 — Downed F-15 Airman Rescued, Trump Issues Monday Deadline&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      A U.S. airman whose F-15 was shot down over Iran has been rescued after evading capture for over 24 hours, in a mission involving hundreds of personnel and a CIA deception campaign. Trump renewed his ultimatum: Iran must fully reopen the Strait of Hormuz by Monday or face destruction of power plants and bridges. Tehran rejected the ultimatum as "helpless and nervous."
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;CNN / Al Jazeera / NPR&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;📰 General Interest&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Monday's deadline is the biggest near-term risk driver for energy prices, markets, and the broader economy. If it escalates, expect another fuel and material cost shock.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- ORPHANED EMAILS --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="background:#fff8e6; border:1px solid #f0b429; border-radius:10px; padding:14px 18px; margin-top:16px;"&gt;
+  &lt;div style="font-size:14px; font-weight:700; color:#8a6d00; margin-bottom:6px;"&gt;
+    📌 Note: Inbox Contains Transactional Emails Only
+  &lt;/div&gt;
+  &lt;div style="font-size:12px; color:#555; line-height:1.5;"&gt;
+    All 50 emails currently in the Outlook inbox are transactional — invoices, payment confirmations, loan statements, insurance notices, bank alerts, and receipts. None are newsletters or news subscriptions. These are not claimed by either the AI Digest or General News agents as they are not news content. Consider archiving or organizing them when convenient.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- FOOTER --&gt;
+&lt;div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;"&gt;
+  Sources: Web research (CNBC, CBS News, CNN, NASA, Space.com, Redfin, NAR, AGC, ENR, Hacker News, Global Wellness Summit, Healthline, Al Jazeera)&lt;br/&gt;
+  Generated April 5, 2026 by Claude Cowork · General News RSS Feed
+&lt;/div&gt;
+
+&lt;/div&gt;
+</description>
+    <pubDate>Sun, 05 Apr 2026 09:00:00 -0700</pubDate>
+    <guid isPermaLink="false">general-news-2026-04-05</guid>
+  </item>
+
+
+<item>
+    <title>📰 General News — Saturday, April 04, 2026</title>
+    <description>
+&lt;div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; max-width:700px; margin:0 auto; color:#1a1a1a; line-height:1.6;"&gt;
+
+&lt;!-- HEADER --&gt;
+&lt;div style="background:linear-gradient(135deg,#1a1a2e,#16213e); padding:20px 24px; border-radius:12px; margin-bottom:20px;"&gt;
+  &lt;div style="font-size:22px; font-weight:700; color:#fff;"&gt;📰 General News Daily&lt;/div&gt;
+  &lt;div style="font-size:13px; color:#8899aa; margin-top:4px;"&gt;Saturday, April 4, 2026 · Web research edition&lt;/div&gt;
+  &lt;div style="font-size:11px; color:#667788; margin-top:6px;"&gt;⚠️ No newsletter emails found in Outlook inbox today — digest built from web sources&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 📰 GENERAL INTEREST --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#999; margin-bottom:12px; border-bottom:2px solid #444; padding-bottom:6px;"&gt;📰 TOP STORY&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates" style="color:#1a1a1a; text-decoration:none;"&gt;🔥 Iran War Enters 6th Week — Search for Downed Jet Crew Member Continues&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      The U.S.-Iran conflict enters its sixth week as military forces search for a crew member who bailed out of an F-15 shot down over Iran. One crew member was rescued Friday. The U.S. is deploying long-range JASSM-ER missiles from global stocks, and a strike hit near an Iranian nuclear plant. Trump issued an ultimatum: "time is running out" for Iran to fully reopen the Strait of Hormuz by Monday.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;NPR / CNN&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;📰 General Interest&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Gas prices up 37% since the war began ($4.10/gal avg). Rising energy costs directly hit construction material transport and client renovation budgets.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;!-- SVG: Gas Price Impact --&gt;
+  &lt;div style="background:#fafafa; border:1px solid #e8e8e8; border-radius:10px; padding:14px; margin-bottom:12px; text-align:center;"&gt;
+    &lt;svg viewBox="0 0 400 140" style="max-width:100%; height:auto;" xmlns="http://www.w3.org/2000/svg"&gt;
+      &lt;rect x="0" y="0" width="400" height="140" rx="8" fill="#fafafa"/&gt;
+      &lt;text x="200" y="20" text-anchor="middle" font-size="11" font-weight="700" fill="#333"&gt;⛽ U.S. Gas Price Trajectory Since War Began&lt;/text&gt;
+      &lt;!-- Baseline --&gt;
+      &lt;line x1="50" y1="110" x2="370" y2="110" stroke="#ddd" stroke-width="1"/&gt;
+      &lt;!-- Price bars --&gt;
+      &lt;rect x="70" y="70" width="50" height="40" rx="4" fill="#4f9cf9" opacity="0.7"/&gt;
+      &lt;text x="95" y="65" text-anchor="middle" font-size="10" fill="#333"&gt;$2.99&lt;/text&gt;
+      &lt;text x="95" y="125" text-anchor="middle" font-size="9" fill="#888"&gt;Feb 21&lt;/text&gt;
+      &lt;rect x="160" y="50" width="50" height="60" rx="4" fill="#f0b429" opacity="0.7"/&gt;
+      &lt;text x="185" y="45" text-anchor="middle" font-size="10" fill="#333"&gt;$3.55&lt;/text&gt;
+      &lt;text x="185" y="125" text-anchor="middle" font-size="9" fill="#888"&gt;Mar 14&lt;/text&gt;
+      &lt;rect x="250" y="35" width="50" height="75" rx="4" fill="#f08080" opacity="0.8"/&gt;
+      &lt;text x="275" y="30" text-anchor="middle" font-size="10" fill="#333"&gt;$3.98&lt;/text&gt;
+      &lt;text x="275" y="125" text-anchor="middle" font-size="9" fill="#888"&gt;Mar 28&lt;/text&gt;
+      &lt;rect x="340" y="25" width="50" height="85" rx="4" fill="#c0392b" opacity="0.9"/&gt;
+      &lt;text x="365" y="20" text-anchor="middle" font-size="10" font-weight="700" fill="#c0392b"&gt;$4.10&lt;/text&gt;
+      &lt;text x="365" y="125" text-anchor="middle" font-size="9" fill="#888"&gt;Apr 4&lt;/text&gt;
+      &lt;!-- Arrow --&gt;
+      &lt;line x1="95" y1="90" x2="355" y2="55" stroke="#c0392b" stroke-width="2" stroke-dasharray="5,3"/&gt;
+      &lt;text x="230" y="90" text-anchor="middle" font-size="10" font-weight="600" fill="#c0392b"&gt;+37%&lt;/text&gt;
+    &lt;/svg&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 📈 MARKETS &amp; ECONOMY --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#4f9cf9; margin-bottom:12px; border-bottom:2px solid #1e3a5f; padding-bottom:6px;"&gt;📈 MARKETS &amp;amp; ECONOMY&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.fakta.co/dow-jones-today-april-4-2026-jobs-surge" style="color:#1a1a1a; text-decoration:none;"&gt;Jobs Surge 178K in March — Nearly 3.5x Expectations&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      The U.S. economy added 178,000 jobs in March, dramatically exceeding analyst expectations of ~50,000. The strong labor market data creates a mixed signal — economic strength vs. inflation persistence that may delay further Fed rate cuts.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Fakta / CNBC&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;📈 Markets&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Strong jobs = strong labor market for finding subcontractors, but also means Fed may hold rates higher for longer — keeping borrowing costs elevated.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.fool.com/investing/2026/04/03/4-warning-signs-stock-market-crash-2026/" style="color:#1a1a1a; text-decoration:none;"&gt;⚠️ S&amp;amp;P 500 Flashing 4 Warning Signs — Down 8% From January High&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      The S&amp;amp;P 500 broke below its 200-day moving average for the first time in over a year. Consumer sentiment has plunged to its third-lowest reading ever — below levels seen at the start of every recession since 1980. Markets remain extremely sensitive to geopolitical headlines.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Motley Fool&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;📈 Markets&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Consumer sentiment at recession-level lows could signal homeowners delaying renovation projects. Worth watching client pipeline for slowdown signs.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.cnbc.com/2026/04/01/investors-stock-market-volatility.html" style="color:#1a1a1a; text-decoration:none;"&gt;💡 Experts: Stay Invested Through "Choppy, Bumpy Ride"&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      S&amp;amp;P 500 down ~3.5% YTD. Global GDP growth still expected at ~3%, and employment remains steady. Experts recommend diversification across asset classes and regions — disciplined investors will fare better than reactive ones.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;CNBC&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;📈 Markets&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Staying the course on long-term investments matters more during volatility. Don't panic-sell on war headlines.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 🏠 REAL ESTATE &amp; HOUSING --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#7dcf5a; margin-bottom:12px; border-bottom:2px solid #2d4a22; padding-bottom:6px;"&gt;🏠 REAL ESTATE &amp;amp; HOUSING&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.realestatenews.com/2026/04/02/housing-market-in-a-holding-pattern-as-rates-hit-7-month-high" style="color:#1a1a1a; text-decoration:none;"&gt;Housing Market in "Holding Pattern" as Rates Hit 7-Month High&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Mortgage applications are stalling as weekly average rates hit 6.46% after five weeks of increases. Rising energy prices from the Iran war are pushing up Treasury yields, which lenders use to price home loans. The rate trajectory has reversed from earlier optimism.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Real Estate News&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏠 Real Estate&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Higher rates = fewer homebuyers = potentially fewer remodel-before-sale projects. But rate lock-in effect keeps existing homeowners in place, which can drive renovation demand.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://wtop.com/real-estate/2026/04/housing-market-trends-favor-home-shoppers-but-iran-war-clouds-the-outlook-for-mortgage-rates/" style="color:#1a1a1a; text-decoration:none;"&gt;💡 More Buyer-Friendly Market Emerging Despite Rate Headwinds&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Buyers who can afford current rates are finding more leverage — properties sitting longer, sellers willing to lower prices or offer concessions. Forecasts still project 30-year rates ending 2026 around 5.9%, down from current highs.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;WTOP News&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏠 Real Estate&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Buyers who purchase now at higher rates will likely renovate sooner — new homeowners are a prime remodeling demographic. CA market context may differ from national.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.nar.realtor/magazine/real-estate-news/how-agents-can-help-pinpoint-the-best-time-to-sell-in-2026" style="color:#1a1a1a; text-decoration:none;"&gt;🎯 April 12–18 Identified as Best Selling Window in 2026&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      NAR identifies next week (April 12–18) as a "Goldilocks" moment when prices, demand, and competition align in sellers' favor. This is the window where listing activity typically spikes.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;NAR&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏠 Real Estate&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Listing spike next week means "get it remodel-ready" urgency for sellers. Good time to follow up with past clients considering selling.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 🏗️ CONSTRUCTION &amp; TRADES --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#c07af0; margin-bottom:12px; border-bottom:2px solid #2a1a3a; padding-bottom:6px;"&gt;🏗️ CONSTRUCTION &amp;amp; TRADES&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://constructioncitizen.com/blog/agcs-data-digest-march-30-april-3-2026/2604031" style="color:#1a1a1a; text-decoration:none;"&gt;Construction Employment Gains 26K in March — But Job Openings Drop 21% YoY&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Construction employment hit 8.33M in March (+26K from Feb, +57K YoY). However, job openings fell to 202,000 — the lowest February level since 2017 — with the openings rate dropping from 3.0% to 2.4%. The labor market is tightening from the demand side, not supply.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;AGC / Construction Citizen&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏗️ Construction&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Fewer job openings could mean projects are slowing in some sectors. Residential remodeling may see less sub competition — good for pricing, concerning for volume.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;!-- SVG: Construction Employment --&gt;
+  &lt;div style="background:#fafafa; border:1px solid #e8e8e8; border-radius:10px; padding:14px; margin-bottom:12px; text-align:center;"&gt;
+    &lt;svg viewBox="0 0 400 130" style="max-width:100%; height:auto;" xmlns="http://www.w3.org/2000/svg"&gt;
+      &lt;rect x="0" y="0" width="400" height="130" rx="8" fill="#fafafa"/&gt;
+      &lt;text x="200" y="18" text-anchor="middle" font-size="11" font-weight="700" fill="#333"&gt;🏗️ Construction Labor: Employment Up, Openings Down&lt;/text&gt;
+      &lt;!-- Left box: Employment --&gt;
+      &lt;rect x="30" y="30" width="160" height="70" rx="6" fill="#e8f5e9" stroke="#7dcf5a" stroke-width="1.5"/&gt;
+      &lt;text x="110" y="52" text-anchor="middle" font-size="10" font-weight="600" fill="#2d4a22"&gt;Employment&lt;/text&gt;
+      &lt;text x="110" y="72" text-anchor="middle" font-size="18" font-weight="700" fill="#2d4a22"&gt;8.33M&lt;/text&gt;
+      &lt;text x="110" y="90" text-anchor="middle" font-size="10" fill="#7dcf5a"&gt;▲ +26K from Feb&lt;/text&gt;
+      &lt;!-- Right box: Openings --&gt;
+      &lt;rect x="210" y="30" width="160" height="70" rx="6" fill="#fce4ec" stroke="#f08080" stroke-width="1.5"/&gt;
+      &lt;text x="290" y="52" text-anchor="middle" font-size="10" font-weight="600" fill="#c0392b"&gt;Job Openings&lt;/text&gt;
+      &lt;text x="290" y="72" text-anchor="middle" font-size="18" font-weight="700" fill="#c0392b"&gt;202K&lt;/text&gt;
+      &lt;text x="290" y="90" text-anchor="middle" font-size="10" fill="#f08080"&gt;▼ -21% YoY&lt;/text&gt;
+      &lt;!-- Arrow between --&gt;
+      &lt;text x="200" y="70" text-anchor="middle" font-size="16" fill="#999"&gt;⟷&lt;/text&gt;
+      &lt;text x="200" y="120" text-anchor="middle" font-size="9" fill="#888"&gt;Source: AGC Data Digest, March 30 – April 3, 2026&lt;/text&gt;
+    &lt;/svg&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://abccarolinas.org/construction-industry-outlook-2026-navigating-resilience-and-uncertainty/" style="color:#1a1a1a; text-decoration:none;"&gt;2026 Outlook: Infrastructure and Data Centers Up, Commercial and Residential Softening&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Growth is uneven: infrastructure, data centers, and industrial facilities are expanding, while traditional commercial and residential construction segments are softening due to financing costs and economic uncertainty. Executive pay increases projected at 4.0% for 2026, down from 4.5% in 2025.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;ABC Carolinas&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏗️ Construction&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Residential softening is the risk to watch. Positioning Insight Remodels for renovation-over-new-build messaging could help — homeowners invest in existing homes when new builds slow.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 💰 PERSONAL FINANCE --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#f0b429; margin-bottom:12px; border-bottom:2px solid #3a2d0a; padding-bottom:6px;"&gt;💰 PERSONAL FINANCE&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.experian.com/blogs/ask-experian/latest-personal-finance-news/" style="color:#1a1a1a; text-decoration:none;"&gt;Fed Cut Rates 75bps in 2025 — But Don't Expect Dramatic Relief in 2026&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      The Federal Reserve cut the federal funds rate in three consecutive meetings in 2025, reducing rates by 75 basis points total. However, with inflation still slightly elevated, further cuts in 2026 are expected to be gradual and measured. Mortgage rates projected to end 2026 around 5.9%.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Experian&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;💰 Finance&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; QB Line of Credit payments are tied to prevailing rates. Gradual relief ahead, but not fast enough to dramatically reduce borrowing costs this quarter.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.fisherinvestments.com/en-us/insights/market-commentary/refresh-your-personal-finances-for-2026" style="color:#1a1a1a; text-decoration:none;"&gt;💡 Diversification Is the Play — Stay Disciplined Through Volatility&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Most investors are favoring defensive strategies due to geopolitical tensions, policy uncertainty, and interest rate trends. Experts across CNBC, Fisher, and Fidelity all converge on the same advice: diversify across asset classes and regions, and stay disciplined rather than reactive.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Fisher Investments / Fidelity&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;💰 Finance&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; War-driven volatility is temporary. Staying invested through the noise historically outperforms trying to time the market.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 🖥️ TECHNOLOGY --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#4fd1c5; margin-bottom:12px; border-bottom:2px solid #0a2a2a; padding-bottom:6px;"&gt;🖥️ TECHNOLOGY (non-AI)&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.drmattlynch.com/innovations-and-challenges-the-state-of-technology-on-april-4-2026/" style="color:#1a1a1a; text-decoration:none;"&gt;⚠️ Cybersecurity Threats Spike Amid Geopolitical Tensions&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      Increased cyberattacks targeting critical infrastructure have been reported as geopolitical tensions rise. Supply chain disruptions from the Iran conflict are affecting availability of essential tech components. Multiple nations are bolstering cybersecurity measures.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Dr. Matt Lynch&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🖥️ Technology&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Small business cybersecurity is a real risk. Good reminder to verify QuickBooks, banking, and email security settings are current.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://coaio.com/news/2026/04/tech-breakthroughs-on-april-2-2026-ai-innovations-moon-missions-and-2l8c/" style="color:#1a1a1a; text-decoration:none;"&gt;🚀 Artemis II Crew Captures Photos of Earth En Route to the Moon&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      NASA's Artemis II crew is sending back stunning photos of Earth as they continue their journey to the moon — the first crewed lunar mission since Apollo 17 in 1972.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Coaio / NPR&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🖥️ Technology&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Good news amid heavy war coverage. A milestone moment in space exploration worth following.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- 🏥 HEALTH &amp; WELLNESS --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="margin-bottom:24px;"&gt;
+  &lt;div style="font-size:16px; font-weight:700; color:#f08080; margin-bottom:12px; border-bottom:2px solid #2a1a1a; padding-bottom:6px;"&gt;🏥 HEALTH &amp;amp; WELLNESS&lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.healthline.com/health-news" style="color:#1a1a1a; text-decoration:none;"&gt;🔥 Women Who Exercise During Midlife Cut Early Death Risk by 50%&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      A major new study shows women who maintain regular exercise during midlife reduce their risk of early death by half. Also: the American Heart Association released updated dietary guidance with 9 key steps to improve cardiovascular health, and new research finds even a few minutes of harder exercise daily may dramatically lower major disease risk.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Healthline / AHA&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏥 Health&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Exercise intensity matters more than duration — a few minutes of harder effort daily has outsized benefits. Consistent with whole-food, active lifestyle priorities.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
+    &lt;div style="font-size:15px; font-weight:700; margin-bottom:6px;"&gt;
+      &lt;a href="https://www.globalwellnesssummit.com/2026trends/" style="color:#1a1a1a; text-decoration:none;"&gt;💡 2026 Wellness Trends: Neurowellness Takes Top Spot&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"&gt;
+      The Global Wellness Summit's top 2026 trends include neurowellness (using technology to regulate the nervous system), longevity focused on women's healthspan, and a societal shift away from alcohol-centered socializing toward connection-driven wellness. April is Stress Awareness Month.
+    &lt;/div&gt;
+    &lt;div style="margin-bottom:8px;"&gt;
+      &lt;span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;"&gt;Global Wellness Summit&lt;/span&gt;
+      &lt;span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;"&gt;🏥 Health&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;"&gt;
+      👉 &lt;strong&gt;Why this matters:&lt;/strong&gt; Neurowellness = nervous system regulation through tech. Interesting contrast with the whole-food, low-tech approach. Worth tracking as wellness design influences home renovation trends (meditation rooms, wellness spaces).
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;!-- INBOX NOTE --&gt;
+&lt;!-- ════════════════════════════════════════ --&gt;
+&lt;div style="background:#fff8e1; border:1px solid #f0b429; border-radius:10px; padding:14px 18px; margin-top:16px; margin-bottom:16px;"&gt;
+  &lt;div style="font-size:14px; font-weight:700; color:#8a6d00; margin-bottom:6px;"&gt;
+    📌 Email Inbox Note
+  &lt;/div&gt;
+  &lt;div style="font-size:12px; color:#555; line-height:1.5;"&gt;
+    No Gmail MCP is connected — this task scanned the &lt;strong&gt;Outlook inbox&lt;/strong&gt; (nd@insightremodels.com / noeldagle@outlook.com) instead. Found &lt;strong&gt;50 emails&lt;/strong&gt;, all transactional: billing statements, payment confirmations, invoices, insurance notices, and receipts. No newsletters or news content to extract. Today's digest was built entirely from web research. To enable email-based digests, a Gmail MCP connector would need to be added.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- FOOTER --&gt;
+&lt;div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;"&gt;
+  Sources: Web research (CNBC, NPR, CNN, Motley Fool, NAR, AGC, Healthline, Global Wellness Summit, and others)&lt;br/&gt;
+  Generated April 4, 2026 by Claude Cowork · General News RSS Feed
+&lt;/div&gt;
+
+&lt;/div&gt;
+    </description>
+    <pubDate>Sat, 04 Apr 2026 09:00:00 -0700</pubDate>
+    <guid isPermaLink="false">general-news-2026-04-04</guid>
+  </item>
+
+</channel>
+</rss>
