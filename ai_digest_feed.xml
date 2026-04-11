@@ -3,10 +3,747 @@
 <channel>
   <title>🤖 AI Daily Digest</title>
   <description>Daily AI intelligence briefing — tools, agents, construction tech, and consulting insights</description>
-  <link>http://feeds.rss:8089/ai_digest_feed.xml</link>
-  <atom:link href="http://feeds.rss:8089/ai_digest_feed.xml" rel="self" type="application/rss+xml"/>
+  <link>https://ndagle73.github.io/fi-feeds/ai_digest_feed.xml</link>
+  <atom:link href="https://ndagle73.github.io/fi-feeds/ai_digest_feed.xml" rel="self" type="application/rss+xml"/>
   <language>en-us</language>
-  <lastBuildDate>Tue, 07 Apr 2026 08:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Sat, 11 Apr 2026 08:00:00 -0700</lastBuildDate>
+
+  <item>
+  <title>🤖 AI Digest — Saturday, April 11, 2026</title>
+  <description><![CDATA[
+<div style="font-family:system-ui,-apple-system,sans-serif; max-width:760px; margin:0 auto; padding:16px; color:#1a1a1a;">
+
+<div style="background:linear-gradient(135deg,#4f9cf9,#7dcf5a); color:#fff; padding:18px 22px; border-radius:12px; margin-bottom:20px;">
+  <div style="font-size:20px; font-weight:800;">🤖 AI Daily Digest</div>
+  <div style="font-size:13px; opacity:0.95; margin-top:4px;">Saturday, April 11, 2026 · Construction AI · Agents · Tools · Consulting</div>
+</div>
+
+<div style="font-size:13px; background:#fff8ee; border-left:4px solid #f0b429; padding:12px 16px; margin-bottom:20px; border-radius:6px;">
+  🔥 <strong>Today's headline:</strong> Anthropic ships Claude "Managed Agents" + Cowork for Enterprise — the pieces you need to actually deploy multi-agent workflows in a business. This is the most operator-relevant release of the week.
+</div>
+
+<h2 style="font-size:15px; letter-spacing:0.5px; color:#555; border-bottom:2px solid #e0e0e0; padding-bottom:6px; margin-top:24px;">🔥 TOP STORIES</h2>
+
+<!-- Claude Managed Agents -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.anthropic.com/engineering/managed-agents" style="color:#1a1a1a; text-decoration:none;">Claude gains "Managed Agents" + new "Advisor" layer</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Anthropic split Claude's execution into a cloud orchestration layer — a separate "brain," tool sandboxing, persistent session state, and event-driven "Monitor" triggers that wake the agent only on specific events (log errors, PR updates) instead of constant polling. A new "Advisor" pattern pairs cheaper Sonnet/Haiku executors with Opus as an on-demand reasoning layer, cutting per-task cost through selective escalation.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AI Breakfast</span>
+    <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+    <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+  </div>
+  <div style="margin-top:12px; text-align:center;">
+    <svg viewBox="0 0 520 160" style="max-width:100%; height:auto; background:#fafafa; border-radius:8px; padding:8px;">
+      <defs><marker id="arr1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#333"/></marker></defs>
+      <rect x="20" y="20" width="140" height="50" rx="10" fill="#eef5ff" stroke="#4f9cf9" stroke-width="2"/>
+      <text x="90" y="50" text-anchor="middle" font-family="system-ui" font-size="13" fill="#333">Monitor (trigger)</text>
+      <line x1="160" y1="45" x2="210" y2="45" stroke="#333" stroke-width="2" marker-end="url(#arr1)"/>
+      <rect x="210" y="20" width="140" height="50" rx="10" fill="#f0fff0" stroke="#7dcf5a" stroke-width="2"/>
+      <text x="280" y="50" text-anchor="middle" font-family="system-ui" font-size="13" fill="#333">Sonnet/Haiku exec</text>
+      <line x1="280" y1="70" x2="280" y2="100" stroke="#333" stroke-width="2" marker-end="url(#arr1)"/>
+      <rect x="210" y="100" width="140" height="45" rx="10" fill="#fff8ee" stroke="#f0b429" stroke-width="2"/>
+      <text x="280" y="127" text-anchor="middle" font-family="system-ui" font-size="12" fill="#333">Opus Advisor (hard call)</text>
+      <line x1="350" y1="45" x2="400" y2="45" stroke="#333" stroke-width="2" marker-end="url(#arr1)"/>
+      <rect x="400" y="20" width="100" height="50" rx="10" fill="#fff0f0" stroke="#f08080" stroke-width="2"/>
+      <text x="450" y="50" text-anchor="middle" font-family="system-ui" font-size="13" fill="#333">Tool / Output</text>
+    </svg>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> This is the architecture you'd teach a remodeling office to use — cheap models handle the routine estimate pulls and status updates, Opus only kicks in when something real needs judgment. That's a consulting framework you can sell.
+  </div>
+</div>
+
+<!-- Claude Cowork GA -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://claude.com/blog/cowork-for-enterprise" style="color:#1a1a1a; text-decoration:none;">Claude Cowork is now generally available on macOS and Windows</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Cowork (the desktop-control agent you're currently using) moved from preview to GA with SCIM role controls, per-team budgets, usage analytics, OpenTelemetry tracing to SIEM tools, Zoom integration, and tighter connector permissions. Enterprise-ready.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AI Breakfast / Anthropic</span>
+    <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">💼 Consulting</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> The tool you use every day is now something you can legitimately recommend to an enterprise GC or commercial client. Budgets + analytics + SIEM make it a sellable fit for a 50-person construction org, not just a solo operator.
+  </div>
+</div>
+
+<!-- Perplexity Plaid -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.perplexity.ai/hub/blog/plaid-integration-provides-full-view-of-personal-finances" style="color:#1a1a1a; text-decoration:none;">Perplexity Computer plugs into bank accounts via Plaid</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Perplexity's agentic "Computer" product now connects checking, credit, loan, and brokerage accounts through Plaid's 12K+ bank network. Users prompt it in plain English to build budgets, net-worth trackers, debt payoff plans. ARR jumped 50% to $450M in March on the back of agentic pivots like this.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">The Rundown AI</span>
+    <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> This is the pattern for job-cost dashboards. Swap Plaid for QuickBooks Online API and you've got a Perplexity-style "ask your books anything" interface for a contractor — no SQL, no BI tool. Worth prototyping.
+  </div>
+</div>
+
+<h2 style="font-size:15px; letter-spacing:0.5px; color:#555; border-bottom:2px solid #e0e0e0; padding-bottom:6px; margin-top:24px;">🤖 AGENT &amp; WORKFLOW UPDATES</h2>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://app.therundown.ai/guides/how-to-automate-your-business-with-custom-notion-agents" style="color:#1a1a1a; text-decoration:none;">How-to: Custom Notion Agents to automate recurring business work</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Concrete walkthrough — build two Notion databases (Tasks + Reports), then spin up a scheduled custom agent with natural-language instructions ("read my last 7 days of email every Monday, extract action items, log to Tasks"). Connect Gmail, save, done. Clone the same pattern for every recurring job.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">The Rundown AI</span>
+    <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">📝 Prompts</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Drop-in framework for a client who already uses Notion: weekly lead follow-up agent, monthly supplier reconciliation agent, daily field-report summarizer. Teach-the-pattern consulting material.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.geekwire.com/2026/amazon-revamps-s3-cloud-storage-for-the-ai-era-removing-a-key-barrier-for-apps-and-agents/" style="color:#1a1a1a; text-decoration:none;">Amazon turns S3 into a filesystem for AI agents</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    S3 now supports filesystem-style read/write so agents can treat cloud storage like local disk. Removes a key friction point for agents that need to persist files across runs.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AI Breakfast</span>
+    <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Photo archives, plan PDFs, job-site docs — agents can now treat shared cloud storage as working memory without ETL plumbing. Relevant for any contractor building a doc-heavy AI workflow.
+  </div>
+</div>
+
+<h2 style="font-size:15px; letter-spacing:0.5px; color:#555; border-bottom:2px solid #e0e0e0; padding-bottom:6px; margin-top:24px;">🔧 NEW TOOLS &amp; MODEL RELEASES</h2>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/" style="color:#1a1a1a; text-decoration:none;">Meta ships Muse Spark — first model from Superintelligence Labs</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Compact, natively multimodal. Tool use, visual chain-of-thought, multi-agent orchestration, "Contemplating Mode" for parallel reasoning. Scores top-five on the Artificial Analysis Intelligence Index — strong in science/math/health/creative, still trails on coding. Already live in Meta AI with an API preview and open-source plans.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AI Breakfast</span>
+    <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Meta is back in the frontier race. For consulting clients already on WhatsApp Business / Instagram, Meta AI integration is about to get a real capability bump — worth flagging to anyone using Meta's business suite.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://x.com/OpenAI/status/2042295688323875316" style="color:#1a1a1a; text-decoration:none;">OpenAI launches $100/mo ChatGPT Pro tier for heavy Codex users</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    New middle tier between $20 Plus and $200 Pro. ~5x Plus usage limits, GPT-5.4 access, built for agentic coding / cloud tasks / code review. Plus plan gets rebalanced for shorter sessions. Directly undercuts comparable plans from Anthropic and Google.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AI Breakfast</span>
+    <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Pricing pressure. When a client asks "which plan?" you now have a clearer mid-market answer — but it only helps if they're actually doing heavy coding work. For ops use cases, Plus is still fine.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/" style="color:#1a1a1a; text-decoration:none;">Gemini now generates live 3D simulations and Notebooks in-chat</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Ask Gemini to "show me" or "visualize" something and it renders a real-time manipulable 3D scene — gravity, velocity, molecular params update on the fly. New Notebooks feature packages chats + files + instructions into persistent projects synced with NotebookLM.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AI Breakfast</span>
+    <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> For client presentations — spatial visualizations of load paths, framing, or HVAC runs are now a chat prompt away. Not production-grade BIM, but a solid explainer tool for non-technical clients.
+  </div>
+</div>
+
+<h2 style="font-size:15px; letter-spacing:0.5px; color:#555; border-bottom:2px solid #e0e0e0; padding-bottom:6px; margin-top:24px;">🏗️ CONSTRUCTION &amp; TRADES USE CASES</h2>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://finance.yahoo.com/sectors/technology/articles/citigroup-says-ai-helps-speed-161132650.html" style="color:#1a1a1a; text-decoration:none;">Citigroup cuts account-opening from 60 min to 15 min with AI</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Not construction directly, but a clean case study. AI-driven doc handling and validation cut a regulated intake process by 75%. Exactly the kind of before/after number that makes a skeptical GC pay attention.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AI Breakfast</span>
+    <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">🏗️ Construction</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Steal this for a pitch deck. Map the pattern onto "new client onboarding" or "permit package prep" — document intake, data extraction, checklist validation. Same playbook, construction vertical.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://siliconangle.com/2026/04/08/regal-ai-launches-copilot-building-self-improving-voice-ai-agents/" style="color:#1a1a1a; text-decoration:none;">Regal Copilot: voice AI agents that learn from real customer calls</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Lets companies build self-improving voice agents trained on their own inbound/outbound call recordings. Handles intake screening, appointment booking, and qualifying questions — and gets better the more calls it processes.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AI Breakfast</span>
+    <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">🏗️ Construction</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Direct fit for a remodeler's lead intake. "Are you the homeowner? Project type? Budget range? Timeline?" — a voice agent that's always on and improves over time. Real consulting offer.
+  </div>
+</div>
+
+<h2 style="font-size:15px; letter-spacing:0.5px; color:#555; border-bottom:2px solid #e0e0e0; padding-bottom:6px; margin-top:24px;">📝 PROMPTS, FRAMEWORKS &amp; CONSULTING</h2>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://the-decoder.com/new-stanford-study-reveals-when-teaming-up-ai-agents-is-worth-the-compute/" style="color:#1a1a1a; text-decoration:none;">Stanford: when multi-agent teams are actually worth the compute cost</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    New study quantifies the tradeoff between single-agent and multi-agent setups. Short version: multi-agent wins for open-ended, exploratory tasks; single-agent wins for well-defined ones. Compute cost often doesn't justify the fancier architecture.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AI Breakfast</span>
+    <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">📝 Prompts</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Useful consulting guardrail. Most SMB workflows (estimate gen, lead intake, weekly reports) are "well-defined" — resist the urge to overbuild with multi-agent architectures when one agent + good prompts is cheaper and more reliable.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.unframe.ai/resources/enterprise-ai-roi" style="color:#1a1a1a; text-decoration:none;">Unframe Enterprise AI ROI 2026 report — 255 leaders surveyed</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Headline stats: 4 in 5 enterprises report productivity gains; ROI drops 25% in stacks with 6+ tools; half of potential value is lost between insight and action. Tool sprawl is a measurable tax.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">The Rundown AI</span>
+    <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">💼 Consulting</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Ammunition for the "consolidate, don't proliferate" pitch. Clients who already use 6+ SaaS apps are the ones losing ROI — a consultant who can design a focused 2–3 tool stack instead of piling on is worth more than one pushing the latest shiny thing.
+  </div>
+</div>
+
+<h2 style="font-size:15px; letter-spacing:0.5px; color:#555; border-bottom:2px solid #e0e0e0; padding-bottom:6px; margin-top:24px;">🐦 FROM THE FEED</h2>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:14px 18px; margin-bottom:10px;">
+  <div style="font-size:13px; color:#555; line-height:1.5;">
+    <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 @karpathy</span>
+    <a href="https://x.com/karpathy/status/2042334451611693415" style="color:#1a1a1a; text-decoration:none; font-weight:600;"> Users underestimate AI by judging it on free-tier models.</a>
+    Andrej's reminder that the gap between GPT-4o-free and the actual frontier is bigger than most people think. Good framing when a skeptical client says "I tried ChatGPT once and it hallucinated."
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:14px 18px; margin-bottom:10px;">
+  <div style="font-size:13px; color:#555; line-height:1.5;">
+    <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 @cursor_ai</span>
+    <a href="https://x.com/cursor_ai/status/2041912812637966552" style="color:#1a1a1a; text-decoration:none; font-weight:600;"> Cursor lets you run agents on any machine and control them from your phone.</a>
+    Remote agent control from mobile. Field-relevant pattern even if Cursor itself is a dev tool.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:14px 18px; margin-bottom:10px;">
+  <div style="font-size:13px; color:#555; line-height:1.5;">
+    <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 @perplexity_ai</span>
+    <a href="https://x.com/perplexity_ai/status/2041929222135173466" style="color:#1a1a1a; text-decoration:none; font-weight:600;"> Perplexity launches "Billion Dollar Build" — 8-week startup competition.</a>
+    Signal that Perplexity is positioning as a platform, not just a search product.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:14px 18px; margin-bottom:10px;">
+  <div style="font-size:13px; color:#555; line-height:1.5;">
+    <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 @anthropic</span>
+    <a href="https://claude.com/blog/the-advisor-strategy" style="color:#1a1a1a; text-decoration:none; font-weight:600;"> The "Advisor strategy" — escalate only when needed.</a>
+    Official writeup of the cheap-executor-plus-Opus-advisor pattern. Worth reading in full.
+  </div>
+</div>
+
+<div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
+  Sources: AI Breakfast · The Rundown AI · The Neuron · Lore Brief · FutureTools (Matt Wolfe) · Superhuman · Anthropic News<br/>
+  X: @karpathy · @cursor_ai · @perplexity_ai · @anthropic · @OpenAI<br/>
+  Generated Saturday, April 11, 2026 by Claude Cowork · AI Daily Digest RSS Feed
+</div>
+
+</div>
+]]></description>
+  <pubDate>Sat, 11 Apr 2026 08:00:00 -0700</pubDate>
+  <guid isPermaLink="false">ai-digest-2026-04-11</guid>
+</item>
+
+  <item>
+    <title>🤖 AI Digest — Wednesday, April 08, 2026</title>
+    <description><![CDATA[
+<div style="font-family:system-ui,-apple-system,BlinkMacSystemFont,sans-serif; max-width:700px; margin:0 auto; color:#1a1a1a; line-height:1.6;">
+
+<!-- ============ 🔥 TOP STORIES ============ -->
+<div style="font-size:22px; font-weight:800; margin:20px 0 14px 0; padding-bottom:8px; border-bottom:3px solid #e74c3c;">🔥 TOP STORIES</div>
+
+<!-- Story 1: Claude Mythos & Project Glasswing -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.anthropic.com/glasswing" style="color:#1a1a1a; text-decoration:none;">🔥 Anthropic Launches Project Glasswing — Claude Mythos "Too Powerful to Release"</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Anthropic unveiled Claude Mythos Preview, a frontier model so capable at cybersecurity that the company won't release it publicly. Mythos autonomously found a 27-year-old OpenBSD vulnerability, a 16-year-old FFmpeg flaw, and chained together Linux kernel exploits overnight — all without human guidance. Instead of a public release, Anthropic launched Project Glasswing: a $100M defensive coalition with AWS, Apple, Google, Microsoft, Nvidia, Cisco, CrowdStrike, and JPMorgan Chase. Benchmarks show massive jumps over Opus 4.6 — SWE-bench Pro at 77.8% vs. 53.4%, CyberGym at 83.1% vs. 66.6%.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Anthropic / Multiple Sources</span>
+    <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+    <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> This is the strongest signal yet that AI capability is outpacing public release timelines. For construction consulting, models at this level will eventually power autonomous code auditing, document analysis, and vulnerability scanning in business software — including the tools your clients use daily.
+  </div>
+  <div style="margin-top:12px; text-align:center;">
+    <svg viewBox="0 0 520 150" style="max-width:100%; height:auto; background:#fafafa; border-radius:8px; padding:8px;">
+      <defs><marker id="arr1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#333"/></marker></defs>
+      <text x="260" y="20" text-anchor="middle" font-family="system-ui" font-size="12" fill="#333" font-weight="bold">Project Glasswing: Controlled Deployment Model</text>
+      <rect x="20" y="50" width="110" height="45" rx="8" fill="#eef5ff" stroke="#4f9cf9" stroke-width="2"/>
+      <text x="75" y="68" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">Claude Mythos</text>
+      <text x="75" y="82" text-anchor="middle" font-family="system-ui" font-size="9" fill="#666">Unreleased Model</text>
+      <line x1="130" y1="72" x2="175" y2="72" stroke="#333" stroke-width="2" marker-end="url(#arr1)"/>
+      <rect x="175" y="50" width="110" height="45" rx="8" fill="#f0fff0" stroke="#7dcf5a" stroke-width="2"/>
+      <text x="230" y="68" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">Glasswing</text>
+      <text x="230" y="82" text-anchor="middle" font-family="system-ui" font-size="9" fill="#666">12 Partners + $100M</text>
+      <line x1="285" y1="72" x2="330" y2="55" stroke="#333" stroke-width="1.5" marker-end="url(#arr1)"/>
+      <line x1="285" y1="72" x2="330" y2="90" stroke="#333" stroke-width="1.5" marker-end="url(#arr1)"/>
+      <rect x="330" y="35" width="100" height="30" rx="6" fill="#fff8ee" stroke="#f0b429" stroke-width="1.5"/>
+      <text x="380" y="55" text-anchor="middle" font-family="system-ui" font-size="10" fill="#333">Vuln Patching</text>
+      <rect x="330" y="80" width="100" height="30" rx="6" fill="#fff0f0" stroke="#f08080" stroke-width="1.5"/>
+      <text x="380" y="100" text-anchor="middle" font-family="system-ui" font-size="10" fill="#333">Safety Testing</text>
+      <line x1="430" y1="55" x2="465" y2="72" stroke="#333" stroke-width="1.5" marker-end="url(#arr1)"/>
+      <line x1="430" y1="95" x2="465" y2="72" stroke="#333" stroke-width="1.5" marker-end="url(#arr1)"/>
+      <text x="490" y="68" text-anchor="middle" font-family="system-ui" font-size="10" fill="#4f9cf9" font-weight="bold">Public</text>
+      <text x="490" y="82" text-anchor="middle" font-family="system-ui" font-size="10" fill="#4f9cf9" font-weight="bold">Release?</text>
+      <text x="260" y="132" text-anchor="middle" font-family="system-ui" font-size="9" fill="#999">Model stays behind closed doors until defenses are ready</text>
+    </svg>
+  </div>
+</div>
+
+<!-- Story 2: Anthropic Revenue + Compute Deal -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.anthropic.com/news/google-broadcom-partnership-compute" style="color:#1a1a1a; text-decoration:none;">Anthropic Locks In 3.5GW Compute, Revenue Triples to $30B Run Rate</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Anthropic signed a multi-gigawatt compute deal with Google and Broadcom — 3.5GW of TPU capacity for 2027. Since January, run-rate revenue tripled from $9B to $30B, and $1M+ enterprise customers doubled to 1,000+. This comes despite the Pentagon labeling Anthropic a supply-chain risk. The growth outpaces OpenAI's most recent $24B ARR figure.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Anthropic / The Rundown AI</span>
+    <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">💼 Consulting</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> The platform you're building on just became the highest-revenue AI company. More compute means better availability for power users. The 1,000+ enterprise customers at $1M+ validates that businesses are investing seriously in Claude — a talking point for your consulting practice.
+  </div>
+</div>
+
+<!-- Story 3: Clicky Viral Launch -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://github.com/farzaa/clicky/releases" style="color:#1a1a1a; text-decoration:none;">Clicky Goes Viral — On-Screen AI Teacher Shows You Where to Click</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    New tool Clicky watches your screen and guides you through unfamiliar software by showing exactly where to click and talking you through it. Uses Claude for reasoning and ElevenLabs for voice. Only views your screen when you press the hotkey. Launch video hit 1M+ views on X.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman AI</span>
+    <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+    <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">💼 Consulting</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> This is exactly the kind of tool that makes AI adoption frictionless for non-technical users. Imagine a contractor learning JobTread or QuickBooks with an AI tutor showing them where to click. Direct use case for your consulting engagements.
+  </div>
+</div>
+
+<!-- Story 4: GLM-5.1 Open Source -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://z.ai/blog/glm-5.1" style="color:#1a1a1a; text-decoration:none;">Z AI's GLM-5.1: Open-Source Model Tops GPT-5.4 and Opus on Coding</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Chinese lab Z AI released GLM-5.1, an open-source coding model that hit 58.4 on SWE-Bench Pro — topping both GPT-5.4 and Opus 4.6. The model can run autonomous coding sessions for up to 8 hours straight, and in tests built a working Linux desktop as a web app without human guidance.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">The Rundown AI</span>
+    <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Open-source models closing the gap with frontier models means more options and lower costs for businesses building AI workflows. Competition drives prices down across the board.
+  </div>
+</div>
+
+<!-- Story 5: Anthropic Cuts Claude from Third-Party Tools -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.bensbites.com/p/no-claude-for-claws" style="color:#1a1a1a; text-decoration:none;">Anthropic Cuts Claude Subscriptions from Third-Party Tools Like OpenClaw</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Anthropic stopped allowing Claude subscription-funded usage in third-party tools like OpenClaw. Users now need separate pay-as-you-go billing or their own API key. Anthropic offered a one-time credit but is clearly steering users toward its own tools: Dispatch, scheduled tasks, projects, and Cowork. The community is confused about where subscriptions work outside the official harness.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Ben's Bites</span>
+    <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Anthropic is consolidating its ecosystem — pushing users toward Cowork and Claude Code. For your consulting practice, this validates recommending the official Anthropic toolchain rather than third-party wrappers.
+  </div>
+</div>
+
+<!-- ============ 🤖 AGENT & WORKFLOW UPDATES ============ -->
+<div style="font-size:22px; font-weight:800; margin:28px 0 14px 0; padding-bottom:8px; border-bottom:3px solid #7dcf5a;">🤖 AGENT &amp; WORKFLOW UPDATES</div>
+
+<!-- Andrej Karpathy Knowledge Base -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.bensbites.com/p/no-claude-for-claws" style="color:#1a1a1a; text-decoration:none;">Andrej Karpathy's New Take on AI Knowledge Bases</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Karpathy proposed a new approach to AI memory: group information topically, then enhance with summaries, backlinks, and wikis. Related: developer Farza built "Farzapedia" — a personal Wikipedia generated from 2,500 diary entries and notes, designed for his AI agents to crawl whenever needed. Both approaches move beyond simple file retrieval toward structured, agent-friendly knowledge systems.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Ben's Bites</span>
+    <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> This is directly relevant to building effective CLAUDE.md files and context docs for your Cowork workflows. Topical grouping with backlinks mirrors how your project context files already work — validates and extends the pattern.
+  </div>
+</div>
+
+<!-- Inbox Zero with Claude Cowork -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://app.therundown.ai/guides/get-to-inbox-zero-with-this-claude-prompt" style="color:#1a1a1a; text-decoration:none;">📝 Guide: Get to Inbox Zero with a Claude Scheduled Task</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    The Rundown published a step-by-step guide for building an email triage workflow in Claude Cowork. The approach: run one manual triage session with Claude reading your Gmail, then have Claude generate a recurring task prompt with your real rules. Set it as a scheduled task so it runs every morning. Pro tip: use Gmail rules around the labels Claude adds for auto-starring and auto-archiving.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">The Rundown AI</span>
+    <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">📝 Prompts</span>
+    <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> You've already built this pattern with your AI Digest and General News feeds. This guide is a ready-made teaching resource for your consulting clients who want to automate email workflows with Claude Cowork.
+  </div>
+</div>
+
+<!-- AI Engineer Europe -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.ai.engineer/europe" style="color:#1a1a1a; text-decoration:none;">AI Engineer Europe Conference Kicks Off Today in London</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Swyx's AI Engineer conference comes to London for the first time (April 8-10). The conference site itself runs an MCP server, letting agents like Claude and Cursor query conference data with tool calls. The AI Engineer event series has grown from 1 event/year to 7+ in 2026.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AI Engineer / swyx</span>
+    <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> The conference website itself being an MCP server is a perfect example of the agent-first web. Watch for recordings — swyx's events consistently surface the most practical agent workflow patterns.
+  </div>
+</div>
+
+<!-- ============ 🔧 NEW TOOLS & MODEL RELEASES ============ -->
+<div style="font-size:22px; font-weight:800; margin:28px 0 14px 0; padding-bottom:8px; border-bottom:3px solid #f0b429;">🔧 NEW TOOLS &amp; MODEL RELEASES</div>
+
+<!-- Google Eloquent -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://ai.google.dev/edge/eloquent" style="color:#1a1a1a; text-decoration:none;">Google Launches Free AI Dictation App "Eloquent" — Offline, No Usage Caps</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Google quietly released AI Edge Eloquent, a free iOS dictation app powered by local Gemma models. It transcribes in real time, strips filler words, and works completely offline with no usage caps. Android and macOS versions planned.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman AI / AI Breakfast</span>
+    <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> A free, offline dictation tool is directly useful for contractors on jobsites. Compare against VoiceInk for your own workflow — and consider recommending it to clients who need voice-to-text without connectivity.
+  </div>
+</div>
+
+<!-- Harrier Embedding Model -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://huggingface.co/microsoft/harrier-oss-v1-27b" style="color:#1a1a1a; text-decoration:none;">Microsoft Open-Sources Harrier — SOTA Embedding Model for Search and RAG</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Microsoft's Bing team open-sourced Harrier, a state-of-the-art embedding model supporting 100+ languages. It powers Bing's AI agent grounding service and is designed for search and retrieval tasks.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">The Rundown AI</span>
+    <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Better embedding models improve RAG and search quality for anyone building AI-powered document retrieval — relevant for construction document management systems.
+  </div>
+</div>
+
+<!-- Ollama v0.19 MLX -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://ollama.com/blog/mlx" style="color:#1a1a1a; text-decoration:none;">Ollama v0.19 Boosts Apple Silicon Performance with MLX Backend</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Ollama's latest release adds Apple's MLX framework as a backend, significantly improving local AI speed on M-series Macs. Better caching and responsiveness specifically tuned for coding workflows.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AI Breakfast</span>
+    <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Running on your M4 Pro, this could make local models significantly faster. Useful for offline AI workflows or when you want to run smaller models locally without burning API credits.
+  </div>
+</div>
+
+<!-- ============ 🏗️ CONSTRUCTION & TRADES ============ -->
+<div style="font-size:22px; font-weight:800; margin:28px 0 14px 0; padding-bottom:8px; border-bottom:3px solid #c07af0;">🏗️ CONSTRUCTION &amp; TRADES USE CASES</div>
+
+<!-- AI Construction Adoption Doubles -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.constructionowners.com/news/construction-ai-adoption-doubles-in-2026-as-smart-tools-transform-jobsites" style="color:#1a1a1a; text-decoration:none;">🏗️ Construction AI Adoption Doubles — 38% Report Measurable Impact</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    According to ServiceTitan's 2026 report, 38% of contractors now report measurable business impact from AI, up from 17% one year ago. AI-powered takeoff software reduces takeoff time by 70-80%. McKinsey research shows AI-driven cost estimation can cut project overruns by up to 15%. The biggest barriers aren't cost — they're complexity, culture, and connection.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">ConstructionOwners / Bluebeam</span>
+    <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">🏗️ Construction</span>
+    <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">💼 Consulting</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> The adoption data is your consulting pitch in a single stat: 38% of contractors see measurable AI impact, but "complexity, culture, and connection" are the barriers. That's exactly what a hands-on AI consultant solves. The 70-80% takeoff time reduction is the headline number for estimating-focused conversations.
+  </div>
+  <div style="margin-top:12px; text-align:center;">
+    <svg viewBox="0 0 500 140" style="max-width:100%; height:auto; background:#fafafa; border-radius:8px; padding:8px;">
+      <text x="250" y="18" text-anchor="middle" font-family="system-ui" font-size="12" fill="#333" font-weight="bold">AI Adoption: Contractors Reporting Measurable Impact</text>
+      <rect x="80" y="40" width="85" height="70" rx="6" fill="#e0d4f5" stroke="#c07af0" stroke-width="1.5"/>
+      <text x="122" y="80" text-anchor="middle" font-family="system-ui" font-size="22" fill="#7b3fa0" font-weight="bold">17%</text>
+      <text x="122" y="120" text-anchor="middle" font-family="system-ui" font-size="10" fill="#666">2025</text>
+      <text x="230" y="75" text-anchor="middle" font-family="system-ui" font-size="20" fill="#333">→</text>
+      <rect x="310" y="30" width="110" height="80" rx="6" fill="#c07af0" stroke="#7b3fa0" stroke-width="2"/>
+      <text x="365" y="75" text-anchor="middle" font-family="system-ui" font-size="26" fill="white" font-weight="bold">38%</text>
+      <text x="365" y="120" text-anchor="middle" font-family="system-ui" font-size="10" fill="#666">2026</text>
+    </svg>
+  </div>
+</div>
+
+<!-- AI Estimating Guide -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://handoff.ai/blog/ai-estimating-software-the-ultimate-guide-for-contractors-2026/" style="color:#1a1a1a; text-decoration:none;">AI Estimating Software: 2026 Buyer's Guide for Contractors</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Handoff.ai published a comprehensive buyer's guide comparing AI estimating tools for contractors in 2026. Upcoming trends include predictive bidding (AI recommending optimal markups based on market data), voice-to-estimate technology, and real-time supplier pricing integration.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Handoff.ai</span>
+    <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">🏗️ Construction</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Voice-to-estimate and predictive bidding are the next wave of construction AI tools. Bookmark this guide for client conversations about upgrading their estimating workflow.
+  </div>
+</div>
+
+<!-- ============ 📝 PROMPTS & CONSULTING ============ -->
+<div style="font-size:22px; font-weight:800; margin:28px 0 14px 0; padding-bottom:8px; border-bottom:3px solid #4fd1c5;">📝 PROMPTS, FRAMEWORKS &amp; CONSULTING</div>
+
+<!-- Anti-AI Consumer Trend -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.superhuman.ai/p/anthropic-announces-new-claude-mythos-model" style="color:#1a1a1a; text-decoration:none;">Half of Consumers Prefer Brands That Don't Use AI in Ads</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Gartner found that 50% of US consumers would rather buy from brands that avoid generative AI in customer-facing content. Companies like Aerie, Equinox, and Polaroid are turning "anti-AI" into a marketing strategy. The key insight: it's about transparency, not avoidance. Using AI for backgrounds? Only 4% care. AI voice chatting with customers? 96% want disclosure. Rule of thumb: don't pretend a machine is a human.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman AI / Gartner</span>
+    <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">💼 Consulting</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Critical consulting insight for your clients: use AI to improve operations (estimating, scheduling, coordination), but be transparent with customers. AI behind the scenes for efficiency is fine — pretending AI-generated client communications are human-written is not.
+  </div>
+</div>
+
+<!-- SaaS Won't Survive -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://aibreakfast.beehiiv.com/p/claude-mythos-the-ai-model-too-powerful-to-release" style="color:#1a1a1a; text-decoration:none;">💡 "Traditional SaaS Won't Survive the AI Agent Revolution"</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    AI Breakfast editor Jeff observes that people are building spec-specific tools to replace paid software. The argument: if you can generate exactly the tool you need from your own data on demand, why pay for rigid software? "SaaS depends on user interfaces, but an Agent just needs your data and your intent."
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">AI Breakfast</span>
+    <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">💼 Consulting</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> This frames the value proposition for your AI consulting practice. Contractors paying for rigid SaaS tools when an agent could generate the exact report or workflow they need on demand. The future isn't "which software" — it's "which agent."
+  </div>
+</div>
+
+<!-- Viral Claude Setup Post -->
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://x.com/rubenhassid/status/2039310366958891221" style="color:#1a1a1a; text-decoration:none;">📝 Viral Essay: "Set Up Claude the Right Way" (2.2M Views)</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    A viral post on X walking through how to properly configure Claude with system prompts and project instructions hit 2.2M views. The approach aligns with CLAUDE.md-style setup — defining rules, context, and behavior once so you stop re-prompting every conversation.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman AI / X</span>
+    <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">📝 Prompts</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> You've already built exactly this system. Worth checking the post for any tips you haven't incorporated — and it validates the CLAUDE.md approach you use for every project.
+  </div>
+</div>
+
+<!-- ============ 🐦 FROM THE FEED ============ -->
+<div style="font-size:22px; font-weight:800; margin:28px 0 14px 0; padding-bottom:8px; border-bottom:3px solid #7eb8f7;">🐦 FROM THE FEED (X/Twitter)</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://x.com/alexalbert__/status/2041579938537775160" style="color:#1a1a1a; text-decoration:none;">🐦 Alex Albert: Claude Mythos vs Opus 4.6 benchmark comparison (1.5M views)</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Anthropic's Alex Albert shared a side-by-side benchmark comparison showing Mythos Preview's improvements across coding, reasoning, and cybersecurity evaluations.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 X/Twitter</span>
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://x.com/pitdesi/status/2041309257719849420" style="color:#1a1a1a; text-decoration:none;">🐦 Viral Chart: Anthropic's Revenue Explosion Since 2025</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    A widely shared chart showing Anthropic's revenue trajectory from $1B to $30B ARR in about 15 months — one of the fastest revenue ramps in tech history.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 X/Twitter</span>
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://x.com/birdabo/status/2041161295169552465" style="color:#1a1a1a; text-decoration:none;">🐦 Viral: "Highly Unethical" Way to Make Claude Work Faster (13M views)</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    A post showing an unconventional technique to speed up Claude's output went mega-viral with 13M views and 23K bookmarks. Superhuman AI flagged it as "super effective, yet highly unethical."
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 X/Twitter</span>
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://x.com/bcherny/status/2041605852382351666" style="color:#1a1a1a; text-decoration:none;">🐦 Boris Cherny (Claude Code Creator): Mythos "Should Feel Terrifying"</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    The creator of Claude Code said Mythos "should feel terrifying" and praised Anthropic for previewing it responsibly with cyber defenders rather than releasing it into the wild.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 X/Twitter</span>
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">@anthropic ecosystem</span>
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://x.com/rsarver/status/2041148425366843500" style="color:#1a1a1a; text-decoration:none;">🐦 VC Ryan Sarver: "AI Chief of Staff Outperforms Any Human I've Hired"</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Venture capitalist Ryan Sarver claimed his AI chief of staff outperforms any human assistant he's previously hired — a strong signal of how agents are replacing traditional support roles.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 X/Twitter</span>
+  </div>
+</div>
+
+<!-- ============ 🎬 VIDEOS ============ -->
+<div style="font-size:22px; font-weight:800; margin:28px 0 14px 0; padding-bottom:8px; border-bottom:3px solid #f5a623;">🎬 VIDEOS WORTH WATCHING</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px; display:flex; gap:14px; align-items:flex-start;">
+  <div style="width:120px; min-width:120px; height:68px; background:#e0e0e0; border-radius:6px; display:flex; align-items:center; justify-content:center; font-size:24px;">▶️</div>
+  <div>
+    <div style="font-size:14px; font-weight:700; margin-bottom:4px;">
+      <a href="https://www.youtube.com/watch?v=INGOC6-LLv0" style="color:#1a1a1a; text-decoration:none;">Project Glasswing &amp; Claude Mythos — Official Anthropic Video</a>
+    </div>
+    <div style="font-size:12px; color:#555; margin-bottom:8px;">Anthropic's official video explaining Project Glasswing, Mythos capabilities, and the defensive security coalition.</div>
+    <div>
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Anthropic</span>
+      <a href="https://www.youtube.com/watch?v=INGOC6-LLv0" style="font-size:11px; font-weight:600; color:#4f9cf9; background:#eef5ff; padding:2px 10px; border-radius:4px; text-decoration:none;">Watch →</a>
+    </div>
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px; display:flex; gap:14px; align-items:flex-start;">
+  <div style="width:120px; min-width:120px; height:68px; background:#e0e0e0; border-radius:6px; display:flex; align-items:center; justify-content:center; font-size:24px;">▶️</div>
+  <div>
+    <div style="font-size:14px; font-weight:700; margin-bottom:4px;">
+      <a href="https://x.com/FarzaTV/status/2041314633978659092" style="color:#1a1a1a; text-decoration:none;">Clicky: AI On-Screen Teacher Launch Demo (1M+ views)</a>
+    </div>
+    <div style="font-size:12px; color:#555; margin-bottom:8px;">Viral demo of the Clicky tool showing how AI can guide users through any software by highlighting exactly where to click.</div>
+    <div>
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">FarzaTV / X</span>
+      <a href="https://x.com/FarzaTV/status/2041314633978659092" style="font-size:11px; font-weight:600; color:#4f9cf9; background:#eef5ff; padding:2px 10px; border-radius:4px; text-decoration:none;">Watch →</a>
+    </div>
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px; display:flex; gap:14px; align-items:flex-start;">
+  <div style="width:120px; min-width:120px; height:68px; background:#e0e0e0; border-radius:6px; display:flex; align-items:center; justify-content:center; font-size:24px;">▶️</div>
+  <div>
+    <div style="font-size:14px; font-weight:700; margin-bottom:4px;">
+      <a href="https://www.youtube.com/watch?v=C0gErQtnNFE" style="color:#1a1a1a; text-decoration:none;">Demis Hassabis: The Hardest Problem AI Ever Solved &amp; The Future of DeepMind</a>
+    </div>
+    <div style="font-size:12px; color:#555; margin-bottom:8px;">DeepMind CEO discusses AI's biggest breakthroughs and what's next for frontier AI research.</div>
+    <div>
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">YouTube</span>
+      <a href="https://www.youtube.com/watch?v=C0gErQtnNFE" style="font-size:11px; font-weight:600; color:#4f9cf9; background:#eef5ff; padding:2px 10px; border-radius:4px; text-decoration:none;">Watch →</a>
+    </div>
+  </div>
+</div>
+
+<!-- ============ FOOTER ============ -->
+<div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
+  Sources: The Rundown AI · The Neuron · Ben's Bites · AI Breakfast · Anthropic News · Superhuman AI · PulseMCP<br/>
+  X: @alexalbert__ · @bcherny · @pitdesi · @birdabo · @rsarver · @rubenhassid · @FarzaTV<br/>
+  Video: YouTube — Anthropic · FarzaTV · DeepMind<br/>
+  Generated April 8, 2026 by Claude Cowork · AI Daily Digest RSS Feed
+</div>
+
+</div>
+    ]]></description>
+    <pubDate>Wed, 08 Apr 2026 08:00:00 -0700</pubDate>
+    <guid isPermaLink="false">ai-digest-2026-04-08</guid>
+  </item>
 
   <item>
     <title>🤖 AI Digest — Tuesday, April 07, 2026</title>
@@ -1650,6 +2387,5 @@
     <pubDate>Sat, 04 Apr 2026 08:00:00 -0700</pubDate>
     <guid isPermaLink="false">ai-digest-2026-04-04</guid>
   </item>
-
 </channel>
 </rss>

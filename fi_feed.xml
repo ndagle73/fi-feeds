@@ -3,12 +3,246 @@
 <channel>
   <title>📊 Financial Intelligence Daily</title>
   <description>Daily financial intelligence snapshot — markets, crypto, macro, construction, housing, jobs, and portfolio</description>
-  <link>http://feeds.rss:8089/fi_feed.xml</link>
-  <atom:link href="http://feeds.rss:8089/fi_feed.xml" rel="self" type="application/rss+xml"/>
+  <link>https://ndagle73.github.io/fi-feeds/fi_feed.xml</link>
+  <atom:link href="https://ndagle73.github.io/fi-feeds/fi_feed.xml" rel="self" type="application/rss+xml"/>
   <language>en-us</language>
-  <lastBuildDate>Tue, 07 Apr 2026 07:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Apr 2026 07:00:00 GMT</lastBuildDate>
 
   <item>
+    <title>📊 Open Financial Intelligence Dashboard</title>
+    <description><![CDATA[
+    <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px;">
+      <div style="font-size:15px; font-weight:700; margin-bottom:8px;">
+        <a href="https://ndagle73.github.io/fi-feeds/FinancialIntelDashboard.html" style="color:#1a1a1a; text-decoration:none;">📊 Financial Intelligence Dashboard</a>
+      </div>
+      <div style="font-size:13px; color:#555; line-height:1.5; margin-bottom:10px;">
+        Interactive charts and analysis — markets, crypto, housing, jobs, construction costs, credit stress, and macro regime scoring. Updated daily by the Nightly Consolidator.
+      </div>
+      <div>
+        <a href="https://ndagle73.github.io/fi-feeds/FinancialIntelDashboard.html" style="font-size:13px; font-weight:600; color:#4f9cf9; background:#eef5ff; padding:6px 14px; border-radius:6px; text-decoration:none;">Open Dashboard →</a>
+      </div>
+    </div>
+    ]]></description>
+    <pubDate>Sat, 11 Apr 2026 07:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://ndagle73.github.io/fi-feeds/FinancialIntelDashboard.html</guid>
+  </item>
+
+  <item>
+  <title>📊 Financial Intelligence — Saturday, April 11, 2026</title>
+  <description><![CDATA[<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#1e3a5f; color:#4f9cf9; padding:3px 10px; border-radius:4px; font-size:13px;">📈 MARKETS &amp; RISK</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Daily · as of Apr 11, 2026</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    ✅ <b>Regime: Neutral</b> — Fear &amp; Greed at 50 (Neutral). Markets closed for weekend; equity, rates, and commodity fields not refreshed.<br/><br/>
+    Most recent weekday close (Apr 8): S&amp;P futures −0.97% | DXY 98.76 | 10Y 4.31% | VIX 23 | HY spreads widening | WTI $96.48 | Gold $4,667<br/><br/>
+    💡 <b>Sentiment shift:</b> Fear &amp; Greed climbed from 23 (Extreme Fear, Apr 8) to 50 (Neutral, Apr 11) over the week — meaningful risk sentiment improvement despite weekend data gaps.<br/><br/>
+    👉 <b>Watch Monday open</b> for confirmation of the neutral regime — regime label shifted from Risk-On (Apr 8) to Neutral (Apr 11).
+  </div>
+</div><div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#3a2d0a; color:#f0b429; padding:3px 10px; border-radius:4px; font-size:13px;">₿ CRYPTO &amp; DIGITAL ASSETS</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Daily · as of Apr 11, 2026 | Weekly deep-dive: Apr 6</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    BTC: $73,072 (+1.4% 24h) | Dominance: 57.2% | Fear &amp; Greed: 50 (Neutral)<br/>
+    EOD reference (Apr 7): $68,965 | Structure: Neutral<br/><br/>
+    ✅ <b>BTC broke above $73K</b> — up from $71.5K mid-week and $68.9K EOD Apr 7. Clean break of the $69K–$70K resistance zone that was pressuring price earlier in the week.<br/><br/>
+    💡 <b>Weekly deep-dive (Apr 6):</b> BTC/IGV correlation at 0.73 — still trading as software proxy. On-chain phase: <b>Accumulation</b> (LTH control ~80% of supply, exchange reserves at 6-year lows ~2.1M BTC). Stablecoin market cap hit record $317B with $1.36B weekly inflows.<br/><br/>
+    ✅ <b>Structural:</b> Mastercard acquiring BVNK for up to $1.8B — legacy networks treating stablecoin rails as core infrastructure.
+  </div>
+</div><div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#2d4a22; color:#7dcf5a; padding:3px 10px; border-radius:4px; font-size:13px;">🏠 HOUSING &amp; REAL ESTATE</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Local: when new data | National: Monthly (1st) · as of Apr 1, 2026</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    <b>Local (Hollister/San Benito):</b> Median $748,584 | Active listings: 154 | Months supply: 1.52 | Price cuts: 47%<br/>
+    No new local data this cycle — Hollister remains balanced, median down 5% YoY.<br/><br/>
+    <b>National (Apr 1 release):</b><br/>
+    Existing sales: 4.09M | New home sales: 587K | Starts: 1,487K | Permits: 1,376K<br/>
+    NAR median: $398,000 | Case-Shiller YoY: +1.2%<br/>
+    30Y mortgage: 6.38% | MBA Refi Index: 1,341 | NAHB HMI: 38<br/><br/>
+    ⚠️ <b>NAHB HMI at 38</b> — builder sentiment deeply pessimistic. Combined with 47% local price cuts, signals buyer hesitancy despite mortgage rates easing from 7%+ peaks.
+  </div>
+</div><div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#0a2a2a; color:#4fd1c5; padding:3px 10px; border-radius:4px; font-size:13px;">💼 JOBS &amp; LABOR</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Monthly (1st) · as of Apr 1, 2026</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    🔥 <b>NFP: −92K</b> — first negative headline print. Prior month revised down −17K.<br/><br/>
+    U-3: 4.4% | LFPR: 62.0% | Avg hourly earnings YoY: +1.4%<br/>
+    JOLTS openings: 6.9M | Quit rate: 1.9% | ADP private: +62K<br/>
+    Initial claims (4-wk avg): 210K | Continuing claims: 1,819K<br/>
+    Construction payrolls: +30K | CA unemployment: 5.1%<br/><br/>
+    ⚠️ <b>Critical signal:</b> Negative NFP combined with rising U-3 and falling LFPR — labor market weakening across multiple indicators. Construction payrolls (+30K) remain a bright spot but may lag the broader trend.
+  </div>
+</div><div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#2a1a3a; color:#c07af0; padding:3px 10px; border-radius:4px; font-size:13px;">🏗️ CONSTRUCTION &amp; REMODELING</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Weekly (Fridays) · as of Apr 3, 2026 ⚠️ stale</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    <table style="width:100%; font-size:12px; border-collapse:collapse; margin-bottom:8px;">
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>Lumber</b></td><td style="padding:4px;">$596/MBF</td></tr>
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>Copper</b></td><td style="padding:4px;">$6.06/lb</td></tr>
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>Steel HRC</b></td><td style="padding:4px;">$975/ton</td></tr>
+    </table>
+    RMI: 64 | ABI: 49.4 | Backlog: 8.1 months | Permits: 1,376K<br/>
+    National construction spending: $2,190B<br/><br/>
+    Cost environment: <b>Inflating</b><br/><br/>
+    ⚠️ <b>ABI below 50</b> (49.4) signals contraction in architecture billings — a leading indicator for construction activity 9–12 months ahead. Copper elevated at $6.06/lb. Data is 8 days old — Task 6 has not produced a fresh Apr 10 reading.
+  </div>
+</div><div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#444; color:#999; padding:3px 10px; border-radius:4px; font-size:13px;">📊 MACRO REGIME &amp; SCORECARD</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Weekly (Mondays) · as of Apr 6, 2026</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    <table style="width:100%; font-size:12px; border-collapse:collapse; margin-bottom:8px;">
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>Yield Curve 2s10s</b></td><td style="padding:4px;">+0.52%</td><td style="padding:4px;">✅ Supportive</td></tr>
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>Credit Spreads</b></td><td style="padding:4px;">Widening (~316 bps)</td><td style="padding:4px;">⚠️ Headwind</td></tr>
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>ISM PMI</b></td><td style="padding:4px;">52.7</td><td style="padding:4px;">✅ Supportive</td></tr>
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>Fed Path</b></td><td style="padding:4px;">0 cuts priced</td><td style="padding:4px;">⚠️ Headwind</td></tr>
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>DXY Trend</b></td><td style="padding:4px;">Up (safe-haven bid)</td><td style="padding:4px;">⚠️ Headwind</td></tr>
+    </table>
+    Regime: <b>Neutral</b> (tilting Risk-Off)<br/><br/>
+    Sector rotation: Leading — XLE, XLU, XLI | Lagging — XLK, XLC, XLY (stagflation-lite)<br/>
+    Construction payrolls: +26K (March, rebounding from weather declines)<br/><br/>
+    💡 <b>Watch:</b> Fed path fully unwound 2026 cuts on Iran/oil shock. If conflict premium fades, rate-cut expectations could re-emerge — bullish for BTC and duration.
+  </div>
+</div><div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#2a1a1a; color:#f08080; padding:3px 10px; border-radius:4px; font-size:13px;">💰 PORTFOLIO &amp; EARNINGS</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Monthly (1st) · as of Apr 1, 2026</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    S&amp;P EPS beat rate: 75% | Blended EPS growth: +13.0%<br/><br/>
+    🔥 <b>Portfolio alerts:</b> IBRX crashed 26% on FDA Anktiva warning. XRPC down 41% on XRP collapse. APP and AVGO both pulled back 15%+ from highs.<br/><br/>
+    ⚠️ <b>Key risks:</b> TSMC capacity constraints threatening AI chip supply. IBRX regulatory/litigation risk unresolved. Crypto altcoin exposure (XRPC) deteriorating.<br/><br/>
+    👉 <b>Watch:</b> Earnings season kicking off — 75% beat rate solid but concentrated in defensives. Growth/tech under pressure from rate repricing.
+  </div>
+</div><div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
+  📊 Financial Intelligence Daily Snapshot<br/>
+  Dashboard: <a href="https://ndagle73.github.io/fi-feeds/FinancialIntelDashboard.html" style="color:#4f9cf9;">Open Interactive Dashboard</a><br/>
+  Generated Saturday, April 11, 2026 by Claude Cowork · Nightly Consolidator
+</div>]]></description>
+  <pubDate>Sat, 11 Apr 2026 07:00:00 GMT</pubDate>
+  <guid isPermaLink="false">fi-daily-2026-04-11</guid>
+  </item>
+
+<item>
+  <title>📊 Financial Intelligence — Wednesday, April 8, 2026</title>
+  <description><![CDATA[<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#1e3a5f; color:#4f9cf9; padding:3px 10px; border-radius:4px; font-size:13px;">📈 MARKETS &amp; RISK</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Daily · as of Apr 8, 2026</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    ⚠️ <b>Risk-On regime</b> but Fear &amp; Greed at 23 (Extreme Fear) — mixed signals. S&amp;P futures down 0.97% suggest caution despite regime label.<br/><br/>
+S&amp;P Futures: −0.97% | DXY: 98.76 (↓ trending down) | 10Y: 4.31% | VIX: 23 | HY Spreads: Widening<br/>
+WTI Oil: $96.48 | Gold: $4,667<br/><br/>
+🔥 <b>Alert tickers:</b> BTC, NEM, FETH, XRPC<br/>
+Sectors: XLE leading, XLK lagging — energy continues to dominate while tech struggles in risk-off rotation.<br/><br/>
+💡 <b>BTC EOD:</b> $68,965 — Testing $69K–$70K resistance zone. Dominance at 56.8%.<br/><br/>
+💡 <b>Macro voices:</b> Visser remains bullish on physical AI and PMI-driven industrial cycle for 2026. No material new posts from Pomp in past 24 hours.
+  </div>
+</div><div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#3a2d0a; color:#f0b429; padding:3px 10px; border-radius:4px; font-size:13px;">₿ CRYPTO &amp; DIGITAL ASSETS</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Daily | Weekly deep-dive updates Mondays · as of Apr 8, 2026</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    BTC: $71,547 (+4.1% 24h) | EOD: $68,965 | Dominance: 56.8%<br/>
+Fear &amp; Greed: 23 (Extreme Fear)<br/><br/>
+🔥 <b>Testing $69K–$70K resistance zone</b> — key technical level. Daily price ($71.5K) diverging from EOD ($69K) suggests intraday volatility.<br/><br/>
+💡 <b>Weekly deep-dive (Apr 6):</b> BTC/IGV correlation at 0.73 — still trading as software proxy. On-chain phase: <b>Accumulation</b>. LTH control 80% of supply, exchange reserves at 6-year lows (~2.1M BTC). Stablecoin market cap hit $317B record high with $1.36B weekly inflows.<br/><br/>
+✅ <b>Structural signal:</b> Mastercard acquiring BVNK for up to $1.8B to bridge stablecoin rails with traditional payments — legacy networks now treating stablecoins as core infrastructure.
+  </div>
+</div><div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#2d4a22; color:#7dcf5a; padding:3px 10px; border-radius:4px; font-size:13px;">🏠 HOUSING &amp; REAL ESTATE</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Local: when new data | National: Monthly (1st) · as of Apr 1, 2026</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    <b>Local (Hollister/San Benito):</b> Median $748,584 | Active listings: 154 | Months supply: 1.52 | Price cuts: 47%<br/>
+No new local data since last report — Hollister median $750K, down 5% YoY, balanced market.<br/><br/>
+    <b>National (Apr 1 release):</b><br/>
+Existing sales: 4.09M | New home sales: 587K | Starts: 1,487K | Permits: 1,376K<br/>
+NAR median price: $398,000 | Case-Shiller YoY: +1.2%<br/>
+30Y mortgage rate: 6.38% | MBA Refi Index: 1,341 | NAHB HMI: 38<br/><br/>
+⚠️ <b>NAHB HMI at 38</b> — builder sentiment deeply pessimistic. Combined with 47% price cuts locally, signals significant buyer hesitancy despite rates easing from 7%+ peaks.
+  </div>
+</div><div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#0a2a2a; color:#4fd1c5; padding:3px 10px; border-radius:4px; font-size:13px;">💼 JOBS &amp; LABOR</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Monthly (1st) | Claims: weekly when flagged · as of Apr 1, 2026</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    🔥 <b>NFP: −92K</b> — first negative headline payrolls print. Prior month revised down −17K. Labor market deteriorating rapidly.<br/><br/>
+U-3: 4.4% | LFPR: 62.0% | Avg hourly earnings YoY: +1.4%<br/>
+JOLTS openings: 6.9M | Quit rate: 1.9% | ADP private: +62K<br/>
+Initial claims (4-wk avg): 210K | Continuing claims: 1,819K<br/><br/>
+Construction payrolls: +30K | CA unemployment: 5.1%<br/><br/>
+⚠️ <b>Critical signal:</b> Negative NFP combined with rising U-3 (4.4%) and falling LFPR (62.0%) — the labor market is weakening across multiple indicators. Construction payrolls (+30K) remain a bright spot but may lag the broader trend.
+  </div>
+</div><div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#2a1a3a; color:#c07af0; padding:3px 10px; border-radius:4px; font-size:13px;">🏗️ CONSTRUCTION &amp; REMODELING</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Weekly (Fridays) · as of Apr 3, 2026</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    <table style="width:100%; font-size:12px; border-collapse:collapse; margin-bottom:8px;">
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>Lumber</b></td><td style="padding:4px;">$596/MBF</td></tr>
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>Copper</b></td><td style="padding:4px;">$6.06/lb</td></tr>
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>Steel HRC</b></td><td style="padding:4px;">$975/ton</td></tr>
+    </table>
+    RMI: 64 | ABI: 49.4 | Backlog: 8.1 months | Permits: 1,376K<br/>
+National construction spending: $2,190B<br/><br/>
+Cost environment: <b>Inflating</b><br/><br/>
+⚠️ <b>ABI below 50</b> (49.4) signals contraction in architecture billings — a leading indicator for construction activity 9-12 months ahead. Copper at $6.06/lb remains elevated. Cost environment inflating despite some lumber relief from peak.
+  </div>
+</div><div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#444; color:#999; padding:3px 10px; border-radius:4px; font-size:13px;">📊 MACRO REGIME &amp; SCORECARD</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Weekly (Mondays) · as of Apr 6, 2026</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    <table style="width:100%; font-size:12px; border-collapse:collapse; margin-bottom:8px;">
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>Yield Curve 2s10s</b></td><td style="padding:4px;">+0.52%</td><td style="padding:4px;">✅ Supportive</td></tr>
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>Credit Spreads</b></td><td style="padding:4px;">Widening (~316 bps)</td><td style="padding:4px;">⚠️ Headwind</td></tr>
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>ISM PMI</b></td><td style="padding:4px;">52.7</td><td style="padding:4px;">✅ Supportive</td></tr>
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>Fed Path</b></td><td style="padding:4px;">0 cuts priced</td><td style="padding:4px;">⚠️ Headwind</td></tr>
+      <tr style="border-bottom:1px solid #ddd;"><td style="padding:4px;"><b>DXY Trend</b></td><td style="padding:4px;">Up (safe-haven bid)</td><td style="padding:4px;">⚠️ Headwind</td></tr>
+    </table>
+    Regime: <b>Neutral</b> (tilting Risk-Off)<br/><br/>
+Sector rotation: Leading — XLE, XLU, XLI | Lagging — XLK, XLC, XLY (stagflation-lite positioning)<br/>
+Construction payrolls: +26K (March, rebounding from weather declines)<br/><br/>
+🔥 <b>Key change:</b> Fed path shifted from Supportive → Headwind (3 cuts → 0 cuts priced). Iran/oil shock driving inflation re-acceleration and hawkish repricing.
+  </div>
+</div><div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+    <span style="background:#2a1a1a; color:#f08080; padding:3px 10px; border-radius:4px; font-size:13px;">💰 PORTFOLIO &amp; EARNINGS</span>
+    <span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Monthly (1st) · as of Apr 1, 2026</span>
+  </div>
+  <div style="font-size:13px; color:#555; line-height:1.6;">
+    S&amp;P EPS beat rate: 75% | Blended EPS growth: +13.0%<br/><br/>
+    🔥 <b>Portfolio alerts:</b> IBRX crashed 26% on FDA Anktiva warning. XRPC down 41% on XRP price collapse. APP and AVGO both pulled back 15%+ from highs.<br/><br/>
+    ⚠️ <b>Key risks:</b> TSMC capacity constraints threatening AI chip supply. IBRX regulatory/litigation risk unresolved. Crypto altcoin exposure (XRPC) deteriorating.<br/><br/>
+    👉 <b>Watch:</b> Earnings season kicking off — 75% beat rate is solid but concentrated in defensives. Growth/tech names under pressure from rate repricing.
+  </div>
+</div><div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
+  📊 Financial Intelligence Daily Snapshot<br/>
+  Dashboard: <a href="https://ndagle73.github.io/fi-feeds/FinancialIntelDashboard.html" style="color:#4f9cf9;">Open Interactive Dashboard</a><br/>
+  Generated April 8, 2026 by Claude Cowork · Nightly Consolidator
+</div>]]></description>
+  <pubDate>Wed, 08 Apr 2026 07:00:00 GMT</pubDate>
+  <guid isPermaLink="false">fi-daily-2026-04-08</guid>
+  </item>
+
+<item>
   <title>📊 Financial Intelligence — Tuesday, April 7, 2026</title>
   <description><![CDATA[<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
   <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
@@ -117,7 +351,8 @@ Construction payrolls: +26K in March.
   <pubDate>Tue, 07 Apr 2026 07:00:00 +0000</pubDate>
   <guid isPermaLink="false">fi-daily-2026-04-07</guid>
 </item>
-  <item>
+
+<item>
   <title>📊 Financial Intelligence — Monday, April 6, 2026</title>
   <description><![CDATA[<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
   <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
@@ -225,7 +460,8 @@ Construction payrolls: +26K in March, rebounding from weather declines.
   <pubDate>Mon, 06 Apr 2026 07:00:00 -0000</pubDate>
   <guid isPermaLink="false">fi-daily-2026-04-06</guid>
 </item>
-  <item>
+
+<item>
   <title>📊 Financial Intelligence — Sunday, April 5, 2026</title>
   <description><![CDATA[<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
   <div style="font-size:15px; font-weight:700; margin-bottom:10px;">
@@ -324,7 +560,8 @@ Sector rotation: Leading XLE, XLF / Lagging XLU, XLRE, XLP<br/>
   <pubDate>Sun, 05 Apr 2026 07:00:00 -0000</pubDate>
   <guid isPermaLink="false">fi-daily-2026-04-05</guid>
 </item>
-  <item>
+
+<item>
   <title>📊 Financial Intelligence — Saturday, April 04, 2026</title>
   <description>
 &lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
