@@ -6,266 +6,256 @@
   <link>https://ndagle73.github.io/fi-feeds/general_news_feed.xml</link>
   <atom:link href="https://ndagle73.github.io/fi-feeds/general_news_feed.xml" rel="self" type="application/rss+xml"/>
   <language>en-us</language>
-  <lastBuildDate>Thu, 16 Apr 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 16 Apr 2026 09:12:00 -0700</lastBuildDate>
 
   <item>
-    <title>📰 General News — Thursday, April 16, 2026</title>
+    <title>📰 General News — Wednesday, April 16, 2026</title>
     <description><![CDATA[
-<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; max-width:700px; margin:0 auto; color:#1a1a1a; line-height:1.6;">
+<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; max-width:700px; margin:0 auto; background:#fff; padding:20px;">
 
-<!-- HEADER -->
-<div style="background:linear-gradient(135deg,#1a1a2e,#16213e); color:#fff; padding:20px 24px; border-radius:12px; margin-bottom:20px;">
-  <div style="font-size:22px; font-weight:700;">📰 General News Daily</div>
-  <div style="font-size:13px; color:#aaa; margin-top:4px;">Thursday, April 16, 2026</div>
+<div style="text-align:center; margin-bottom:24px;">
+  <div style="font-size:28px; font-weight:800; color:#1a1a1a;">📰 General News Daily</div>
+  <div style="font-size:13px; color:#888; margin-top:4px;">Wednesday, April 16, 2026</div>
 </div>
 
-<!-- 📈 MARKETS & ECONOMY -->
-<div style="margin-bottom:24px;">
-<div style="font-size:16px; font-weight:700; color:#4f9cf9; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #4f9cf9;">📈 MARKETS &amp; ECONOMY</div>
+<div style="margin-bottom:28px;">
+  <div style="font-size:16px; font-weight:800; color:#1e3a5f; border-bottom:3px solid #4f9cf9; padding-bottom:6px; margin-bottom:14px;">
+    <span style="background:#1e3a5f; color:#4f9cf9; padding:3px 10px; border-radius:4px; font-size:12px; font-weight:700; margin-right:8px;">📈 MARKETS &amp; ECONOMY</span>
+  </div>
 
-<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-    🔥 Markets Resume Record-Setting Run on Middle East Peace Hopes
+  <div style="background:#f0f4ff; border:1px solid #c8d8f0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:10px; color:#1a1a1a;">🔥 Market Midday Snapshot — April 16, 2026</div>
+    <div style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:10px;">
+      <div style="background:#fff; border:1px solid #dde; border-radius:6px; padding:8px 12px; flex:1; min-width:140px;">
+        <div style="font-size:11px; color:#888; font-weight:600;">DJIA</div>
+        <div style="font-size:16px; font-weight:700; color:#1a1a1a;">48,564.73</div>
+        <div style="font-size:12px; color:#2ecc71; font-weight:600;">▲ +0.21%</div>
+      </div>
+      <div style="background:#fff; border:1px solid #dde; border-radius:6px; padding:8px 12px; flex:1; min-width:140px;">
+        <div style="font-size:11px; color:#888; font-weight:600;">S&amp;P 500</div>
+        <div style="font-size:16px; font-weight:700; color:#1a1a1a;">7,047.45</div>
+        <div style="font-size:12px; color:#2ecc71; font-weight:600;">▲ +0.35%</div>
+      </div>
+      <div style="background:#fff; border:1px solid #dde; border-radius:6px; padding:8px 12px; flex:1; min-width:140px;">
+        <div style="font-size:11px; color:#888; font-weight:600;">NASDAQ</div>
+        <div style="font-size:16px; font-weight:700; color:#1a1a1a;">24,130.03</div>
+        <div style="font-size:12px; color:#2ecc71; font-weight:600;">▲ +0.48%</div>
+      </div>
+    </div>
+    <div style="font-size:13px; color:#555; line-height:1.5;">
+      Markets edged higher at midday with hopes for Middle East peace nudging futures up pre-bell. The S&amp;P 500 continues its rally after smashing records yesterday on a $45 billion CTA wave that ignited a short squeeze.
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:10px;">
+      👉 <strong>Why this matters:</strong> Broad market resilience despite tariff uncertainty — watch for sector rotation as earnings season picks up.
+    </div>
   </div>
-  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-    U.S. equity futures edged higher pre-bell Thursday as optimism around a potential Middle East ceasefire lifted sentiment. The DJIA sits at 48,463.72, S&amp;P 500 at 7,022.95, NASDAQ at 24,016.02, and Russell 3000 at 3,994.41. Global stocks are returning to record-setting territory after a six-week roundtrip that saw sharp swings from tariff uncertainty.
-  </div>
-  <div style="margin-bottom:8px;">
-    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity / Reuters</span>
-    <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
-  </div>
-  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-    👉 <strong>Why this matters:</strong> Record-level indices mean portfolio values are near highs — good time to review allocation and rebalancing targets.
-  </div>
-</div>
 
-<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-    ✅ Weekly Jobless Claims Decline — Labor Market Holds Steady
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">TSMC Q1 Earnings &amp; Guidance Top Estimates — But Shares Fall 2.5%</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">Taiwan Semiconductor reported Q1 results that beat analyst expectations on both earnings and revenue. Forward guidance also came in above consensus. Despite the strong numbers, shares dropped 2.52% to $365.66 as investors took profits. Strong ASML and TSMC forecasts together signal the semiconductor spending boom remains intact.</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters / MT Newswires via Fidelity</span>
+      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      💡 <strong>Why this matters:</strong> TSM is on the watchlist — strong fundamentals vs. profit-taking after run-up. Analyst consensus remains Neutral (6.2).
+    </div>
   </div>
-  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-    U.S. weekly initial jobless claims fell, reinforcing the picture of a stable labor market despite broader economic uncertainty. The data suggests employers are holding onto workers even as tariff policy shifts rattle supply chains.
-  </div>
-  <div style="margin-bottom:8px;">
-    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters via Fidelity</span>
-    <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
-  </div>
-  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-    👉 <strong>Why this matters:</strong> Stable employment is a leading indicator for construction demand — homeowners and businesses are more likely to invest in remodels when jobs feel secure.
-  </div>
-</div>
 
-<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-    💡 TSMC Q1 Earnings Rise, Q2 Outlook Strong — AI Spending Boom Intact
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Meta +0.72% — Raymond James Raises Price Target to $825</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">Raymond James adjusted its price target on Meta Platforms to $825 from $800, maintaining a Strong Buy rating. Shares traded at $676.40. Separately, Meta announced it will raise Quest VR headset prices in the US citing rising component costs. Analyst consensus: Neutral (3.5).</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">MT Newswires / Reuters via Fidelity</span>
+      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> META on the watchlist — analyst bullishness vs. neutral consensus creates a divergence worth watching.
+    </div>
   </div>
-  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-    Taiwan Semiconductor (TSM) reported rising Q1 revenue and earnings, with a strong Q2 sales outlook. Combined with ASML's robust forecast, the data signals enterprise AI infrastructure spending remains on a steep upward trajectory. TSM holds a Neutral analyst score (6.2-6.4).
-  </div>
-  <div style="margin-bottom:8px;">
-    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">MT Newswires / Reuters via Fidelity</span>
-    <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
-  </div>
-  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-    👉 <strong>Why this matters:</strong> Semiconductor strength is a bellwether for tech capex — sustained spending means the broader economic engine driving employment and construction demand stays hot.
-  </div>
-</div>
 
-<!-- SVG: Market Snapshot -->
-<div style="background:#fafafa; border:1px solid #e0e0e0; border-radius:10px; padding:16px; margin-bottom:12px; text-align:center;">
-<svg viewBox="0 0 600 180" style="max-width:100%; height:auto;" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="180" rx="8" fill="#fafafa" stroke="#ddd" stroke-width="1"/>
-  <text x="300" y="22" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#333">📊 Market Snapshot — Apr 16, 2026 Pre-Market</text>
-  <!-- DJIA -->
-  <rect x="20" y="40" width="130" height="55" rx="6" fill="#1e3a5f" stroke="#4f9cf9" stroke-width="1.5"/>
-  <text x="85" y="60" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#4f9cf9">DJIA</text>
-  <text x="85" y="82" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="#fff">48,463.72</text>
-  <!-- S&P 500 -->
-  <rect x="165" y="40" width="130" height="55" rx="6" fill="#1e3a5f" stroke="#4f9cf9" stroke-width="1.5"/>
-  <text x="230" y="60" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#4f9cf9">S&amp;P 500</text>
-  <text x="230" y="82" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="#fff">7,022.95</text>
-  <!-- NASDAQ -->
-  <rect x="310" y="40" width="130" height="55" rx="6" fill="#1e3a5f" stroke="#4f9cf9" stroke-width="1.5"/>
-  <text x="375" y="60" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#4f9cf9">NASDAQ</text>
-  <text x="375" y="82" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="#fff">24,016.02</text>
-  <!-- Russell -->
-  <rect x="455" y="40" width="130" height="55" rx="6" fill="#1e3a5f" stroke="#4f9cf9" stroke-width="1.5"/>
-  <text x="520" y="60" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#4f9cf9">Russell 3000</text>
-  <text x="520" y="82" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="#fff">3,994.41</text>
-  <!-- Sentiment bar -->
-  <text x="20" y="120" font-family="system-ui,sans-serif" font-size="11" font-weight="600" fill="#333">Analyst Sentiment (Fidelity Equity Summary Scores):</text>
-  <rect x="20" y="130" width="80" height="20" rx="4" fill="#2d4a22"/><text x="60" y="144" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" font-weight="600" fill="#7dcf5a">NVDA 9.3 ▲</text>
-  <rect x="108" y="130" width="75" height="20" rx="4" fill="#2d4a22"/><text x="145" y="144" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" font-weight="600" fill="#7dcf5a">AMD 8.4 ▲</text>
-  <rect x="191" y="130" width="75" height="20" rx="4" fill="#2d4a22"/><text x="228" y="144" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" font-weight="600" fill="#7dcf5a">APO 8.3 ▲</text>
-  <rect x="274" y="130" width="70" height="20" rx="4" fill="#444"/><text x="309" y="144" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" font-weight="600" fill="#ccc">TSM 6.2</text>
-  <rect x="352" y="130" width="72" height="20" rx="4" fill="#444"/><text x="388" y="144" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" font-weight="600" fill="#ccc">META 3.5</text>
-  <rect x="432" y="130" width="72" height="20" rx="4" fill="#3a1a1a"/><text x="468" y="144" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" font-weight="600" fill="#f08080">PLTR 2.2 ▼</text>
-  <rect x="512" y="130" width="72" height="20" rx="4" fill="#3a1a1a"/><text x="548" y="144" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" font-weight="600" fill="#f08080">TSLA 0.7 ▼</text>
-  <text x="300" y="170" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#999">Source: Thomson Reuters StarMine via Fidelity</text>
-</svg>
-</div>
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">⚠️ Tesla -0.53% — Cybertruck Sales Boosted by Musk-Owned Firms</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">Tesla shares dipped to $389.89 amid reports that Cybertruck sales have been significantly boosted by purchases from Musk-owned companies. Analyst sentiment remains Very Bearish (0.7) with 3 Sell, 1 Underperform, and 3 Neutral ratings among independent research providers.</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">MT Newswires via Fidelity</span>
+      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      ⚠️ <strong>Why this matters:</strong> TSLA on the watchlist — Very Bearish analyst consensus is the weakest of the tracked names. Self-purchases inflate delivery numbers.
+    </div>
+  </div>
 
-<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-    🔥 Allbirds Stock Pops 600-700% After Renaming to "NewBird AI" and Pivoting to GPU Clouds
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Earnings Roundup: Travelers, BNY, PepsiCo Beat; QuidelOrtho Crashes 20%</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;"><strong>Travelers</strong> — Profit rose on stronger underwriting results and lower catastrophe losses. <strong>BNY</strong> — Earnings beat driven by strong fee revenue and interest income growth. <strong>PepsiCo</strong> — Shares rose following Q1 earnings report. <strong>QuidelOrtho (QDEL)</strong> — Crashed 20% in after-hours trading Wednesday.</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters / Benzinga via Fidelity</span>
+      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      💡 <strong>Why this matters:</strong> Insurance profitability up + lower catastrophe losses is good context for construction-adjacent industries. Financial sector earnings beating expectations.
+    </div>
   </div>
-  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-    Allbirds, the eco-conscious wool sneaker brand, sold its shoe business to American Exchange Group for $39M in March and is pivoting the remaining public shell into a GPU-as-a-Service provider under the name "NewBird AI." The stock exploded 600-700% in a single morning on the announcement of a $50M convertible financing facility to buy GPUs and resell compute. The irony: Allbirds is a Certified B Corp with environmental conservation in its charter, now pivoting into one of the most energy-intensive industries. Recalls Long Blockchain Corp's 2017 rename — which ended in SEC fraud charges and Nasdaq delisting within 18 months.
-  </div>
-  <div style="margin-bottom:8px;">
-    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">CNN / The Neuron / Reuters</span>
-    <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
-  </div>
-  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-    👉 <strong>Why this matters:</strong> When a sneaker brand can 7x its market cap by uttering "GPU-as-a-Service," the market is pricing assets on AI exposure, not fundamentals. Classic speculative mania signal — stay skeptical of companies pivoting to the hot narrative.
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Apollo, Ares &amp; Sixth Street in Talks to Fund NBA European League</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">Private equity giants Ares, Apollo Global Management, and Sixth Street are in early-stage discussions to help finance the NBA's planned European league expansion. Apollo (APO) holds a Bullish analyst rating of 8.3.</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">MT Newswires via Fidelity</span>
+      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      💡 <strong>Why this matters:</strong> APO is on the watchlist (Bullish 8.3). PE firms expanding into sports infrastructure signals confidence in alternative assets.
+    </div>
   </div>
 </div>
 
-<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-    ⚠️ QuidelOrtho (QDEL) Drops 20% After-Hours
+<div style="margin-bottom:28px;">
+  <div style="font-size:16px; font-weight:800; color:#3a2d0a; border-bottom:3px solid #f0b429; padding-bottom:6px; margin-bottom:14px;">
+    <span style="background:#3a2d0a; color:#f0b429; padding:3px 10px; border-radius:4px; font-size:12px; font-weight:700; margin-right:8px;">💰 PERSONAL FINANCE</span>
   </div>
-  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-    QuidelOrtho shares plunged 20% in after-hours trading Wednesday. The diagnostics company's sharp selloff signals potential earnings or guidance disappointment, though full details are still emerging.
-  </div>
-  <div style="margin-bottom:8px;">
-    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Benzinga via Fidelity</span>
-    <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
-  </div>
-  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-    👉 <strong>Why this matters:</strong> A 20% after-hours drop in a healthcare name is a reminder to watch positions closely around earnings season — sudden moves can hit portfolios hard.
-  </div>
-</div>
-</div>
 
-<!-- 💰 PERSONAL FINANCE -->
-<div style="margin-bottom:24px;">
-<div style="font-size:16px; font-weight:700; color:#f0b429; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #f0b429;">💰 PERSONAL FINANCE</div>
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">5 Ways to Be a Tax-Smart Investor</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">Fidelity Wealth Management's weekly edition covers strategies to address future tax needs now — including tax-loss harvesting, asset location across account types, and Roth conversion timing. The issue also covers retiring in a volatile market (lifetime income strategies), insurance coverage review (disability, life, umbrella, LTC), and assisting kids with real estate purchases under current gifting rules.</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Wealth Management</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Tax-smart investing applies directly to business owner retirement planning. Real estate gifting rules relevant for family wealth transfer.
+    </div>
+  </div>
 
-<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-    💡 Analyst Price Target Moves: AMD Raised to $265, META Raised to $825
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Retiring in a Volatile Market — Lifetime Income Strategies</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">Fidelity emphasizes that having reliable lifetime income to cover essential living expenses can alleviate concerns during market turbulence. The piece focuses on building income floors — guaranteed income streams that don't depend on market performance.</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Wealth Management</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      💡 <strong>Why this matters:</strong> Business owners have less pension safety net — income floor strategies are especially relevant for self-employed retirement planning.
+    </div>
   </div>
-  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-    Bernstein raised its price target on AMD to $265 from $235 while maintaining a Market Perform rating. Raymond James raised META to $825 from $800 with a Strong Buy maintained. NVIDIA holds a Very Bullish 9.3 analyst score. Meanwhile, Tesla remains the most bearish-rated name in the watchlist at 0.7 (Very Bearish) with 3 Sell ratings and 0 Buys — and Cybertruck sales are reportedly being boosted by purchases from Musk-owned firms.
-  </div>
-  <div style="margin-bottom:8px;">
-    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">MT Newswires / Benzinga via Fidelity</span>
-    <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-  </div>
-  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-    👉 <strong>Why this matters:</strong> PT raises on AMD and META suggest analysts see more room to run. The TSLA bearish consensus and Cybertruck self-dealing report are worth watching if you hold the position.
-  </div>
-</div>
 
-<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-    💡 Circle CEO Flags "Tremendous Opportunity" for Yuan Stablecoin
-  </div>
-  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-    Circle Internet Group (CRCL) CEO highlighted a massive opportunity in creating a yuan-denominated stablecoin. The move would expand digital dollar alternatives and could reshape cross-border payment flows, particularly for trade with China.
-  </div>
-  <div style="margin-bottom:8px;">
-    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Benzinga via Fidelity</span>
-    <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-  </div>
-  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-    👉 <strong>Why this matters:</strong> Stablecoin expansion into yuan markets could shift how international trade settlement works — relevant for material sourcing from Asian suppliers.
-  </div>
-</div>
-</div>
-
-<!-- 📰 GENERAL INTEREST -->
-<div style="margin-bottom:24px;">
-<div style="font-size:16px; font-weight:700; color:#999; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #999;">📰 GENERAL INTEREST</div>
-
-<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-    ⚠️ Federal Judge Rules AI Chats Have No Attorney-Client Privilege
-  </div>
-  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-    A federal judge in the Southern District of New York ruled in <em>US v. Heppner</em> that conversations with AI chatbots carry no attorney-client privilege. The ruling prompted nationwide warnings from lawyers to stop treating chatbots like trusted legal confidants when freedom or liability is on the line.
-  </div>
-  <div style="margin-bottom:8px;">
-    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters</span>
-    <span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
-  </div>
-  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-    👉 <strong>Why this matters:</strong> If you've ever asked an AI chatbot for legal advice about a business dispute or contract, this ruling means those conversations could be discoverable in court. Keep sensitive legal questions for your actual attorney.
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">📌 Webinar: Fidelity Estate Planning Q&amp;A — April 22</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">Fidelity is hosting an "Ask Fidelity Anything" session on estate planning, covering trusts, taxes, wills, executors, and trustees. Live event on April 22, 2026.</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Wealth Management</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      🛠️ <strong>Action item:</strong> Estate planning session next week — relevant for business succession and asset protection.
+    </div>
   </div>
 </div>
 
-<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-    Travelers Profit Rises on Stronger Underwriting, Lower Cat Losses
+<div style="margin-bottom:28px;">
+  <div style="font-size:16px; font-weight:800; color:#444; border-bottom:3px solid #999; padding-bottom:6px; margin-bottom:14px;">
+    <span style="background:#444; color:#ccc; padding:3px 10px; border-radius:4px; font-size:12px; font-weight:700; margin-right:8px;">📰 GENERAL INTEREST</span>
   </div>
-  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-    Travelers Companies reported higher profit driven by improved underwriting results and lower catastrophe losses. BNY also reported profit growth on strong fee and interest income. The insurance/financial sector earnings paint a picture of stabilizing risk conditions.
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Navigating a New Geopolitical Landscape — Middle East Peace Hopes</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">Geopolitical tensions have increased short-term market volatility, but emerging hopes for Middle East peace nudged US equity futures higher pre-bell. Fidelity's analysis focuses on what recent tensions mean for the months ahead and how to position portfolios through uncertainty.</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity / MT Newswires</span>
+      <span style="font-size:11px; background:#444; color:#ccc; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      💡 <strong>Why this matters:</strong> Geopolitical stability affects material supply chains and construction costs — peace signals are positive for the industry.
+    </div>
   </div>
-  <div style="margin-bottom:8px;">
-    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters via Fidelity</span>
-    <span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">U.S. Lawmakers Scale Back Bill Targeting Chinese Chipmaking</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">Congressional lawmakers are pulling back on the scope of legislation aimed at restricting Chinese semiconductor manufacturing. The scaled-down bill suggests a more targeted approach to tech competition rather than broad restrictions.</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters via Fidelity</span>
+      <span style="font-size:11px; background:#444; color:#ccc; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      💡 <strong>Why this matters:</strong> Trade policy shifts affect material costs and tech supply chains — less restrictive posture may ease component pricing pressure.
+    </div>
   </div>
-  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-    👉 <strong>Why this matters:</strong> Lower catastrophe losses and stronger underwriting = potentially more stable insurance costs for construction projects and business coverage.
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Boeing Unveils Satellite Platform, Targets 26 Deliveries in 2026</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">Boeing announced a new satellite platform and set an ambitious target of 26 deliveries for 2026, signaling confidence in its space and defense segment recovery.</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters via Fidelity</span>
+      <span style="font-size:11px; background:#444; color:#ccc; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Kering CEO Pledges to Double Profit Margins and Revive Gucci</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">The luxury conglomerate's CEO outlined an aggressive turnaround plan, targeting doubled profit margins with a focus on revitalizing the Gucci brand, which has struggled with declining sales.</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters via Fidelity</span>
+      <span style="font-size:11px; background:#444; color:#ccc; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Circle CEO Flags 'Tremendous Opportunity' for Yuan Stablecoin</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">Circle Internet Group's CEO highlighted a significant opportunity in yuan-denominated stablecoins, pointing to growing demand for digital currency infrastructure in global trade. Circle (CRCL) recently went public and is on the watchlist.</div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Benzinga via Fidelity</span>
+      <span style="font-size:11px; background:#444; color:#ccc; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> CRCL is on the watchlist — stablecoin expansion into yuan is a significant geopolitical and financial play.
+    </div>
   </div>
 </div>
 
-<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-    Kering CEO Pledges to Double Profit Margins and Revive Gucci
-  </div>
-  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-    Kering's CEO committed to doubling profit margins and reviving the Gucci brand, signaling a major strategic reset at the luxury conglomerate. Meanwhile, Mercedes investors warned that the automaker's luxury focus could hamper its China recovery amid shifting consumer preferences.
-  </div>
-  <div style="margin-bottom:8px;">
-    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters via Fidelity</span>
-    <span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
-  </div>
-  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-    👉 <strong>Why this matters:</strong> Luxury brands struggling in China signals broader consumer spending headwinds in the world's second-largest economy — relevant for global material cost trends.
+<div style="background:#fff3f3; border:1px solid #f08080; border-radius:10px; padding:14px 18px; margin-top:16px;">
+  <div style="font-size:14px; font-weight:700; color:#c0392b; margin-bottom:6px;">⚠️ Unclaimed Emails in Inbox (AI Content — Left for AI Digest)</div>
+  <div style="font-size:12px; color:#555; line-height:1.5;">
+    The following emails are AI-focused newsletters skipped by General News. They should be claimed by the AI Daily Digest on its next run:
+    <ul style="margin:8px 0 0 0; padding-left:20px;">
+      <li><strong>ben's bites</strong> — "My cheatsheet for a clean context" — Apr 16, 1:20 PM UTC</li>
+      <li><strong>Superhuman (Zain Kahn)</strong> — "🖥️ Gemini gets a Mac app" — Apr 16, 1:05 PM UTC</li>
+      <li><strong>The Neuron</strong> — "😺 Allbirds is launching GPShoes" — Apr 16, 11:07 AM UTC</li>
+      <li><strong>The Rundown AI</strong> — "🤯 Allbirds ditches sneakers for AI compute pivot" — Apr 16, 10:06 AM UTC</li>
+      <li><strong>FutureTools</strong> — "Zuck's AI twin 👯" — Apr 15, 4:03 PM UTC</li>
+    </ul>
   </div>
 </div>
 
-<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-    Apollo, Ares, Sixth Street in Talks to Fund NBA European League
-  </div>
-  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-    Private equity heavyweights Apollo, Ares, and Sixth Street are in early talks to help fund an NBA European league expansion. The move reflects growing PE appetite for sports assets and international media rights.
-  </div>
-  <div style="margin-bottom:8px;">
-    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">MT Newswires via Fidelity</span>
-    <span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
-  </div>
-  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-    👉 <strong>Why this matters:</strong> PE firms pouring into sports = new stadium and arena construction opportunities. Worth watching for commercial remodeling demand signals.
-  </div>
+<div style="margin-top:20px; text-align:center;">
+  <svg width="100%" height="160" viewBox="0 0 600 160" xmlns="http://www.w3.org/2000/svg" style="max-width:600px;">
+    <rect width="600" height="160" rx="10" fill="#fafafa" stroke="#e0e0e0" stroke-width="1"/>
+    <text x="300" y="22" text-anchor="middle" font-size="12" font-weight="700" fill="#333" font-family="system-ui">📈 Watchlist Snapshot — Apr 16 Midday</text>
+    <rect x="50" y="38" width="120" height="24" rx="4" fill="#4f9cf9" stroke="#3a7cc8" stroke-width="1.5"/>
+    <text x="110" y="54" text-anchor="middle" font-size="11" font-weight="600" fill="#fff" font-family="system-ui">META +0.72%</text>
+    <text x="185" y="54" font-size="10" fill="#555" font-family="system-ui">$676.40 · Neutral 3.5</text>
+    <rect x="50" y="68" width="80" height="24" rx="4" fill="#f08080" stroke="#c06060" stroke-width="1.5"/>
+    <text x="90" y="84" text-anchor="middle" font-size="11" font-weight="600" fill="#fff" font-family="system-ui">TSM -2.52%</text>
+    <text x="145" y="84" font-size="10" fill="#555" font-family="system-ui">$365.66 · Neutral 6.2</text>
+    <rect x="50" y="98" width="90" height="24" rx="4" fill="#f08080" stroke="#c06060" stroke-width="1.5"/>
+    <text x="95" y="114" text-anchor="middle" font-size="11" font-weight="600" fill="#fff" font-family="system-ui">TSLA -0.53%</text>
+    <text x="155" y="114" font-size="10" fill="#555" font-family="system-ui">$389.89 · V. Bearish 0.7</text>
+    <rect x="350" y="38" width="120" height="24" rx="4" fill="#7dcf5a" stroke="#5aaf3a" stroke-width="1.5"/>
+    <text x="410" y="54" text-anchor="middle" font-size="11" font-weight="600" fill="#fff" font-family="system-ui">APO Bullish</text>
+    <text x="485" y="54" font-size="10" fill="#555" font-family="system-ui">$120.54 · Score 8.3</text>
+    <rect x="350" y="68" width="100" height="24" rx="4" fill="#999" stroke="#777" stroke-width="1.5"/>
+    <text x="400" y="84" text-anchor="middle" font-size="11" font-weight="600" fill="#fff" font-family="system-ui">CRCL Unrated</text>
+    <text x="465" y="84" font-size="10" fill="#555" font-family="system-ui">$105.52</text>
+  </svg>
 </div>
 
-<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-    France's Macron Tells Teenagers to Switch Off and Read
-  </div>
-  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-    French President Macron urged teenagers to put down their phones and pick up books, part of a broader European push to address screen time and digital wellness among young people.
-  </div>
-  <div style="margin-bottom:8px;">
-    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters via Fidelity</span>
-    <span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
-  </div>
-</div>
-</div>
-
-<!-- FOOTER -->
 <div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
-  Sources: Gmail inbox newsletters and subscriptions (Fidelity Investments alerts, The Neuron, Reuters)<br/>
-  Emails processed: 50 inbox messages scanned. Fidelity market/company/trading alerts claimed for General News. AI-focused newsletters (ben's bites, Superhuman, The Rundown AI, FutureTools, AI Breakfast, The Neuron) skipped — reserved for AI Daily Digest.<br/>
+  Sources: Gmail inbox newsletters and subscriptions (Fidelity Investments alerts, Fidelity Wealth Management weekly)<br/>
   Generated April 16, 2026 by Claude Cowork · General News RSS Feed
 </div>
 
 </div>
-    ]]></description>
+]]></description>
     <pubDate>Thu, 16 Apr 2026 09:00:00 -0700</pubDate>
     <guid isPermaLink="false">general-news-2026-04-16</guid>
   </item>
