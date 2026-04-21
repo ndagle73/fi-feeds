@@ -6,382 +6,218 @@
   <link>https://ndagle73.github.io/fi-feeds/general_news_feed.xml</link>
   <atom:link href="https://ndagle73.github.io/fi-feeds/general_news_feed.xml" rel="self" type="application/rss+xml"/>
   <language>en-us</language>
-  <lastBuildDate>Mon, 20 Apr 2026 16:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Tue, 21 Apr 2026 16:30:00 -0700</lastBuildDate>
 
   <item>
-    <title>📰 General News — Monday, April 20, 2026</title>
+    <title>📰 General News — Monday, April 21, 2026</title>
     <description><![CDATA[
-<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; max-width:700px; margin:0 auto; background:#1a1a1a; color:#e0e0e0; padding:24px; border-radius:12px;">
+<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; max-width:680px; margin:0 auto; background:#fff; color:#1a1a1a;">
 
-<div style="text-align:center; margin-bottom:24px;">
-  <div style="font-size:28px; font-weight:800; color:#fff;">📰 General News Daily</div>
-  <div style="font-size:14px; color:#999; margin-top:4px;">Monday, April 20, 2026</div>
+<div style="text-align:center; padding:20px 0 16px;">
+  <div style="font-size:28px; font-weight:800; letter-spacing:-0.5px;">📰 General News Daily</div>
+  <div style="font-size:13px; color:#888; margin-top:4px;">Monday, April 21, 2026</div>
 </div>
 
-<!-- ============ MARKETS & ECONOMY ============ -->
-<div style="margin-bottom:24px;">
-  <div style="font-size:16px; font-weight:700; color:#4f9cf9; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #4f9cf9;">📈 MARKETS &amp; ECONOMY</div>
+<!-- ═══════════════ 📈 MARKETS & ECONOMY ═══════════════ -->
+<div style="margin-bottom:20px;">
+  <div style="font-size:14px; font-weight:800; text-transform:uppercase; letter-spacing:1px; padding:10px 16px; background:#1e3a5f; color:#4f9cf9; border-radius:8px 8px 0 0;">📈 Markets &amp; Economy</div>
 
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">Advance/Decline Stock Indicator — What Breadth Charts Say About Sentiment</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      Fidelity's Active Investor weekly breaks down how the advance/decline breadth chart pattern reflects current investor sentiment. Also featured: how long oil price spikes typically last (average 6 months for world-event-driven surges), solar stock opportunities as energy demand grows, and the Q2 economic outlook after a volatile start to the year.
-    </div>
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:0 0 10px 10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">Markets Holding Up Despite Geopolitical Headwinds</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Despite heightened uncertainty from the Iran conflict, markets and the economy have remained remarkably resilient. Fidelity's Jurrien Timmer notes the US could be on track for double-digit earnings growth this year. International stocks are outpacing US equities in 2026, and Fidelity pros suggest diversifying into real estate stocks, international equities, and commodities.    </div>
     <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Fidelity Active Investor</span>
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Investments</span>
       <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
     </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#1a2a3a; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> Breadth indicators help gauge whether market rallies have wide participation or are driven by just a few stocks — useful for timing investment decisions.
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      💡 <strong>Key insight:</strong> Strong corporate earnings and international outperformance suggest opportunity beyond US large-cap — consider diversification into commodities and real estate sectors.
     </div>
   </div>
 
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">Economy Update: Consumer Sentiment Drops, CPI Rises 3.3%, Jobs Stay Strong</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      University of Michigan consumer sentiment fell to its lowest since December 2025, driven by market volatility and rising gas prices following the Iran conflict. March CPI rose 3.3% year-over-year — a sharp increase but in line with expectations. Bright spot: the March jobs report showed stronger-than-expected job creation and a slight dip in unemployment.
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">Treasury Bonds: Unusual Pattern Creates Entry Points</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Interest rates on bonds have broken their typical pattern — instead of rallying during geopolitical uncertainty, Treasury yields rose and prices fell. Escalating Iran tensions have raised concerns about higher energy prices and inflation, leading investors to demand higher yields even as risk increases. Fidelity pros say the recent yield increase may have created more attractive entry points.
     </div>
     <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Fidelity Viewpoints</span>
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Investments</span>
       <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
     </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#1a2a3a; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> Rising food costs from oil pressure on farmers could hit household budgets. The Fed may hold rates this month given job market uncertainty — affects mortgage rates and borrowing costs.
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      ⚠️ <strong>Why this matters:</strong> Broken bond-market patterns signal unusual macro conditions — higher yields could benefit fixed-income allocations if you're adding bond exposure.
     </div>
   </div>
 
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">New Car Prices Averaging $50K — Up 30% Since Pre-Pandemic</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      New vehicle prices have jumped roughly 30% since pre-pandemic levels, with used cars up over 20% since 2020. Pandemic supply chain issues, increased demand, and inflation on manufacturing, shipping, and raw materials continue to push prices higher. Nearly 1 in 3 car buyers are now underwater on trade-ins.
-    </div>
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">Oil Price Spike: History Says 6 Months on Average</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Fidelity's Active Investor analysis shows that world-event-driven oil price surges historically last about 6 months on average. The advance/decline stock indicator is showing investor sentiment breadth patterns, and solar-related businesses are emerging as a driving force in the global economy amid increasing energy demand.    </div>
     <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Fidelity / CNBC</span>
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Active Investor</span>
       <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
     </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#1a2a3a; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> Vehicle costs for work trucks and fleet vehicles directly impact remodeling business overhead. Keep total monthly vehicle expenses under 15% of after-tax income.
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Rising oil/energy costs directly impact construction material costs and transportation — solar stock opportunities could be worth watching as energy diversification play.
     </div>
   </div>
-</div>
 
-<!-- ============ PERSONAL FINANCE ============ -->
-<div style="margin-bottom:24px;">
-  <div style="font-size:16px; font-weight:700; color:#f0b429; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #f0b429;">💰 PERSONAL FINANCE</div>
-
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">How to Boost Your Social Security Benefits</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      Fidelity Viewpoints explores a surprisingly effective strategy for maximizing Social Security payments. Also covers: stocks' remarkable resilience in volatile markets, retiring in the Sun Belt, long-term care planning, and saving at the gas pump.
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">Economy Update: CPI at 3.3%, Consumer Sentiment Drops</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      The March CPI rose 3.3% year-over-year — a sharp increase from February but in line with expectations. Consumer sentiment fell to its lowest since December 2025, with consumers citing volatile markets and rising gas prices. On the positive side, March jobs came in stronger than expected with unemployment ticking down. Rising food costs expected ahead as oil prices pressure farmers.
     </div>
     <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Fidelity Viewpoints</span>
-      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Investments</span>
+      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
     </div>
-    <div style="font-size:12px; color:#f0b429; background:#2a2508; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> Smart Social Security timing can mean tens of thousands in additional lifetime benefits — relevant for long-term retirement planning.
-    </div>
-  </div>
-
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">5 Ways to Be a Tax-Smart Investor</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      Fidelity Wealth Management covers bond strategies, investment protection amid uncertainty, and tax-efficient investing techniques. Also: managing real estate investment taxes, inheriting assets, and 3 keys to funding a fulfilling retirement.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Fidelity Wealth Management</span>
-      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-    </div>
-    <div style="font-size:12px; color:#f0b429; background:#2a2508; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> Real estate investment tax management is directly relevant for business owners with property holdings. Tax-smart investing preserves more of your returns.
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      🔥 <strong>Critical takeaway:</strong> Rising food and fuel costs will hit remodeling project budgets — material and labor cost pressure likely to continue. Fed expected to hold rates at next meeting.
     </div>
   </div>
 
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">Make Your Money Last in Retirement</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      Fidelity's deep dive into retirement income sustainability: 5 smart money moves to make now, investing in Treasurys and energy, and new IRA rules that could affect your retirement strategy.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Fidelity Viewpoints</span>
-      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-    </div>
-    <div style="font-size:12px; color:#f0b429; background:#2a2508; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> Especially relevant during market volatility — sustainable withdrawal strategies protect your nest egg through downturns.
-    </div>
-  </div>
-
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">Fidelity Webinars: April 21–30 Lineup</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      8 upcoming webinars including: Technical Analysis in Action (3-part series, Apr 23), Managing Dividends &amp; Capital Gains (Apr 21), Market Sense 20-minute briefing (Apr 21), Estate Planning AFA (Apr 22), Following the Fundamentals (Apr 28), Q2 Investment Research Update (Apr 30), and In the Money options trading (Apr 30).
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Fidelity Investments</span>
-      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-    </div>
-    <div style="font-size:12px; color:#f0b429; background:#2a2508; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      💡 <strong>Heads up:</strong> The estate planning AFA on Apr 22 and the Q2 outlook on Apr 30 could be particularly useful for business owner financial planning.
-    </div>
-  </div>
-</div>
-
-<!-- ============ TECHNOLOGY (non-AI) ============ -->
-<div style="margin-bottom:24px;">
-  <div style="font-size:16px; font-weight:700; color:#4fd1c5; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #4fd1c5;">🖥️ TECHNOLOGY</div>
-
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <a href="https://www.superhuman.ai/p/robotics-special-uber-bets-10b-on-a-driverless-future" style="color:#fff; text-decoration:none;">Uber Goes All-In on Robotaxis with $10B War Chest</a>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      Uber has committed over $10B to robotaxi partners including Baidu, Rivian, and Lucid, pivoting from its gig-economy model. Driverless services targeted for 28 cities by 2028. Meanwhile, Toyota's CUE7 basketball robot went viral sinking shots with near-perfect consistency, and a Unitree humanoid robot chasing wild boars in Poland scored the world's first robot brand deal — promoting a diamond-encrusted Rolex.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Superhuman / Reuters</span>
-      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
-    </div>
-    <div style="font-size:12px; color:#4fd1c5; background:#0a2020; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> The robotaxi scaling race is reshaping transportation infrastructure. Also: gig workers earning $25/hr recording themselves doing household chores for robot training data — a fascinating new side-hustle economy.
-    </div>
-  </div>
-
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <a href="https://www.superhuman.ai/p/sunday-special-scientists-build-computer-that-works-without-electricity" style="color:#fff; text-decoration:none;">Scientists Build Spring-Powered Computer That Runs Without Electricity</a>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      Researchers at St. Olaf built a computing system powered entirely by the physical memory of springs and steel — no electricity required. Could prove transformative in harsh environments that destroy traditional hardware, and may eventually power smarter prosthetics and self-monitoring industrial equipment.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Superhuman Sunday Special</span>
-      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
-    </div>
-    <div style="font-size:12px; color:#4fd1c5; background:#0a2020; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      💡 <strong>Why this matters:</strong> Potential applications for construction site monitoring and industrial environments where electronics fail — could matter for future smart building systems.
-    </div>
-  </div>
-
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">Chinese EV Battery Charges 5% to 95% in Nine Minutes</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      Sunwoda unveiled its Xingchi Supercharge Battery 2.0, an LFP pack that reportedly charges from 5% to 95% in just nine minutes. The company is also pushing into sodium-ion batteries for entry-level EVs. If these numbers hold up in real-world conditions, "range anxiety" could become a thing of the past.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Interesting Engineering</span>
-      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
-    </div>
-    <div style="font-size:12px; color:#4fd1c5; background:#0a2020; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> If EV charging becomes as fast as filling a gas tank, the calculus for work vehicle fleet electrification changes dramatically.
-    </div>
-  </div>
-
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">🏆 Waymo Hits 500K Paid Rides Per Week — 10x Growth in Two Years</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      From 50K weekly rides in 2024 to 500K today, Waymo added seven Sun Belt markets in the past year while keeping its fleet at ~3,000 vehicles. Its 6th-gen self-driving system is already in development. Meanwhile, 100+ Baidu robotaxis simultaneously froze in Wuhan after a system failure, trapping passengers for up to two hours — reigniting safety and accountability debates.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Superhuman / TechCrunch</span>
-      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
-    </div>
-    <div style="font-size:12px; color:#4fd1c5; background:#0a2020; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> Autonomous vehicles are scaling faster than predicted in Sun Belt markets including areas near your service area. The Baidu incident shows infrastructure risks still need solving.
-    </div>
-  </div>
-
-  <!-- SVG Illustration: Waymo Growth -->
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px; margin-bottom:12px; text-align:center;">
-    <svg viewBox="0 0 500 180" style="max-width:100%; height:auto;" xmlns="http://www.w3.org/2000/svg">
-      <rect width="500" height="180" fill="#2a2a2a" rx="8"/>
-      <text x="250" y="22" text-anchor="middle" fill="#4fd1c5" font-size="13" font-weight="bold" font-family="sans-serif">Waymo Weekly Paid Rides Growth</text>
-      <!-- Bars -->
-      <rect x="80" y="100" width="80" height="40" rx="4" fill="#4f9cf9" opacity="0.6"/>
-      <text x="120" y="125" text-anchor="middle" fill="#fff" font-size="11" font-family="sans-serif">50K</text>
-      <text x="120" y="155" text-anchor="middle" fill="#999" font-size="10" font-family="sans-serif">2024</text>
-      <!-- Arrow -->
-      <line x1="180" y1="100" x2="290" y2="60" stroke="#f0b429" stroke-width="2" stroke-dasharray="6,4"/>
-      <polygon points="290,55 295,65 285,65" fill="#f0b429"/>
-      <text x="240" y="75" text-anchor="middle" fill="#f0b429" font-size="10" font-family="sans-serif">10x growth</text>
-      <!-- Big bar -->
-      <rect x="310" y="40" width="80" height="100" rx="4" fill="#4fd1c5"/>
-      <text x="350" y="95" text-anchor="middle" fill="#1a1a1a" font-size="13" font-weight="bold" font-family="sans-serif">500K</text>
-      <text x="350" y="155" text-anchor="middle" fill="#999" font-size="10" font-family="sans-serif">2026</text>
+  <!-- SVG: Market Overview -->
+  <div style="background:#fafafa; border:1px solid #e0e0e0; border-radius:10px; padding:16px; margin-bottom:12px; text-align:center;">
+    <svg viewBox="0 0 500 180" style="max-width:100%; height:auto;">
+      <rect x="0" y="0" width="500" height="180" fill="#fafafa" rx="8"/>
+      <text x="250" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#333">April 2026 Economic Snapshot</text>      <!-- CPI Box -->
+      <rect x="20" y="40" width="140" height="60" fill="#fff" stroke="#4f9cf9" stroke-width="2" rx="8"/>
+      <text x="90" y="62" text-anchor="middle" font-size="11" fill="#888">CPI (YoY)</text>
+      <text x="90" y="85" text-anchor="middle" font-size="22" font-weight="700" fill="#f0b429">3.3%</text>
+      <!-- Jobs Box -->
+      <rect x="180" y="40" width="140" height="60" fill="#fff" stroke="#7dcf5a" stroke-width="2" rx="8"/>
+      <text x="250" y="62" text-anchor="middle" font-size="11" fill="#888">Jobs Report</text>
+      <text x="250" y="85" text-anchor="middle" font-size="22" font-weight="700" fill="#7dcf5a">Strong</text>
+      <!-- Sentiment Box -->
+      <rect x="340" y="40" width="140" height="60" fill="#fff" stroke="#f08080" stroke-width="2" rx="8"/>
+      <text x="410" y="62" text-anchor="middle" font-size="11" fill="#888">Sentiment</text>
+      <text x="410" y="85" text-anchor="middle" font-size="22" font-weight="700" fill="#f08080">Low</text>
+      <!-- Bottom labels -->
+      <text x="90" y="125" text-anchor="middle" font-size="10" fill="#888">↑ from Feb</text>
+      <text x="250" y="125" text-anchor="middle" font-size="10" fill="#888">Beat expectations</text>
+      <text x="410" y="125" text-anchor="middle" font-size="10" fill="#888">Lowest since Dec '25</text>
+      <!-- Arrow indicators -->
+      <rect x="20" y="145" width="460" height="28" fill="#eef5ff" rx="6"/>
+      <text x="250" y="164" text-anchor="middle" font-size="11" fill="#4f9cf9">⚠️ Fed likely to hold rates · Oil pressure on food costs ahead · International stocks outpacing US</text>
     </svg>
   </div>
-</div>
 
-<!-- ============ HEALTH & WELLNESS ============ -->
-<div style="margin-bottom:24px;">
-  <div style="font-size:16px; font-weight:700; color:#f08080; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #f08080;">🏥 HEALTH &amp; WELLNESS</div>
-
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <a href="https://www.sciencedaily.com/releases/2026/04/260413043141.htm" style="color:#fff; text-decoration:none;">Smarter Toothpaste Blocks Gum Disease While Preserving Good Bacteria</a>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      Scientists have developed a toothpaste that selectively blocks gum disease-causing bacteria while leaving beneficial bacteria free to recolonize. Conventional mouthwashes destroy bacteria indiscriminately, letting harmful strains rebound fastest. Given that gum disease is linked to diabetes, cardiovascular disease, and Alzheimer's, this targeted approach could have implications far beyond dental health.
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">New Issue Offerings: Silver Bow Mining &amp; X-Energy</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Fidelity flagged two new equity participation opportunities today: Silver Bow Mining Corp. and X-Energy, Inc. These IPO/secondary offering alerts indicate new investment opportunities entering the market.
     </div>
     <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">ScienceDaily</span>
-      <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">🏥 Health</span>
-    </div>
-    <div style="font-size:12px; color:#f08080; background:#2a1a1a; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      💡 <strong>Why this matters:</strong> A whole-body health angle: preserving oral microbiome balance aligns with the broader principle of supporting good bacteria rather than nuking everything.
-    </div>
-  </div>
-
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <a href="https://www.fredhutch.org/en/news/releases/2026/02/scientists-develop-antibody-against-epstein-barr-virus.html" style="color:#fff; text-decoration:none;">Antibodies That Block Epstein-Barr Virus — Clinical Trials on Horizon</a>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      Fred Hutch researchers identified antibodies that stop EBV (which infects 95% of people) from entering immune cells, with one completely preventing infection in lab models. EBV is linked to multiple cancers and chronic illnesses. An industry partner is already involved and clinical trials could be coming.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Fred Hutch Cancer Center</span>
-      <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">🏥 Health</span>
-    </div>
-    <div style="font-size:12px; color:#f08080; background:#2a1a1a; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      🔥 <strong>Why this matters:</strong> A potential breakthrough against a near-universal virus linked to cancers and chronic fatigue — if trials succeed, this could be a landmark in preventive medicine.
-    </div>
-  </div>
-
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <a href="https://www.livescience.com/health/medicine-drugs/new-pain-relief-opioid-could-be-much-less-addictive-than-morphine-rodent-study-finds" style="color:#fff; text-decoration:none;">New Synthetic Opioid DFNZ Relieves Pain Without Triggering Addiction</a>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      NIDA scientists developed DFNZ, which relieves pain without the rapid dopamine bursts that drive addiction. Rats cut off from DFNZ showed milder withdrawal and gave up drug-seeking faster than those on morphine. Clinical trials are years away, but could offer a safer option for post-surgical and chronic pain.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">LiveScience / NIDA</span>
-      <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">🏥 Health</span>
-    </div>
-    <div style="font-size:12px; color:#f08080; background:#2a1a1a; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> The opioid crisis has hit construction trades hard. A less-addictive pain management option for post-injury recovery could be genuinely life-changing for the industry.
-    </div>
-  </div>
-
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <a href="https://www.sciencedaily.com/releases/2026/04/260403044651.htm" style="color:#fff; text-decoration:none;">💉 Gene Therapy Injection 'Reverses' Deafness — 10 Patients See Major Improvement</a>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      A landmark gene therapy trial delivered a working copy of the OTOF gene directly into the inner ear. All 10 patients saw major improvement, with average sound detection jumping from 106 to 52 decibels. Researchers are now eyeing other deafness genes like GJB2 and TMC1 as next targets.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">ScienceDaily</span>
-      <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">🏥 Health</span>
-    </div>
-    <div style="font-size:12px; color:#f08080; background:#2a1a1a; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      🔥 <strong>Why this matters:</strong> Gene therapy is moving from theoretical to practical at an accelerating pace. Hearing restoration has profound quality-of-life implications.
-    </div>
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Alerts</span>
+      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>    </div>
   </div>
 </div>
 
-<!-- ============ GENERAL INTEREST ============ -->
-<div style="margin-bottom:24px;">
-  <div style="font-size:16px; font-weight:700; color:#999; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #666;">📰 GENERAL INTEREST</div>
+<!-- ═══════════════ 💰 PERSONAL FINANCE ═══════════════ -->
+<div style="margin-bottom:20px;">
+  <div style="font-size:14px; font-weight:800; text-transform:uppercase; letter-spacing:1px; padding:10px 16px; background:#3a2d0a; color:#f0b429; border-radius:8px 8px 0 0;">💰 Personal Finance</div>
 
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <a href="https://www.superhuman.ai/p/sunday-special-artemis-2-makes-a-successful-splashdown" style="color:#fff; text-decoration:none;">🚀 Artemis II Makes Historic Splashdown After Moon Mission</a>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      NASA's Artemis II crew splashed down safely in the Pacific after a 10-day mission that took astronauts farther from Earth than any human in history. The Orion capsule's heat shield survived re-entry at 32x the speed of sound — a critical hardware test. NASA now targets a crewed moon landing in 2028. The crew used iPhone 17 Pro Max phones to capture stunning lunar photos, marking the first iPhone qualified for extended use in orbit.
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:0 0 10px 10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">Boost Social Security by Up to 24% With This Strategy</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Fidelity highlights a little-known strategy that can increase your Social Security retirement benefit by up to 24%. The same edition covers retiring in the Sun Belt (taxes, insurance, and housing may cost more than expected), new ways to pay for long-term care including hybrid policies and 1035 exchanges, and 10 ways to spend less on gas.
     </div>
     <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Superhuman / Reuters / NASA</span>
-      <span style="font-size:11px; background:#444; color:#ccc; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Viewpoints</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
     </div>
-    <div style="font-size:12px; color:#999; background:#333; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      💡 <strong>Why this matters:</strong> Historic milestone — first crewed lunar mission in 54 years completed successfully. The 2028 Moon landing target is now looking increasingly real.
+    <div style="font-size:12px; color:#f0b429; background:#fdf8e8; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      💡 <strong>Key idea:</strong> Long-term care planning and Social Security optimization are worth reviewing — especially with volatile markets making retirement planning more complex.
     </div>
   </div>
 
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">Scientists Document First Confirmed Primate Civil War</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      Scientists studying a 200-strong chimpanzee community in Uganda have documented the first definitively confirmed primate civil war. The deaths of five key "social bridge" males in 2014 may have ignited the violence. Former companions turned on each other with no ethnic, religious, or ideological trigger — raising deep questions about evolutionary roots of human conflict.
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">5 Ways to Be a Tax-Smart Investor</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Fidelity Wealth Management's weekly edition covers tax-efficient investing strategies, navigating the new geopolitical landscape and its market impact, proper insurance coverage (disability, life, umbrella, long-term care), and 4 ways to help your kids with real estate — including gifting rules to understand.
     </div>
     <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Science Focus</span>
-      <span style="font-size:11px; background:#444; color:#ccc; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Wealth Mgmt</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>    </div>
+    <div style="font-size:12px; color:#f0b429; background:#fdf8e8; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Tax-smart investing and real estate gifting strategies are relevant to business owners — especially the insurance coverage review with geopolitical volatility in play.
     </div>
   </div>
 
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">Scientists Measure Black Hole Jets for the First Time</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      In a world-first, scientists measured the real-time power and speed of jets from Cygnus X-1 — the first black hole ever identified. The jets pack the energy of 10,000 suns while traveling at 355 million mph (~half the speed of light). Based on 18 years of radio imaging, the findings could reshape our understanding of how black holes sculpt galaxies.
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">Average Tax Refund Up 11% — $3,462 Average</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      As of April 3, the average tax refund is $3,462 — about 11% higher than 2025. About 52% of taxpayers plan to use refunds to build savings, up from 49% last year. Almost 60% of Americans have the same or less emergency savings compared to a year ago. Fidelity recommends 3-6 months of essential expenses in emergency reserves.
     </div>
     <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">AP News</span>
-      <span style="font-size:11px; background:#444; color:#ccc; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity / IRS Data</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
     </div>
   </div>
 
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">🐕 Daily Pill Could Add Years to Your Dog's Lifespan</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      SF biotech Loyal is closing in on FDA approval for LOY-002, a beef-flavored pill targeting age-related metabolic dysfunction in dogs. If approved, it would be the first FDA-cleared drug to slow aging in any species. Could hit market before end of 2026.
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">Car Prices: Sticker Shock Continues</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      New car prices average roughly $50,000 — 30% higher than pre-pandemic. Used cars are up 20%+ since 2020. Nearly 1 in 3 buyers are underwater on trade-ins. Fidelity advises keeping total monthly vehicle expenses to 15% or less of after-tax income and considering shorter loan terms to minimize interest costs.
     </div>
     <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Newsweek</span>
-      <span style="font-size:11px; background:#444; color:#ccc; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity / CNBC</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
     </div>
-  </div>
-
-  <div style="background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
-      <span style="color:#fff;">World's First Ammonia-Powered Ship Produces Near-Zero CO2</span>
-    </div>
-    <div style="font-size:13px; color:#bbb; margin-bottom:10px; line-height:1.5;">
-      HD Hyundai Heavy Industries completed the world's first ammonia-powered vessel — a major milestone for an industry responsible for ~3% of global greenhouse gas output. Ammonia already has a global supply chain from fertilizer production, giving it a practical edge over hydrogen alternatives.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#333; color:#999; padding:2px 8px; border-radius:4px;">Interesting Engineering</span>
-      <span style="font-size:11px; background:#444; color:#ccc; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
+    <div style="font-size:12px; color:#f0b429; background:#fdf8e8; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Work truck and vehicle costs are a real business expense — if replacing fleet vehicles, shorter loan terms and cash purchase could save significantly at current prices.
     </div>
   </div>
 </div>
+<!-- ═══════════════ 🖥️ TECHNOLOGY ═══════════════ -->
+<div style="margin-bottom:20px;">
+  <div style="font-size:14px; font-weight:800; text-transform:uppercase; letter-spacing:1px; padding:10px 16px; background:#0a2a2a; color:#4fd1c5; border-radius:8px 8px 0 0;">🖥️ Technology (non-AI)</div>
 
-<!-- ============ FOOTER ============ -->
-<div style="margin-top:24px; padding-top:12px; border-top:1px solid #3a3a3a; font-size:11px; color:#666;">
-  Sources: Gmail inbox newsletters and subscriptions (Fidelity Investments, Superhuman AI, Interesting Engineering, ScienceDaily, AP News, Reuters, Newsweek)<br/>
-  Generated April 20, 2026 by Claude Cowork · General News RSS Feed
-</div>
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:0 0 10px 10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.superhuman.ai/p/sunday-special-scientists-build-computer-that-works-without-electricity" style="color:#1a1a1a; text-decoration:none;">Scientists Build Spring-Powered Computer That Runs Without Electricity</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Researchers at St. Olaf built a computing system powered entirely by the physical memory of springs and steel — no electricity needed. The mechanical devices can count, distinguish inputs, and retain measurements. Could prove transformative in harsh environments that destroy traditional hardware, and may power smarter prosthetics and industrial monitoring.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman / ASM International</span>
+      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Tech</span>
+    </div>
+    <div style="font-size:12px; color:#4fd1c5; background:#e8faf8; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      💡 <strong>Key idea:</strong> Mechanical computing for harsh environments — potential applications in construction monitoring where electronics fail in extreme heat, moisture, or dust.
+    </div>
+  </div>
 
-</div>
-    ]]></description>
-    <pubDate>Mon, 20 Apr 2026 16:00:00 -0700</pubDate>
-    <guid isPermaLink="false">general-news-2026-04-20</guid>
-  </item>
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://interestingengineering.com/energy/chinese-ev-battery-firm-claims-ultra-fast-charging" style="color:#1a1a1a; text-decoration:none;">Chinese Startup Claims 5% to 95% EV Charge in 9 Minutes</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Chinese battery maker Sunwoda unveiled its Xingchi Supercharge Battery 2.0 — an LFP battery that reportedly charges from 5% to 95% in just nine minutes. The company is also pushing into sodium-ion batteries for entry-level EVs. If the claims hold, this could be a game-changer for EV adoption by eliminating the biggest complaint: charging time.    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman / Interesting Engineering</span>
+      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Tech</span>
+    </div>
+  </div>
 
-</channel>
-</rss>
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.reuters.com/business/uber-commits-10-billion-robotaxis-strategy-shift-ft-says-2026-04-15/" style="color:#1a1a1a; text-decoration:none;">Uber Commits $10B+ to Robotaxis — 28 Cities by 2028</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Uber is pivoting hard from its gig-economy model, committing over $10B to robotaxi partnerships with Baidu, Rivian, and Lucid. Driverless services are targeted for 28 cities by 2028. Meanwhile, Waymo has begun testing its all-electric Jaguar I-Pace robotaxis in London, and Tesla is eyeing its Shanghai Gigafactory for scaling Optimus humanoid robots.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman / Reuters / FT</span>
+      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Tech</span>
+    </div>
+    <div style="font-size:12px; color:#4fd1c5; background:#e8faf8; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      🔥 <strong>Why this matters:</strong> Autonomous vehicles will reshape commercial transportation — construction material delivery and crew logistics could look very different within 5 years.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">Humanoid Robot Nearly Matches Usain Bolt's Sprint Speed</div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Unitree Robotics' H1 humanoid robot clocked 10.1 m/s on a track — within striking distance of Bolt's world record pace. The company believes humanoid robots could break the 10-second 100m barrier by mid-2026. Two years ago, the fastest humanoid could barely manage a brisk walk. Separately, a Unitree robot went viral chasing wild boars in Warsaw and landed a brand deal promoting a diamond Rolex.
