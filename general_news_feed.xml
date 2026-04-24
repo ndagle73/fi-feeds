@@ -1,151 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>📰 General News Daily</title>
   <description>Daily news briefing — markets, real estate, construction, finance, tech, health, and general interest</description>
   <link>https://ndagle73.github.io/fi-feeds/general_news_feed.xml</link>
   <atom:link href="https://ndagle73.github.io/fi-feeds/general_news_feed.xml" rel="self" type="application/rss+xml"/>
   <language>en-us</language>
-  <lastBuildDate>Wed, 23 Apr 2026 16:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 24 Apr 2026 09:00:00 -0700</lastBuildDate>
 
   <item>
-    <guid isPermaLink="false">general-news-2026-04-23</guid>
-    <pubDate>Wed, 23 Apr 2026 16:00:00 -0700</pubDate>
-    <title>📰 General News — Wednesday, April 23, 2026</title>
-    <description>Daily digest: markets resilient, bonds behave unusually, tax strategies, tech privacy concerns, defense spending surge, robotics milestone, and AI job impact data</description>
-    <link>https://ndagle73.github.io/fi-feeds/general_news_feed.xml</link>
-    <content:encoded><![CDATA[
-<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#f5f5f5;margin:0;padding:16px;color:#333;">
-<div style="max-width:800px;margin:0 auto;background:white;border-radius:8px;overflow:hidden;">
-  <div style="background:linear-gradient(135deg,#1a1a1a 0%,#333 100%);color:white;padding:24px;text-align:center;">
-    <h1 style="margin:0;font-size:28px;font-weight:700;">📰 General News Daily</h1>
-    <p style="margin:8px 0 0 0;font-size:13px;opacity:0.9;">Wednesday, April 23, 2026 · 4:00 PM PT</p>
-  </div>
-  <!-- MARKETS & ECONOMY -->
-  <div style="padding:24px;border-bottom:1px solid #e8e8e8;">
-    <div style="font-size:16px;font-weight:700;margin:0 0 20px 0;padding-bottom:12px;border-bottom:2px solid #f0f0f0;">📈 MARKETS &amp; ECONOMY</div>
+    <title>📰 General News — Thursday, April 24, 2026</title>
+    <description><![CDATA[
+<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; max-width:680px; margin:0 auto; color:#1a1a1a;">
 
-    <div style="margin-bottom:20px;padding:16px;border:1px solid #e8e8e8;border-radius:6px;background:#fafafa;">
-      <span style="display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;padding:4px 8px;border-radius:3px;background:#1e3a5f;color:#4f9cf9;">Fidelity Investments</span>
-      <div style="font-size:15px;font-weight:700;margin:8px 0 12px 0;line-height:1.4;">Markets Remain Resilient Despite Geopolitical Tensions</div>
-      <div style="font-size:13px;line-height:1.6;margin:0 0 12px 0;color:#555;">Despite heightened uncertainty around Middle East developments, markets and the economy have remained relatively resilient. Fidelity pros note the US could see double-digit earnings growth this year. International stocks have been outpacing US stocks broadly in 2026, and real estate stocks and commodities present diversification opportunities.</div>
-      <div style="font-size:12px;line-height:1.6;padding:12px;background:rgba(79,156,249,0.08);border-left:3px solid #4f9cf9;color:#1a3a5f;margin:12px 0 0 0;border-radius:3px;">💡 <strong>Why this matters:</strong> Positive signals for your investment portfolio — international diversification and real estate sector exposure could benefit both your personal investments and provide confidence in the broader economy supporting construction activity.</div>
-      <a style="font-size:11px;color:#4f9cf9;text-decoration:none;display:block;margin-top:8px;" href="https://www.fidelity.com/learning-center/trading-investing/markets-roundup">Read more →</a>
+  <div style="background:#fff3f3; border:1px solid #f08080; border-radius:10px; padding:16px 18px; margin-bottom:16px;">
+    <div style="font-size:15px; font-weight:700; color:#c0392b; margin-bottom:8px;">
+      ⚠️ Gmail Connector Not Authenticated
     </div>
-
-    <div style="margin-bottom:20px;padding:16px;border:1px solid #e8e8e8;border-radius:6px;background:#fafafa;">
-      <span style="display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;padding:4px 8px;border-radius:3px;background:#1e3a5f;color:#4f9cf9;">Fidelity Investments</span>
-      <div style="font-size:15px;font-weight:700;margin:8px 0 12px 0;line-height:1.4;">Treasury Bonds Behaving Unusually — Yields Rising Despite Uncertainty</div>
-      <div style="font-size:13px;line-height:1.6;margin:0 0 12px 0;color:#555;">Interest rates on bonds haven't been following their typical pattern. Normally, Treasury bonds rally when uncertainty hits stocks, but since the Iran conflict escalated, yields have risen and prices have fallen. Expectations that the Fed will keep rates higher for longer have limited any flight-to-safety rally. Fidelity pros say the recent yield increases may have created more attractive entry points.</div>
-      <div style="margin:16px 0;text-align:center;background:#f8f8f8;padding:12px;border-radius:4px;">
-        <svg viewBox="0 0 300 150" style="max-width:100%;height:auto;" xmlns="http://www.w3.org/2000/svg">
-          <line x1="40" y1="120" x2="280" y2="120" stroke="#ccc" stroke-width="1"/><line x1="40" y1="20" x2="40" y2="120" stroke="#ccc" stroke-width="1"/>
-          <text x="15" y="70" font-size="11" fill="#666" text-anchor="end">Yields</text>
-          <text x="110" y="138" font-size="12" fill="#666" font-weight="600" text-anchor="middle">Normal</text>
-          <text x="230" y="138" font-size="12" fill="#666" font-weight="600" text-anchor="middle">2026</text>
-          <line x1="110" y1="45" x2="110" y2="105" stroke="#7dcf5a" stroke-width="4"/><polygon points="100,105 110,115 120,105" fill="#7dcf5a"/>
-          <text x="110" y="38" font-size="11" fill="#7dcf5a" text-anchor="middle" font-weight="600">Yields ↓</text>
-          <line x1="230" y1="105" x2="230" y2="45" stroke="#f0b429" stroke-width="4"/><polygon points="220,45 230,35 240,45" fill="#f0b429"/>
-          <text x="230" y="30" font-size="11" fill="#f0b429" text-anchor="middle" font-weight="600">Yields ↑</text>
-        </svg>
-      </div>      <div style="font-size:12px;line-height:1.6;padding:12px;background:rgba(79,156,249,0.08);border-left:3px solid #4f9cf9;color:#1a3a5f;margin:12px 0 0 0;border-radius:3px;">⚠️ <strong>Why this matters:</strong> Higher yields mean higher borrowing costs for construction projects and mortgages, but also better returns on fixed-income investments. Worth watching as this directly affects both your business financing and personal investment strategy.</div>
-      <a style="font-size:11px;color:#4f9cf9;text-decoration:none;display:block;margin-top:8px;" href="https://www.fidelity.com/learning-center/trading-investing/should-you-buy-treasurys">Read more →</a>
+    <div style="font-size:13px; color:#555; line-height:1.5;">
+      The Gmail MCP connector requires re-authentication. No emails could be accessed for today's General News digest.
+      The task confirmed the connector is disconnected and no inbox content was available to process.
     </div>
-
-    <div style="margin-bottom:0;padding:16px;border:1px solid #e8e8e8;border-radius:6px;background:#fafafa;">
-      <span style="display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;padding:4px 8px;border-radius:3px;background:#1e3a5f;color:#4f9cf9;">Fidelity Alerts</span>
-      <div style="font-size:15px;font-weight:700;margin:8px 0 12px 0;line-height:1.4;">Fidelity U.S. Market News Alerts — 5 Updates Today</div>
-      <div style="font-size:13px;line-height:1.6;margin:0 0 12px 0;color:#555;">Five market news alerts issued throughout the day tracking real-time U.S. market developments. Multiple updates from 10:30 AM through 3:30 PM ET covering evolving market conditions.</div>
-      <div style="font-size:12px;line-height:1.6;padding:12px;background:rgba(79,156,249,0.08);border-left:3px solid #4f9cf9;color:#1a3a5f;margin:12px 0 0 0;border-radius:3px;">🔥 <strong>Why this matters:</strong> High-frequency alert day suggests significant market activity — worth checking your portfolio positions.</div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:10px;">
+      🛠️ <strong>Action needed:</strong> Reconnect the Gmail connector in Cowork settings so the next scheduled run can access the AIdigestnews@gmail.com inbox.
     </div>
   </div>
 
-  <!-- PERSONAL FINANCE -->
-  <div style="padding:24px;border-bottom:1px solid #e8e8e8;">
-    <div style="font-size:16px;font-weight:700;margin:0 0 20px 0;padding-bottom:12px;border-bottom:2px solid #f0f0f0;">💰 PERSONAL FINANCE</div>
-
-    <div style="margin-bottom:20px;padding:16px;border:1px solid #e8e8e8;border-radius:6px;background:#fafafa;">
-      <span style="display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;padding:4px 8px;border-radius:3px;background:#3a2d0a;color:#f0b429;">Fidelity Viewpoints</span>
-      <div style="font-size:15px;font-weight:700;margin:8px 0 12px 0;line-height:1.4;">10 Tax Moves to Make Now for 2026</div>
-      <div style="font-size:13px;line-height:1.6;margin:0 0 12px 0;color:#555;">With the 2025 tax season over, Fidelity outlines 10 proactive tax strategies to maximize savings in 2026. Key topics include Roth conversion timing (market swings and current tax rates make conversions compelling), HSA optimization (not all HSAs are equal — fees, interest, and investing options vary significantly), and strategies for saving beyond your 401(k) limit.</div>
-      <div style="margin:16px 0;text-align:center;background:#f8f8f8;padding:12px;border-radius:4px;">
-        <svg viewBox="0 0 300 120" style="max-width:100%;height:auto;" xmlns="http://www.w3.org/2000/svg">
-          <rect x="20" y="15" width="16" height="16" fill="none" stroke="#f0b429" stroke-width="2" rx="2"/><path d="M25 22 L28 26 L35 17" stroke="#f0b429" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="45" y="27" font-size="13" fill="#333" font-weight="600">Roth Conversion</text>
-          <rect x="20" y="48" width="16" height="16" fill="none" stroke="#7dcf5a" stroke-width="2" rx="2"/><path d="M25 55 L28 59 L35 50" stroke="#7dcf5a" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="45" y="60" font-size="13" fill="#333" font-weight="600">HSA Optimization</text>
-          <rect x="20" y="81" width="16" height="16" fill="none" stroke="#4fd1c5" stroke-width="2" rx="2"/><path d="M25 88 L28 92 L35 83" stroke="#4fd1c5" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="45" y="93" font-size="13" fill="#333" font-weight="600">Beyond 401(k)</text>
-        </svg>
-      </div>      <div style="font-size:12px;line-height:1.6;padding:12px;background:rgba(79,156,249,0.08);border-left:3px solid #4f9cf9;color:#1a3a5f;margin:12px 0 0 0;border-radius:3px;">✅ <strong>Why this matters:</strong> Directly actionable for both your personal finances and Insight Remodels. Roth conversions during market dips can be a powerful wealth-building move, and HSA optimization is free money most people leave on the table.</div>
-      <a style="font-size:11px;color:#4f9cf9;text-decoration:none;display:block;margin-top:8px;" href="https://www.fidelity.com/viewpoints/personal-finance/tax-tips">Read more →</a>
-    </div>
-
-    <div style="margin-bottom:20px;padding:16px;border:1px solid #e8e8e8;border-radius:6px;background:#fafafa;">
-      <span style="display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;padding:4px 8px;border-radius:3px;background:#3a2d0a;color:#f0b429;">Fidelity Wealth Management</span>
-      <div style="font-size:15px;font-weight:700;margin:8px 0 12px 0;line-height:1.4;">3 Steps to Building a More Resilient Investment Portfolio</div>
-      <div style="font-size:13px;line-height:1.6;margin:0 0 12px 0;color:#555;">A well-diversified asset allocation can help manage market volatility. Covers portfolio resilience, bond strategies, preparing children for inheritance, financial transparency between spouses, and passing family heirlooms without drama. May 14 webinar on managing five key financial risks to retirement.</div>
-      <div style="font-size:12px;line-height:1.6;padding:12px;background:rgba(79,156,249,0.08);border-left:3px solid #4f9cf9;color:#1a3a5f;margin:12px 0 0 0;border-radius:3px;">💡 <strong>Why this matters:</strong> Portfolio resilience is especially important for business owners who depend on investment income to supplement business cash flow during slow seasons.</div>
-      <a style="font-size:11px;color:#4f9cf9;text-decoration:none;display:block;margin-top:8px;" href="https://www.fidelity.com/wealth-management/insights">Read more →</a>
-    </div>
-
-    <div style="margin-bottom:20px;padding:16px;border:1px solid #e8e8e8;border-radius:6px;background:#fafafa;">
-      <span style="display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;padding:4px 8px;border-radius:3px;background:#3a2d0a;color:#f0b429;">Fidelity (via IRS/NRF data)</span>
-      <div style="font-size:15px;font-weight:700;margin:8px 0 12px 0;line-height:1.4;">Average Tax Refund Up 11% to $3,462 — More Americans Saving</div>
-      <div style="font-size:13px;line-height:1.6;margin:0 0 12px 0;color:#555;">52% of US taxpayers expecting refunds plan to build savings (up from 49% in 2025). Almost 60% of Americans have the same or less emergency savings as a year ago. Fidelity recommends 3-6 months of essential expenses. Average refund as of April 3 is $3,462, up ~11% over 2025.</div>
-      <div style="font-size:12px;line-height:1.6;padding:12px;background:rgba(79,156,249,0.08);border-left:3px solid #4f9cf9;color:#1a3a5f;margin:12px 0 0 0;border-radius:3px;">👉 <strong>Why this matters:</strong> Consumer saving trends affect spending patterns — more saving could mean slower discretionary spending on home remodeling. Worth factoring into your Q2-Q3 project pipeline expectations.</div>
-    </div>
-
-    <div style="margin-bottom:0;padding:16px;border:1px solid #e8e8e8;border-radius:6px;background:#fafafa;">
-      <span style="display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;padding:4px 8px;border-radius:3px;background:#3a2d0a;color:#f0b429;">Fidelity Alerts</span>
-      <div style="font-size:15px;font-weight:700;margin:8px 0 12px 0;line-height:1.4;">Silver Bow Mining Corp. and X-Energy IPO Offerings</div>
-      <div style="font-size:13px;line-height:1.6;margin:0 0 12px 0;color:#555;">Two new equity participation announcements — Silver Bow Mining Corp. and X-Energy, Inc. offering new issue shares through Fidelity. Both announced April 21.</div>
-      <div style="font-size:12px;line-height:1.6;padding:12px;background:rgba(79,156,249,0.08);border-left:3px solid #4f9cf9;color:#1a3a5f;margin:12px 0 0 0;border-radius:3px;">💡 <strong>Why this matters:</strong> X-Energy is a nuclear energy company — the energy sector is seeing renewed interest with AI data center demand driving power needs.</div>
-    </div>
-  </div>
-  <!-- TECHNOLOGY -->
-  <div style="padding:24px;border-bottom:1px solid #e8e8e8;">
-    <div style="font-size:16px;font-weight:700;margin:0 0 20px 0;padding-bottom:12px;border-bottom:2px solid #f0f0f0;">🖥️ TECHNOLOGY</div>
-
-    <div style="margin-bottom:20px;padding:16px;border:1px solid #e8e8e8;border-radius:6px;background:#fafafa;">
-      <span style="display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;padding:4px 8px;border-radius:3px;background:#0a2a2a;color:#4fd1c5;">The Neuron (via CNBC)</span>
-      <div style="font-size:15px;font-weight:700;margin:8px 0 12px 0;line-height:1.4;">Meta Tracking US Employee Keystrokes, Mouse Movements, Screen Content</div>
-      <div style="font-size:13px;line-height:1.6;margin:0 0 12px 0;color:#555;">Meta rolled out its "Model Capability Initiative," tracking US employee keystrokes, mouse movements, and screen content across Google, LinkedIn, Wikipedia, GitHub, and Slack. Internal backlash called it "dystopian" and there is no opt-out for employees.</div>
-      <div style="font-size:12px;line-height:1.6;padding:12px;background:rgba(79,156,249,0.08);border-left:3px solid #4f9cf9;color:#1a3a5f;margin:12px 0 0 0;border-radius:3px;">⚠️ <strong>Why this matters:</strong> A significant workplace privacy precedent. If major tech companies normalize this level of surveillance, it could trickle down to enterprise tools used across all industries.</div>
-      <a style="font-size:11px;color:#4f9cf9;text-decoration:none;display:block;margin-top:8px;" href="https://www.cnbc.com/2026/04/22/meta-tracks-employee-usage-on-google-linkedin-ai-training-project.html">Read more →</a>
-    </div>
-
-    <div style="margin-bottom:20px;padding:16px;border:1px solid #e8e8e8;border-radius:6px;background:#fafafa;">
-      <span style="display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;padding:4px 8px;border-radius:3px;background:#444;color:#999;">The Neuron (via The Guardian)</span>
-      <div style="font-size:15px;font-weight:700;margin:8px 0 12px 0;line-height:1.4;">Pentagon Requests $54 Billion for Autonomous Drone Warfare</div>
-      <div style="font-size:13px;line-height:1.6;margin:0 0 12px 0;color:#555;">The Pentagon requested a $54B FY2027 budget for autonomous drone warfare — the largest single commitment to AI-powered war in history. Experts warned the US lacks doctrine for deploying lethal autonomous swarms.</div>
-      <div style="font-size:12px;line-height:1.6;padding:12px;background:rgba(79,156,249,0.08);border-left:3px solid #4f9cf9;color:#1a3a5f;margin:12px 0 0 0;border-radius:3px;">🔥 <strong>Why this matters:</strong> Massive defense spending shift signals where federal budget priorities are heading. Defense spending crowding out infrastructure investment could affect construction industry federal project pipelines.</div>
-      <a style="font-size:11px;color:#4f9cf9;text-decoration:none;display:block;margin-top:8px;" href="https://www.theguardian.com/us-news/2026/apr/22/pentagon-asks-for-54bn-in-pivot-towards-ai-powered-war">Read more →</a>
-    </div>
-
-    <div style="margin-bottom:20px;padding:16px;border:1px solid #e8e8e8;border-radius:6px;background:#fafafa;">
-      <span style="display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;padding:4px 8px;border-radius:3px;background:#0a2a2a;color:#4fd1c5;">The Neuron (via Nature)</span>
-      <div style="font-size:15px;font-weight:700;margin:8px 0 12px 0;line-height:1.4;">Sony's Ace Robot Defeats Elite Human Ping Pong Players</div>
-      <div style="font-size:13px;line-height:1.6;margin:0 0 12px 0;color:#555;">A Nature cover paper from Sony AI reveals Ace, the first robot to beat elite human players in table tennis under full official ITTF rules. The robot reacts in 10.2 milliseconds (30x faster than a human blink) and wins not through power but by almost never missing — returning 75% of shots at extreme spin rates.</div>
-      <div style="font-size:12px;line-height:1.6;padding:12px;background:rgba(79,156,249,0.08);border-left:3px solid #4f9cf9;color:#1a3a5f;margin:12px 0 0 0;border-radius:3px;">💡 <strong>Why this matters:</strong> A remarkable robotics milestone. The underlying technologies — real-time vision, physical dexterity, sim-to-real transfer — will eventually filter into construction robotics and automated building systems.</div>
-      <a style="font-size:11px;color:#4f9cf9;text-decoration:none;display:block;margin-top:8px;" href="https://www.nature.com/articles/s41586-026-10338-5">Read more →</a>
-    </div>
-    <div style="margin-bottom:0;padding:16px;border:1px solid #e8e8e8;border-radius:6px;background:#fafafa;">
-      <span style="display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;padding:4px 8px;border-radius:3px;background:#0a2a2a;color:#4fd1c5;">The Neuron (via British Progress)</span>
-      <div style="font-size:15px;font-weight:700;margin:8px 0 12px 0;line-height:1.4;">UK Employment Data Shows Zero AI Job Impact After Three Years</div>
-      <div style="font-size:13px;line-height:1.6;margin:0 0 12px 0;color:#555;">Economist Pedro Serôdio published research showing that three years after ChatGPT, UK employment data across 412 occupations shows zero visible difference between roles most and least exposed to AI. AI adoption sits at just 2.1% of all work tasks. Parallels drawn to electricity, which took 40 years to show up in productivity stats.</div>
-      <div style="font-size:12px;line-height:1.6;padding:12px;background:rgba(79,156,249,0.08);border-left:3px solid #4f9cf9;color:#1a3a5f;margin:12px 0 0 0;border-radius:3px;">✅ <strong>Why this matters:</strong> Counterweight to AI job displacement fears. For a small business owner, the practical takeaway is that AI adoption is still very early — there's time to integrate tools thoughtfully rather than reactively.</div>
-      <a style="font-size:11px;color:#4f9cf9;text-decoration:none;display:block;margin-top:8px;" href="https://britishprogress.org/reports/ai-and-the-uk-labour-market-the-evidence-so-far">Read more →</a>
-    </div>
+  <div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
+    Sources: Gmail inbox newsletters and subscriptions<br/>
+    Generated April 24, 2026 by Claude Cowork · General News RSS Feed<br/>
+    Status: Gmail connector authentication required — no content processed
   </div>
 
-  <!-- FOOTER -->
-  <div style="padding:24px;">
-    <div style="margin-top:24px;padding-top:12px;border-top:1px solid #e0e0e0;font-size:11px;color:#999;line-height:1.6;">
-      <strong>Sources:</strong> Gmail inbox newsletters and subscriptions (Fidelity Investments, Fidelity Alerts, The Neuron)<br/>
-      Generated April 23, 2026 by Claude Cowork · General News RSS Feed
-    </div>
-  </div>
 </div>
-</div>
-    ]]></content:encoded>
+    ]]></description>
+    <pubDate>Thu, 24 Apr 2026 09:00:00 -0700</pubDate>
+    <guid isPermaLink="false">general-news-2026-04-24</guid>
   </item>
 
 </channel>
