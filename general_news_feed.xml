@@ -6,369 +6,294 @@
   <link>https://ndagle73.github.io/fi-feeds/general_news_feed.xml</link>
   <atom:link href="https://ndagle73.github.io/fi-feeds/general_news_feed.xml" rel="self" type="application/rss+xml"/>
   <language>en-us</language>
-  <lastBuildDate>Fri, 25 Apr 2026 16:30:00 -0700</lastBuildDate>
-
+  <lastBuildDate>Sun, 26 Apr 2026 16:00:00 -0700</lastBuildDate>
   <item>
-    <title>📰 General News — Friday, April 25, 2026</title>
+    <title>📰 General News — Sunday, April 26, 2026</title>
     <description><![CDATA[
-<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; max-width:700px; margin:0 auto; color:#1a1a1a;">
+<div style="font-family:system-ui,-apple-system,sans-serif; color:#333; max-width:800px; margin:0 auto;">
 
-<!-- HEADER -->
-<div style="background:linear-gradient(135deg,#1a1a2e,#16213e); padding:24px 20px; border-radius:12px; margin-bottom:20px;">
-  <div style="font-size:22px; font-weight:700; color:#fff;">📰 General News Daily</div>
-  <div style="font-size:14px; color:#8899aa; margin-top:4px;">Friday, April 25, 2026</div>
+<div style="font-size:18px; font-weight:800; color:#1a1a1a; margin:24px 0 12px 0; padding-bottom:6px; border-bottom:2px solid #999;">
+  📰 GENERAL INTEREST / SCIENCE
 </div>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- 📈 MARKETS & ECONOMY -->
-<!-- ═══════════════════════════════════════ -->
-<div style="margin-bottom:24px;">
-  <div style="font-size:16px; font-weight:700; color:#4f9cf9; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #4f9cf9;">📈 MARKETS &amp; ECONOMY</div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Consumer Sentiment Hits Record Low — Will It Drag Stocks Down?</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Fidelity's chart of the week highlights that U.S. consumer sentiment has reached a record low, raising questions about whether Americans' sour economic outlook will translate into weaker stock performance. Historical data suggests sentiment and stock returns don't always track closely, but the gap between perception and reality is worth watching.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Active Investor</span>
-      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> Consumer confidence affects housing demand and remodeling willingness — if homeowners feel squeezed, discretionary renovation projects may stall.
-    </div>
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.reuters.com/science/cretaceous-kraken-prowled-seas-during-age-dinosaurs-2026-04-23/" style="color:#1a1a1a; text-decoration:none;">Ancient Kraken-like Octopus Discovered</a>
   </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Hedged Equity Strategies for Volatile Markets</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Fidelity outlines how hedged equity strategies — which use options overlays to limit downside — can demonstrate their value during periods of elevated volatility and uncertainty. The approach aims to participate in market upside while capping potential losses.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Active Investor</span>
-      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> With markets volatile, understanding downside protection strategies helps preserve capital for business investments and personal portfolio goals.
-    </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Scientists confirmed Nanaimoteuthis haggarti, a finned octopus from 86–72 million years ago, grew up to 61 feet long — bigger than a school bus. The discovery rewrites understanding of ancient ocean food webs and suggests these creatures were apex predators in Cretaceous seas.
   </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">The Case for International Stocks</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Fidelity's Market Sense explores the outlook for international equities amid an uncertain geopolitical backdrop. Despite trade tensions, valuations outside the U.S. remain attractive relative to domestic markets, and currency dynamics could provide tailwinds.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Active Investor</span>
-      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> Portfolio diversification beyond U.S. stocks could smooth returns — worth considering if concentrated in domestic equities.
-    </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters</span>
+    <span style="font-size:11px; background:#999; color:#fff; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">GENERAL INTEREST</span>
   </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">SEC &amp; CFTC Issue Latest Crypto Guidance</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Fidelity reports on recent regulatory guidance from the SEC and CFTC regarding digital assets, including updated frameworks for how crypto tokens are classified and traded. The evolving regulatory landscape continues to shape the digital asset space.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Active Investor</span>
-      <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> Crypto regulation clarity affects investment options — good to stay informed even if not actively trading digital assets.
-    </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> A fascinating reminder that the natural world still holds massive surprises — and that Norse legends of giant sea creatures may have been based on real animals.
   </div>
 </div>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- 💰 PERSONAL FINANCE -->
-<!-- ═══════════════════════════════════════ -->
-<div style="margin-bottom:24px;">
-  <div style="font-size:16px; font-weight:700; color:#f0b429; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #f0b429;">💰 PERSONAL FINANCE</div>
+<svg viewBox="0 0 600 200" style="max-width:100%; height:auto; margin:16px 0; background:#fafafa;">
+  <g style="stroke:#333; stroke-width:2; fill:none;">
+    <rect x="350" y="80" width="180" height="80" rx="8" style="fill:#FFD700;"/>
+    <rect x="360" y="50" width="160" height="30" style="fill:#FFD700;"/>
+    <rect x="370" y="55" width="25" height="20" style="fill:#87CEEB;"/>
+    <rect x="405" y="55" width="25" height="20" style="fill:#87CEEB;"/>
+    <rect x="440" y="55" width="25" height="20" style="fill:#87CEEB;"/>
+    <rect x="475" y="55" width="25" height="20" style="fill:#87CEEB;"/>
+    <circle cx="375" cy="160" r="12" style="fill:#333;"/>
+    <circle cx="485" cy="160" r="12" style="fill:#333;"/>
+    <line x1="345" y1="160" x2="540" y2="160" style="stroke-width:3;"/>
+  </g>
+  <g style="stroke:#8B4513; stroke-width:2.5; fill:none; opacity:0.8;">
+    <circle cx="100" cy="100" r="45" style="fill:#D2691E; opacity:0.6;"/>
+    <path d="M 65 140 Q 40 150 35 180" style="stroke-linecap:round;"/>
+    <path d="M 85 145 Q 70 165 65 185" style="stroke-linecap:round;"/>
+    <path d="M 100 148 Q 100 170 100 188" style="stroke-linecap:round;"/>
+    <path d="M 115 145 Q 130 165 135 185" style="stroke-linecap:round;"/>
+    <path d="M 135 140 Q 160 150 165 180" style="stroke-linecap:round;"/>
+    <path d="M 70 100 Q 30 95 20 90" style="stroke-linecap:round;"/>
+    <path d="M 130 100 Q 170 95 180 90" style="stroke-linecap:round;"/>
+    <circle cx="95" cy="90" r="6" style="fill:#333; opacity:0.7;"/>
+  </g>
+  <text x="540" y="30" style="font-size:13px; font-weight:bold; fill:#333;">School Bus</text>
+  <text x="540" y="45" style="font-size:12px; fill:#666;">~35 ft</text>
+  <text x="150" y="30" style="font-size:13px; font-weight:bold; fill:#333;">Ancient Octopus</text>
+  <text x="150" y="45" style="font-size:12px; fill:#666;">61 ft</text>
+</svg>
 
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Exchange Funds: A Tool for Concentrated Stock Positions</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Fidelity's lead article explores exchange funds — a strategy for investors holding large, concentrated stock positions who want to diversify without triggering an immediate taxable event. The approach involves pooling shares with other investors to gain broader exposure while deferring capital gains.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Active Investor</span>
-      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> If you hold concentrated positions, this is a tax-efficient diversification tool worth understanding.
-    </div>
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html" style="color:#1a1a1a; text-decoration:none;">First Gene Therapy Restoring Hearing Gets FDA Approval</a>
   </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">🔥 10 Tax Moves to Make Now — Some Benefits Won't Last</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      With the 2025 tax season behind us, Fidelity outlines 10 proactive tax strategies for 2026, including timely Roth conversion opportunities during market volatility, maximizing HSA contributions, and saving beyond 401(k) limits. Several current tax provisions are set to expire, making 2026 action particularly time-sensitive.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Viewpoints</span>
-      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      🔥 <strong>Why this matters:</strong> As a business owner, tax planning directly impacts both personal and business finances. Roth conversions during market dips and HSA optimization are low-hanging fruit.
-    </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    "Otarmeni" restores hearing in children with otoferlin deafness. 80% of treated patients could hear without implants, and approximately 30% achieved fully normal hearing. This approval opens the door to treating over 150 genetic causes of hearing loss.
   </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Roth Conversion Timing: Why Market Swings May Help</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Fidelity makes the case that current market volatility combined with today's tax rates creates a particularly compelling window for Roth conversions. Converting during market dips means paying taxes on a lower balance, with future growth tax-free.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Viewpoints</span>
-      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      💡 <strong>Why this matters:</strong> With TCJA provisions potentially expiring, converting now at current rates could save significant taxes long-term.
-    </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">New York Times</span>
+    <span style="font-size:11px; background:#999; color:#fff; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">GENERAL INTEREST</span>
   </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">3 Steps to a More Resilient Investment Portfolio</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Fidelity Wealth Management outlines three key steps for building investment resilience: reviewing asset allocation, stress-testing for various scenarios, and establishing a systematic rebalancing discipline. Also covers preparing children to inherit wealth and working with a spouse on financial planning.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Wealth Management</span>
-      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> Portfolio resilience protects both personal wealth and the financial runway for business operations.
-    </div>
-  </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Options 101: Buying Call Options</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Fidelity's educational piece explains call options — contracts that grant the right to purchase stock at a specified price for a fraction of the full cost. Covers mechanics, risks, and scenarios where calls may be appropriate for directional bets with defined risk.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Active Investor</span>
-      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      💡 <strong>Why this matters:</strong> Educational primer — useful if considering options as part of an investment strategy.
-    </div>
-  </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Fidelity IPO Alert: Avalyn Pharma Inc.</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Fidelity announced a new equity participation opportunity for Avalyn Pharma Inc., a pharmaceutical company. Details available through Fidelity's new issues platform.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Alerts</span>
-      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-    </div>
-  </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Finding Undervalued Stocks in Unusual Markets</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Fidelity market strategist Denise Chisolm identifies where surprising value exists in the current market environment. Unusual market conditions are creating pockets of opportunity for value-oriented investors willing to look beyond headline noise.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Viewpoints</span>
-      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      💡 <strong>Why this matters:</strong> Value investing opportunities often emerge during volatile periods — Fidelity's pro insights help identify where to look.
-    </div>
-  </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Signs You Need a Better HSA</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Not all Health Savings Accounts are created equal. Fidelity highlights how fees, interest rates, and investing options can vary significantly between HSA providers, and offers a framework for evaluating whether your current HSA is working hard enough for you.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Viewpoints</span>
-      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">💰 Finance</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> HSAs are triple-tax-advantaged — the best long-term savings vehicle if used correctly.
-    </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    🔥 <strong>Critical:</strong> Landmark FDA approval — gene therapy is moving from experimental to real clinical use. Could transform treatment of genetic hearing loss.
   </div>
 </div>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- 🏗️ CONSTRUCTION & TRADES -->
-<!-- ═══════════════════════════════════════ -->
-<div style="margin-bottom:24px;">
-  <div style="font-size:16px; font-weight:700; color:#c07af0; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #c07af0;">🏗️ CONSTRUCTION &amp; TRADES</div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">🔥 Robotic Microfactories Tackle Housing Shortage</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Startup Reframe Systems (MIT spinoff) is building modular homes inside deployable robotic microfactories that can be set up wherever housing is needed most. The approach slashes construction time, reduces skilled labor dependency, and cuts emissions. Finished homes are already occupied in Massachusetts, and the company is setting up in California to replace homes destroyed in recent wildfires.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman — Robotics Special</span>
-      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">🏗️ Construction</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      🔥 <strong>Why this matters:</strong> Modular/robotic construction is the biggest emerging competitive threat to traditional remodeling. Understanding these approaches helps position Insight Remodels strategically.
-    </div>
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.reuters.com/science/nasa-rover-adds-list-organic-compounds-detected-mars-2026-04-21/" style="color:#1a1a1a; text-decoration:none;">Mars Organic Compounds — Strongest Hints of Habitability</a>
   </div>
-
-  <!-- SVG: Modular Construction Pipeline -->
-  <div style="background:#fafafa; border:1px solid #e0e0e0; border-radius:10px; padding:12px; margin-bottom:12px; text-align:center;">
-    <svg viewBox="0 0 600 160" xmlns="http://www.w3.org/2000/svg" style="max-width:100%; height:auto;">
-      <rect x="10" y="40" width="120" height="60" rx="8" fill="#f0e6ff" stroke="#c07af0" stroke-width="2"/>
-      <text x="70" y="65" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">🏭 Micro-</text>
-      <text x="70" y="80" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">factory</text>
-      <line x1="130" y1="70" x2="170" y2="70" stroke="#c07af0" stroke-width="2" marker-end="url(#arrow1)"/>
-      <rect x="170" y="40" width="120" height="60" rx="8" fill="#e6f0ff" stroke="#4f9cf9" stroke-width="2"/>
-      <text x="230" y="65" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">📦 Modular</text>
-      <text x="230" y="80" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">Assembly</text>
-      <line x1="290" y1="70" x2="330" y2="70" stroke="#4f9cf9" stroke-width="2" marker-end="url(#arrow2)"/>
-      <rect x="330" y="40" width="120" height="60" rx="8" fill="#e6ffe6" stroke="#7dcf5a" stroke-width="2"/>
-      <text x="390" y="65" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">🚚 Deploy</text>
-      <text x="390" y="80" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">to Site</text>
-      <line x1="450" y1="70" x2="490" y2="70" stroke="#7dcf5a" stroke-width="2" marker-end="url(#arrow3)"/>
-      <rect x="490" y="40" width="100" height="60" rx="8" fill="#fff0e6" stroke="#f0b429" stroke-width="2"/>
-      <text x="540" y="65" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">🏠 Move-in</text>
-      <text x="540" y="80" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">Ready</text>
-      <text x="300" y="135" text-anchor="middle" font-size="10" fill="#999">Reframe Systems: Robotic Microfactories → Occupied Homes</text>
-      <text x="300" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#333">Modular Home Construction Pipeline</text>
-      <defs>
-        <marker id="arrow1" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#c07af0"/></marker>
-        <marker id="arrow2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#4f9cf9"/></marker>
-        <marker id="arrow3" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#7dcf5a"/></marker>
-      </defs>
-    </svg>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    The Curiosity rover found 7 diverse organic compounds in a Martian lakebed rock, with 5 never before detected on Mars. While this doesn't confirm life, it demonstrates that Mars clearly had the right chemical ingredients for habitability.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters</span>
+    <span style="font-size:11px; background:#999; color:#fff; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">GENERAL INTEREST</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    💡 <strong>Key idea:</strong> Builds the scientific case that Mars sample return missions are worth the investment.
   </div>
 </div>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- 🖥️ TECHNOLOGY -->
-<!-- ═══════════════════════════════════════ -->
-<div style="margin-bottom:24px;">
-  <div style="font-size:16px; font-weight:700; color:#4fd1c5; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #4fd1c5;">🖥️ TECHNOLOGY</div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">🏃 Robot Shatters Human Half-Marathon Record by 7 Minutes</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      A humanoid robot built by Chinese company Honor completed the Beijing half-marathon in just over 50 minutes — beating the human world record of 57 minutes. This is a stunning leap from last year, when the winning robot took over 2.5 hours. Sony's Project Ace also became the first autonomous robot to defeat elite human table tennis players, winning 3 of 5 matches.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman — Robotics Special</span>
-      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      💡 <strong>Why this matters:</strong> Physical-world robotics capabilities are advancing as fast as digital AI — construction and trades applications are coming.
-    </div>
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.nytimes.com/2026/04/20/science/reid-wiseman-earthset-photo-artemis-2.html" style="color:#1a1a1a; text-decoration:none;">First-Ever 'Earthset' Video Captured by Artemis II</a>
   </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Tesla Launches Robotaxi in Dallas &amp; Houston</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Tesla is launching its robotaxi service in Houston and Dallas in geofenced zones, following pilots in Austin and San Francisco. Phoenix, Miami, and five other cities are planned for later this year. The rollout directly challenges Waymo, which already operates fully driverless in both markets.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman — Robotics Special</span>
-      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
-    </div>
-    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
-      👉 <strong>Why this matters:</strong> Autonomous vehicles are reshaping transportation infrastructure — affects how construction crews and materials move through metro areas long-term.
-    </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Astronaut Reid Wiseman recorded Earth disappearing behind the Moon's horizon during the Artemis II mission. The video went viral with over 11 million views, creating a modern sequel to Apollo 8's iconic Earthrise photograph from 1968.
   </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Delivery Robots Become Eyes for the Blind</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Coco Robotics is repurposing its sidewalk delivery robot fleet for accessibility. As robots navigate cities, they now feed real-time hazard data to BlindSquare (world's most-used GPS app for visually impaired). Users get spoken alerts in 26 languages about obstacles 10 meters ahead — a rare case of robot infrastructure working even better for humans.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman — Robotics Special</span>
-      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
-    </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">New York Times</span>
+    <span style="font-size:11px; background:#999; color:#fff; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">GENERAL INTEREST</span>
   </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Shape-Shifting Aircraft Wings Tested Successfully</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      German engineers have successfully tested aircraft wings that continuously morph their shape in real time. The wings detect turbulence and adjust instantly, cutting drag and spreading control across the entire surface. It's an early step toward safer, more efficient aircraft.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman — Robotics Special</span>
-      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
-    </div>
-  </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Pentagon Proposes $54B for Drones &amp; Autonomous Warfare</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      The Pentagon has unveiled a budget proposal to pour $54 billion into drones and autonomous warfare systems — a sum larger than the entire military budgets of most nations. The massive investment signals how central autonomous systems are becoming to defense strategy.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman — Robotics Special</span>
-      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
-    </div>
-  </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Google Updates Partner Ads Setting Controls</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Google is introducing a new setting through Google Partner ad settings that lets users choose whether to share additional information with advertising partners when visiting websites and apps that partner with Google. The change expands user control over ad targeting data.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Google</span>
-      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
-    </div>
-  </div>
-
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">Robotics Industry Snapshot</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      🍽️ <strong>Chef Robotics</strong> hits 100M servings assembled in commercial production — major milestone for food automation.<br/>
-      ✈️ <strong>Reliable Robotics</strong> raises $160M to fast-track FAA approval for "robot pilot" uncrewed cargo flights.<br/>
-      🔬 Scientists build heat-triggered robots that launch hundreds of times their own height with zero electronics.<br/>
-      💪 <strong>Agility Robotics'</strong> bipedal robot Digit deadlifts 65 pounds with full body coordination.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman — Robotics Special</span>
-      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Technology</span>
-    </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    ✅ <strong>Confirmed:</strong> Artemis program delivering on its promise — humanity is going back to the Moon, and this is the first visual proof in a generation.
   </div>
 </div>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- 📰 GENERAL INTEREST -->
-<!-- ═══════════════════════════════════════ -->
-<div style="margin-bottom:24px;">
-  <div style="font-size:16px; font-weight:700; color:#999; margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid #999;">📰 GENERAL INTEREST</div>
+<div style="font-size:18px; font-weight:800; color:#1a1a1a; margin:24px 0 12px 0; padding-bottom:6px; border-bottom:2px solid #f08080;">
+  🏥 HEALTH &amp; WELLNESS
+</div>
 
-  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
-    <div style="font-size:15px; font-weight:700; margin-bottom:6px; color:#1a1a1a;">🔒 Google Account Security Alert</div>
-    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
-      Google detected a new sign-in to the aidigestnews@gmail.com account on April 20. This was the scheduled task system authenticating — no action required.
-    </div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Google</span>
-      <span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
-    </div>
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.sciencedaily.com/releases/2026/04/260425091216.htm" style="color:#1a1a1a; text-decoration:none;">Gut Bacteria Linked to Depression via Industrial Pollutant</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Harvard scientists identified a chain reaction: the bacterium Morganella morganii interacts with an industrial pollutant to produce a molecule that triggers inflammatory proteins linked to depression. This opens the door to immune-targeting treatments.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">ScienceDaily</span>
+    <span style="font-size:11px; background:#f08080; color:#fff; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">HEALTH</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    💡 <strong>Key idea:</strong> Could reshape depression treatment — targeting the gut instead of just the brain. Practical implication: gut health matters more than we thought.
   </div>
 </div>
 
-<!-- FOOTER -->
-<div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.sciencedaily.com/releases/2026/04/260422091043.htm" style="color:#1a1a1a; text-decoration:none;">Eye Injection Could Reverse Age-Related Vision Loss</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    UC Irvine researchers found that injecting a specific polyunsaturated fatty acid directly into the eye restored visual function in older mice and reversed aging markers. The gene ELOVL2 controls production of fatty acids essential for healthy vision.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">ScienceDaily</span>
+    <span style="font-size:11px; background:#f08080; color:#fff; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">HEALTH</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Potential treatment for age-related macular degeneration, one of the leading causes of blindness. Relevant given your low-PUFA dietary lens.
+  </div>
+</div>
+
+<div style="font-size:18px; font-weight:800; color:#1a1a1a; margin:24px 0 12px 0; padding-bottom:6px; border-bottom:2px solid #4f9cf9;">
+  📈 MARKETS &amp; ECONOMY
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.fidelity.com/learning-center/trading-investing/active-investor" style="color:#1a1a1a; text-decoration:none;">Consumer Sentiment Hits Record Low</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Fidelity Active Investor highlights consumer sentiment reaching a record low. The question now is whether Americans' deteriorating economic outlook will put brakes on stocks and overall consumer spending.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity</span>
+    <span style="font-size:11px; background:#4f9cf9; color:#fff; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">MARKETS</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    ⚠️ <strong>Risk:</strong> Consumer sentiment is a leading indicator — record lows could signal slowing consumer spending, which directly affects remodeling demand.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.fidelity.com/learning-center/trading-investing/active-investor" style="color:#1a1a1a; text-decoration:none;">Exchange Funds: Diversifying Concentrated Positions</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Fidelity explores exchange funds as a tool for investors with large concentrated stock positions who need diversification without triggering immediate capital gains taxes.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity</span>
+    <span style="font-size:11px; background:#4f9cf9; color:#fff; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">MARKETS</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    💡 <strong>Key idea:</strong> Useful strategy to know about for portfolio management — relevant if you hold concentrated positions.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.fidelity.com/learning-center/trading-investing/active-investor" style="color:#1a1a1a; text-decoration:none;">SEC &amp; CFTC Crypto Guidance Update</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Latest regulatory developments regarding digital assets from the Securities and Exchange Commission and Commodity Futures Trading Commission.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity</span>
+    <span style="font-size:11px; background:#4f9cf9; color:#fff; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">MARKETS</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Regulatory clarity (or lack thereof) continues to shape the crypto landscape.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.fidelity.com/learning-center/trading-investing/active-investor" style="color:#1a1a1a; text-decoration:none;">International Stocks Case</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Fidelity's Market Sense examines international stock outlook amid geopolitical uncertainty and shifting global economic conditions.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity</span>
+    <span style="font-size:11px; background:#4f9cf9; color:#fff; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">MARKETS</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    💡 <strong>Key idea:</strong> Diversification into international markets remains relevant given ongoing geopolitical volatility.
+  </div>
+</div>
+
+<div style="font-size:18px; font-weight:800; color:#1a1a1a; margin:24px 0 12px 0; padding-bottom:6px; border-bottom:2px solid #f0b429;">
+  💰 PERSONAL FINANCE
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.fidelity.com/viewpoints" style="color:#1a1a1a; text-decoration:none;">10 Tax Tips to Seize This Year</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Fidelity Viewpoints covers Roth conversion strategies, maximizing HSA contributions, saving beyond a 401(k), and finding undervalued stocks during tax planning season.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Viewpoints</span>
+    <span style="font-size:11px; background:#f0b429; color:#222; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">FINANCE</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Timely annual review of tax optimization opportunities before year-end planning.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.fidelity.com/wealth-management" style="color:#1a1a1a; text-decoration:none;">3 Steps to Building a More Resilient Investment Portfolio</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Fidelity Wealth Management discusses preparing children to inherit assets, communicating with spouses about financial goals, and implementing portfolio resilience strategies.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Wealth Management</span>
+    <span style="font-size:11px; background:#f0b429; color:#222; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">FINANCE</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    💡 <strong>Key idea:</strong> Estate planning and generational wealth transfer require proactive communication and structure.
+  </div>
+</div>
+
+<div style="font-size:18px; font-weight:800; color:#1a1a1a; margin:24px 0 12px 0; padding-bottom:6px; border-bottom:2px solid #4fd1c5;">
+  🖥️ TECHNOLOGY
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    New Tech Gadgets Roundup
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    <strong>ShapeScale:</strong> 3D body scanner + smart scale combo for detailed body composition tracking. <strong>Dune:</strong> Context-aware Mac keypad that adapts shortcuts based on active app. <strong>Nuwa Pen:</strong> Smart digitizing pen for seamless vector art creation. <strong>Smart Swim 2 Goggles:</strong> Real-time swim metrics and form coaching.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman</span>
+    <span style="font-size:11px; background:#4fd1c5; color:#1a1a1a; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">TECH</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    💡 <strong>Key idea:</strong> The Dune context-aware keypad and Nuwa Pen are interesting productivity tools worth monitoring.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    Google Ads Settings Update
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Google is updating partner ads settings controls in My Ad Center, giving users more granular control over how their data is used for advertising across partner networks.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Google</span>
+    <span style="font-size:11px; background:#4fd1c5; color:#1a1a1a; padding:2px 8px; border-radius:4px; font-weight:600; margin-left:6px;">TECH</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Minor account housekeeping notice — good time to review your ad privacy settings.
+  </div>
+</div>
+
+<div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999; text-align:center;">
   Sources: Gmail inbox newsletters and subscriptions<br/>
-  Generated April 25, 2026 by Claude Cowork · General News RSS Feed
+  Generated April 26, 2026 by Claude Cowork · General News RSS Feed
 </div>
 
 </div>
     ]]></description>
-    <pubDate>Fri, 25 Apr 2026 16:30:00 -0700</pubDate>
-    <guid isPermaLink="false">general-news-2026-04-25</guid>
+    <pubDate>Sun, 26 Apr 2026 16:00:00 -0700</pubDate>
+    <guid isPermaLink="false">general-news-2026-04-26</guid>
   </item>
-
 </channel>
 </rss>
