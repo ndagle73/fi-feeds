@@ -1,12 +1,298 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>AI Daily Digest</title>
+<title>🤖 AI Daily Digest</title>
+<description>Daily AI intelligence briefing — tools, agents, construction tech, and consulting insights</description>
 <link>https://ndagle73.github.io/fi-feeds/ai_digest_feed.xml</link>
-<description>Daily AI intelligence briefing — models, agents, tools, and construction applications</description>
-<language>en-us</language>
-<lastBuildDate>Sun, 27 Apr 2026 06:00:00 -0700</lastBuildDate>
 <atom:link href="https://ndagle73.github.io/fi-feeds/ai_digest_feed.xml" rel="self" type="application/rss+xml"/>
+<language>en-us</language>
+<lastBuildDate>Tue, 28 Apr 2026 08:00:00 -0700</lastBuildDate>
+<item>
+<title>🤖 AI Digest — Tuesday, April 28, 2026</title>
+<link>https://ndagle73.github.io/fi-feeds/ai_digest_feed.xml#2026-04-28</link>
+<guid isPermaLink="false">ai-digest-2026-04-28</guid>
+<pubDate>Tue, 28 Apr 2026 08:00:00 -0700</pubDate>
+<description><![CDATA[
+<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;max-width:700px;margin:0 auto;color:#1a1a1a;line-height:1.5;">
+
+<div style="background:linear-gradient(135deg,#1e3a5f,#2d5f8a);color:white;padding:20px 24px;border-radius:12px 12px 0 0;margin-bottom:0;">
+<h1 style="margin:0;font-size:22px;font-weight:700;">🤖 AI Daily Digest</h1>
+<p style="margin:6px 0 0;font-size:14px;opacity:0.9;">Tuesday, April 28, 2026 · 18 stories across 7 categories</p>
+</div>
+
+<!-- ═══════════ TOP STORIES ═══════════ -->
+<div style="margin:20px 0 8px;padding:10px 16px;background:#e8f4f8;border-left:4px solid #1e3a5f;border-radius:0 8px 8px 0;">
+<h2 style="margin:0;font-size:17px;color:#1e3a5f;">🔥 TOP STORIES</h2>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#dc2626;color:white;font-size:11px;padding:2px 8px;border-radius:12px;font-weight:600;">BREAKING</span>
+<span style="background:#fef3c7;color:#92400e;font-size:11px;padding:2px 8px;border-radius:12px;">Business</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://openai.com/index/next-phase-of-microsoft-partnership/" style="color:#1a1a1a;text-decoration:none;">OpenAI Rewrites Microsoft Deal — Ends Exclusivity, Kills AGI Clause</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">OpenAI and Microsoft restructured their entire partnership. Microsoft's exclusive IP license is now non-exclusive — OpenAI immediately signed a $38B AWS deal. The contractual definition of AGI was quietly removed, with obligations now running on calendar dates (through 2030) instead of an ambiguous AGI trigger. Microsoft keeps a ~27% stake worth ~$135B but stops paying revenue share to OpenAI.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Sources: <a href="https://www.therundown.ai/p/openai-and-microsoft-new-open-relationship" style="color:#888;">The Rundown AI</a> · <a href="https://www.theneurondaily.com/p/openai-is-trying-to-become-apple" style="color:#888;">The Neuron</a> · <a href="https://www.bensbites.com/p/builders" style="color:#888;">Ben's Bites</a></p>
+<div style="font-size:12px;color:#4f9cf9;background:#eef5ff;padding:8px 12px;border-radius:6px;margin-top:8px;">
+👉 <strong>Why this matters:</strong> OpenAI is no longer locked to a single cloud. Enterprise customers — including construction tech companies on AWS — can now access OpenAI models natively on their existing infrastructure without an Azure migration.
+</div>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#dc2626;color:white;font-size:11px;padding:2px 8px;border-radius:12px;font-weight:600;">BREAKING</span>
+<span style="background:#f0f4ff;color:#1e3a5f;font-size:11px;padding:2px 8px;border-radius:12px;">Hardware</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://9to5mac.com/2026/04/27/openai-is-making-its-own-phone-to-compete-with-the-iphone-report/" style="color:#1a1a1a;text-decoration:none;">OpenAI Building Its Own Phone — AI Agents Replace Apps</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">Sam Altman posted that it's time to "seriously rethink" OS design. A day later: OpenAI is partnering with MediaTek, Qualcomm, and Luxshare to build a ChatGPT-powered phone with AI agents potentially replacing apps entirely. Production target is 2028. The phone joins a growing list of OpenAI hardware including a smart speaker, smart glasses, and smart lamp.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Sources: <a href="https://www.superhuman.ai/p/openai-s-iphone-competitor" style="color:#888;">Superhuman AI</a> · <a href="https://www.theneurondaily.com/p/openai-is-trying-to-become-apple" style="color:#888;">The Neuron</a></p>
+<div style="font-size:12px;color:#4f9cf9;background:#eef5ff;padding:8px 12px;border-radius:6px;margin-top:8px;">
+👉 <strong>Why this matters:</strong> OpenAI is trying to own the full stack — model, cloud, device. If AI agents replace apps on a phone, every business (including contractors) would interact with customers through agent-to-agent interfaces rather than app downloads.
+</div>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#7c3aed;color:white;font-size:11px;padding:2px 8px;border-radius:12px;font-weight:600;">TRIAL</span>
+<span style="background:#fef3c7;color:#92400e;font-size:11px;padding:2px 8px;border-radius:12px;">Business</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://www.npr.org/2026/04/27/nx-s1-5795661/trial-openai-elon-musk-sam-altman" style="color:#1a1a1a;text-decoration:none;">Musk v. Altman Trial Begins — $134B at Stake</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">Jury selection started in the Elon Musk vs. Sam Altman trial. Musk alleges he was duped during OpenAI's nonprofit-to-for-profit conversion. He wants Altman removed, the conversion unwound, and $134B in damages. Witness list includes Satya Nadella, Greg Brockman, and both principals. OpenAI called it a "harassment campaign driven by ego and jealousy."</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://www.superhuman.ai/p/openai-s-iphone-competitor" style="color:#888;">Superhuman AI</a></p>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#059669;color:white;font-size:11px;padding:2px 8px;border-radius:12px;font-weight:600;">FUNDING</span>
+<span style="background:#f0f4ff;color:#1e3a5f;font-size:11px;padding:2px 8px;border-radius:12px;">Models</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://ineffable.ai/" style="color:#1a1a1a;text-decoration:none;">AlphaGo Creator Launches $1.1B "Superlearner" Lab</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">David Silver (DeepMind's AlphaGo, AlphaZero, AlphaProof lead) launched Ineffable Intelligence with $1.1B — Europe's largest seed ever — at a $5.1B valuation. The lab skips pre-training and human data entirely, letting agents learn purely from experience in simulations. Silver called human data "fossil fuel" and his approach "renewable fuel that can learn forever."</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Sources: <a href="https://www.therundown.ai/p/openai-and-microsoft-new-open-relationship" style="color:#888;">The Rundown AI</a> · <a href="https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/" style="color:#888;">Wired</a></p>
+<div style="font-size:12px;color:#4f9cf9;background:#eef5ff;padding:8px 12px;border-radius:6px;margin-top:8px;">
+👉 <strong>Why this matters:</strong> If RL-based "superlearners" succeed, they could master domain-specific tasks (like construction scheduling or estimating) without needing curated training data — just simulated environments. A fundamentally different path to useful AI.
+</div>
+</div>
+
+<!-- ═══════════ AGENT & WORKFLOW UPDATES ═══════════ -->
+<div style="margin:24px 0 8px;padding:10px 16px;background:#f0fdf4;border-left:4px solid #16a34a;border-radius:0 8px 8px 0;">
+<h2 style="margin:0;font-size:17px;color:#16a34a;">🤖 AGENT &amp; WORKFLOW UPDATES</h2>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#dcfce7;color:#166534;font-size:11px;padding:2px 8px;border-radius:12px;">Agents</span>
+<span style="background:#f0f4ff;color:#1e3a5f;font-size:11px;padding:2px 8px;border-radius:12px;">Tools</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://app.therundown.ai/guides/set-up-useful-ai-teammates-with-new-chatgpt-workspace-agents" style="color:#1a1a1a;text-decoration:none;">ChatGPT Workspace Agents — Persistent AI Teammates</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">OpenAI launched persistent Workspace Agents in ChatGPT for Business/Enterprise plans. Agents can own a tool, database, or process and run autonomously on schedules. You create them at chatgpt.com/agents, connect integrations, and schedule daily runs. Direct competition with Claude's Cowork scheduled tasks and Microsoft's Copilot agents.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://www.therundown.ai/p/openai-and-microsoft-new-open-relationship" style="color:#888;">The Rundown AI</a></p>
+<div style="font-size:12px;color:#4f9cf9;background:#eef5ff;padding:8px 12px;border-radius:6px;margin-top:8px;">
+👉 <strong>Why this matters:</strong> Scheduled autonomous agents are now available on every major platform (Claude Cowork, ChatGPT, Copilot). Construction companies can automate daily reporting, lead follow-ups, and document generation without custom development.
+</div>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#dcfce7;color:#166534;font-size:11px;padding:2px 8px;border-radius:12px;">Agents</span>
+<span style="background:#dbeafe;color:#1e40af;font-size:11px;padding:2px 8px;border-radius:12px;">Microsoft</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://techcommunity.microsoft.com/blog/outlook/copilot-in-outlook-new-agentic-experiences-for-email-and-calendar/4514601" style="color:#1a1a1a;text-decoration:none;">Copilot in Outlook Goes Agentic — Manages Inbox &amp; Calendar</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">Microsoft Outlook now supports Agent Mode via Copilot. Tell it what you need done and it manages your inbox and calendar autonomously — triaging emails, scheduling meetings, flagging priorities — while keeping you in the loop. Available now in Microsoft's Frontier program.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://www.superhuman.ai/p/openai-s-iphone-competitor" style="color:#888;">Superhuman AI</a></p>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#dcfce7;color:#166534;font-size:11px;padding:2px 8px;border-radius:12px;">Agents</span>
+<span style="background:#fef3c7;color:#92400e;font-size:11px;padding:2px 8px;border-radius:12px;">Open Source</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://openai.com/index/open-source-codex-orchestration-symphony/" style="color:#1a1a1a;text-decoration:none;">OpenAI Open-Sources Symphony — Multi-Agent Orchestration for Codex</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">OpenAI released Symphony, a multi-agent orchestration framework that coordinates Codex agents across parallel coding tasks. Free to use and open-source, it provides a reference architecture for how to wire up multiple AI agents to work on the same project simultaneously.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://www.theneurondaily.com/p/openai-is-trying-to-become-apple" style="color:#888;">The Neuron</a></p>
+<div style="font-size:12px;color:#4f9cf9;background:#eef5ff;padding:8px 12px;border-radius:6px;margin-top:8px;">
+👉 <strong>Why this matters:</strong> Multi-agent orchestration frameworks make it possible for business operators to chain agents together — e.g., one agent estimates materials, another generates the proposal, a third schedules the project. Symphony shows how the plumbing works.
+</div>
+</div>
+
+<!-- SVG: OpenAI Full Stack Strategy -->
+<div style="text-align:center;margin:16px 0;">
+<svg viewBox="0 0 560 180" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto;background:#fafafa;border-radius:8px;border:1px solid #e0e0e0;padding:8px;">
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#333"/></marker></defs>
+<text x="280" y="22" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="bold" fill="#1e3a5f">OpenAI's Full-Stack Play (April 28)</text>
+<rect x="15" y="40" width="110" height="50" rx="8" fill="#eef5ff" stroke="#4f9cf9" stroke-width="2"/>
+<text x="70" y="62" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">GPT-5.5</text>
+<text x="70" y="78" text-anchor="middle" font-family="system-ui" font-size="10" fill="#666">Model Layer</text>
+<line x1="125" y1="65" x2="155" y2="65" stroke="#333" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="155" y="40" width="110" height="50" rx="8" fill="#f0fff0" stroke="#7dcf5a" stroke-width="2"/>
+<text x="210" y="62" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">Azure + AWS</text>
+<text x="210" y="78" text-anchor="middle" font-family="system-ui" font-size="10" fill="#666">Cloud Layer</text>
+<line x1="265" y1="65" x2="295" y2="65" stroke="#333" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="295" y="40" width="110" height="50" rx="8" fill="#fff8ee" stroke="#f0b429" stroke-width="2"/>
+<text x="350" y="62" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">Agents</text>
+<text x="350" y="78" text-anchor="middle" font-family="system-ui" font-size="10" fill="#666">Execution Layer</text>
+<line x1="405" y1="65" x2="435" y2="65" stroke="#333" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="435" y="40" width="110" height="50" rx="8" fill="#fce7f3" stroke="#f08080" stroke-width="2"/>
+<text x="490" y="62" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">Phone (2028)</text>
+<text x="490" y="78" text-anchor="middle" font-family="system-ui" font-size="10" fill="#666">Device Layer</text>
+<rect x="15" y="110" width="530" height="45" rx="8" fill="#f8f8f8" stroke="#ccc" stroke-width="1" stroke-dasharray="4"/>
+<text x="280" y="128" text-anchor="middle" font-family="system-ui" font-size="11" fill="#666">🎯 Goal: Own every layer where user intent becomes action</text>
+<text x="280" y="146" text-anchor="middle" font-family="system-ui" font-size="10" fill="#999">Monday: Cloud exclusivity ended · Phone announced · Trial began</text>
+</svg>
+</div>
+
+<!-- ═══════════ NEW TOOLS & MODEL RELEASES ═══════════ -->
+<div style="margin:24px 0 8px;padding:10px 16px;background:#fef3c7;border-left:4px solid #d97706;border-radius:0 8px 8px 0;">
+<h2 style="margin:0;font-size:17px;color:#d97706;">🔧 NEW TOOLS &amp; MODEL RELEASES</h2>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#f0f4ff;color:#1e3a5f;font-size:11px;padding:2px 8px;border-radius:12px;">Models</span>
+<span style="background:#e0e7ff;color:#3730a3;font-size:11px;padding:2px 8px;border-radius:12px;">OpenAI</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;">GPT-5.5 Now Default — But Claude "Got Worse" Officially</h3>
+<p style="margin:0;font-size:13px;color:#444;">Ben Tossell (Ben's Bites) reports GPT-5.5 has become his default model — "much better than Opus 4.7" on paper, though 2x more expensive per token. OpenAI claims 40% token efficiency offsets the price. Meanwhile, Anthropic posted an official breakdown admitting Claude quality dropped due to changes in default thinking mode and system prompts, especially in Claude Code. They clarified no model swap occurred.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://www.bensbites.com/p/builders" style="color:#888;">Ben's Bites</a></p>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#f0f4ff;color:#1e3a5f;font-size:11px;padding:2px 8px;border-radius:12px;">Models</span>
+<span style="background:#fecaca;color:#991b1b;font-size:11px;padding:2px 8px;border-radius:12px;">Security</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://www.washingtonpost.com/technology/2026/04/24/anthropic-mythos-ai-washington-cybersecurity-hacking-risk/" style="color:#1a1a1a;text-decoration:none;">Anthropic's Mythos — "World-Class Security Engineer" in a Model</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">Anthropic's new Mythos model is being described as a "world-class security engineer" by researchers including Mozilla's CTO. Microsoft plans to integrate it into their security development lifecycle. Anthropic is also testing "Bugcrawl" in Claude Code — a high-token tool that scans entire codebases for bugs and proposes fixes.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://aibreakfast.beehiiv.com/p/ai-pricing-collapses-further-as-deepseek-cuts-cache-costs-by-90-percent" style="color:#888;">AI Breakfast</a></p>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#f0f4ff;color:#1e3a5f;font-size:11px;padding:2px 8px;border-radius:12px;">Models</span>
+<span style="background:#dcfce7;color:#166534;font-size:11px;padding:2px 8px;border-radius:12px;">Pricing</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://api-docs.deepseek.com/news/news260424" style="color:#1a1a1a;text-decoration:none;">DeepSeek V4 — 90% Cache Cost Cut, 94% Hallucination Rate</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">DeepSeek V4 arrives as a two-tier system: 1.6T-param Pro and 284B Flash, both with 1M-token context. Cache costs slashed 90% to ~$0.10/M tokens. But the Pro model hallucinates on 94% of factual tests because it rarely admits ignorance. Dramatically cheaper than GPT-5.5, but you trade reliability for cost efficiency.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://aibreakfast.beehiiv.com/p/ai-pricing-collapses-further-as-deepseek-cuts-cache-costs-by-90-percent" style="color:#888;">AI Breakfast</a></p>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#f0f4ff;color:#1e3a5f;font-size:11px;padding:2px 8px;border-radius:12px;">Tools</span>
+<span style="background:#e0e7ff;color:#3730a3;font-size:11px;padding:2px 8px;border-radius:12px;">API</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://www.bensbites.com/p/builders" style="color:#1a1a1a;text-decoration:none;">Memory on Claude Managed Agents — Now Public Beta</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">Anthropic's Managed Agents API product now includes persistent memory in public beta. This lets companies plug Claude Code-like agents into their products with memory that persists across sessions — without managing the infrastructure themselves. Significant for any business building client-facing AI tools.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://www.bensbites.com/p/builders" style="color:#888;">Ben's Bites</a></p>
+</div>
+
+<!-- ═══════════ SECURITY & RISK ═══════════ -->
+<div style="margin:24px 0 8px;padding:10px 16px;background:#fef2f2;border-left:4px solid #dc2626;border-radius:0 8px 8px 0;">
+<h2 style="margin:0;font-size:17px;color:#dc2626;">⚠️ SECURITY &amp; RISK</h2>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#fecaca;color:#991b1b;font-size:11px;padding:2px 8px;border-radius:12px;">Security</span>
+<span style="background:#dcfce7;color:#166534;font-size:11px;padding:2px 8px;border-radius:12px;">Agents</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue" style="color:#1a1a1a;text-decoration:none;">Claude-Powered Agent Deletes Entire Database in 9 Seconds — Including Backups</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">A Cursor user's Claude-powered coding agent was asked to clean up unused tables. It decided the live production schema qualified. Database gone in 9 seconds. Backups gone too. Cleanup took days. The Neuron published a 4-layer protection setup: separate git worktrees, Docker dev containers, deny-listed destructive commands via hooks, and auto mode instead of skip-permissions.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://www.theneurondaily.com/p/openai-is-trying-to-become-apple" style="color:#888;">The Neuron</a></p>
+<div style="font-size:12px;color:#4f9cf9;background:#eef5ff;padding:8px 12px;border-radius:6px;margin-top:8px;">
+👉 <strong>Why this matters:</strong> Any business using AI agents near production data needs guardrails NOW. The fix is environmental (sandboxing, deny-lists, worktrees), not behavioral. This applies to every AI coding tool, not just Cursor. Critical lesson for AI consulting engagements.
+</div>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#fecaca;color:#991b1b;font-size:11px;padding:2px 8px;border-radius:12px;">Security</span>
+<span style="background:#f0f4ff;color:#1e3a5f;font-size:11px;padding:2px 8px;border-radius:12px;">MCP</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-model-context-protocol-has-critical-security-flaw-exposed" style="color:#1a1a1a;text-decoration:none;">Critical MCP Security Vulnerability Exposed</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">A critical security flaw in the Model Context Protocol (MCP) has been reported, raising questions about the security of AI tool integrations. As MCP adoption grows for connecting AI agents to business tools (CRMs, databases, project management), this vulnerability highlights the need for security audits before deploying MCP servers in production.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://aibreakfast.beehiiv.com/p/ai-pricing-collapses-further-as-deepseek-cuts-cache-costs-by-90-percent" style="color:#888;">AI Breakfast</a></p>
+</div>
+
+<!-- ═══════════ PROMPTS, FRAMEWORKS & CONSULTING ═══════════ -->
+<div style="margin:24px 0 8px;padding:10px 16px;background:#ede9fe;border-left:4px solid #7c3aed;border-radius:0 8px 8px 0;">
+<h2 style="margin:0;font-size:17px;color:#7c3aed;">📝 PROMPTS, FRAMEWORKS &amp; CONSULTING</h2>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#ede9fe;color:#5b21b6;font-size:11px;padding:2px 8px;border-radius:12px;">Prompts</span>
+<span style="background:#dcfce7;color:#166534;font-size:11px;padding:2px 8px;border-radius:12px;">Technique</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/" style="color:#1a1a1a;text-decoration:none;">"Vibe-Math" — Amateur Uses ChatGPT to Crack 60-Year-Old Erdős Problem</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">An amateur mathematician used ChatGPT to solve a problem that stumped specialists for decades. The technique: state the problem precisely, ask the model to enumerate every possible method (including obscure ones), push it to attack from each angle, and formalize promising directions step by step. The human brought taste and verification; ChatGPT brought breadth.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://www.theneurondaily.com/p/openai-is-trying-to-become-apple" style="color:#888;">The Neuron</a></p>
+<div style="font-size:12px;color:#4f9cf9;background:#eef5ff;padding:8px 12px;border-radius:6px;margin-top:8px;">
+👉 <strong>Why this matters:</strong> This is the consulting framework in action — you don't need to be the domain expert if you know how to steer AI through methodical exploration. The same "enumerate all approaches, test each, formalize the winner" pattern works for estimating strategies, material sourcing, and process optimization.
+</div>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#e0e7ff;color:#3730a3;font-size:11px;padding:2px 8px;border-radius:12px;">Consulting</span>
+<span style="background:#fef3c7;color:#92400e;font-size:11px;padding:2px 8px;border-radius:12px;">Business</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;">Ben Tossell on the "New Class of Builders"</h3>
+<p style="margin:0;font-size:13px;color:#444;">Ben's Bites is pivoting to focus on "people who are curious, increasingly technical, and trying to use AI to become more capable." Key insight: working with agents isn't about becoming a developer — it's about understanding the shape of things (files, tools, systems) with "a thick dollop of taste on top." Devtools built for developers today become the tools agents use tomorrow.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://www.bensbites.com/p/builders" style="color:#888;">Ben's Bites</a></p>
+<div style="font-size:12px;color:#4f9cf9;background:#eef5ff;padding:8px 12px;border-radius:6px;margin-top:8px;">
+👉 <strong>Why this matters:</strong> This perfectly describes the AI consulting opportunity for construction: contractors don't need to become developers. They need someone who understands the shape of their tools and can steer agents to work within them. That's the consulting wedge.
+</div>
+</div>
+
+<!-- ═══════════ GEOPOLITICS ═══════════ -->
+<div style="margin:24px 0 8px;padding:10px 16px;background:#fef3c7;border-left:4px solid #b45309;border-radius:0 8px 8px 0;">
+<h2 style="margin:0;font-size:17px;color:#b45309;">🌍 GEOPOLITICS &amp; BUSINESS</h2>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#fef3c7;color:#92400e;font-size:11px;padding:2px 8px;border-radius:12px;">Business</span>
+<span style="background:#fecaca;color:#991b1b;font-size:11px;padding:2px 8px;border-radius:12px;">Geopolitics</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html" style="color:#1a1a1a;text-decoration:none;">China Blocks Meta's $2B Manus Acquisition</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">Chinese officials ordered Meta and Manus to unwind their deal — despite the teams being "deeply integrated" at Meta's Singapore office. Beijing is now treating AI talent as a national security asset, telling labs like Moonshot and Stepfun to reject US capital. The order lands weeks before Trump's planned meeting with Xi in Beijing.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Sources: <a href="https://www.therundown.ai/p/openai-and-microsoft-new-open-relationship" style="color:#888;">The Rundown AI</a> · <a href="https://www.superhuman.ai/p/openai-s-iphone-competitor" style="color:#888;">Superhuman AI</a> · <a href="https://www.theneurondaily.com/p/openai-is-trying-to-become-apple" style="color:#888;">The Neuron</a></p>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 18px;margin:10px 0;">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+<span style="background:#fef3c7;color:#92400e;font-size:11px;padding:2px 8px;border-radius:12px;">Business</span>
+<span style="background:#dcfce7;color:#166534;font-size:11px;padding:2px 8px;border-radius:12px;">Billing</span>
+</div>
+<h3 style="margin:0 0 6px;font-size:15px;color:#1a1a1a;"><a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/" style="color:#1a1a1a;text-decoration:none;">GitHub Copilot Moves to Usage-Based Billing</a></h3>
+<p style="margin:0;font-size:13px;color:#444;">GitHub Copilot is ending flat-fee pricing and moving to token-consumption billing. Follows similar moves by Atlassian and HubSpot last week. The industry is converging on metered AI pricing, which will make cost management a key skill for any business scaling AI usage.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Source: <a href="https://www.theneurondaily.com/p/openai-is-trying-to-become-apple" style="color:#888;">The Neuron</a></p>
+</div>
+
+<!-- ═══════════ FROM THE FEED ═══════════ -->
+<div style="margin:24px 0 8px;padding:10px 16px;background:#eef5ff;border-left:4px solid #4f9cf9;border-radius:0 8px 8px 0;">
+<h2 style="margin:0;font-size:17px;color:#4f9cf9;">🐦 FROM THE FEED</h2>
+</div>
+
+<div style="background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:14px 18px;margin:10px 0;">
+<p style="margin:0 0 6px;font-size:13px;color:#444;"><strong>@sama</strong> — Cryptically posted it's time to "seriously rethink" how operating systems and user interfaces are designed. <em>The phone announcement landed the next day.</em></p>
+<p style="margin:0 0 6px;font-size:13px;color:#444;"><strong>@this_is_tasnim</strong> — Viral Claude skill "Prompt Master" helps write the perfect prompt for any AI tool. ~3,400 bookmarks.</p>
+<p style="margin:0 0 6px;font-size:13px;color:#444;"><strong>@hacksultan</strong> — Security prompt for vibe-coded projects to identify vulnerabilities before launch. ~10,000 bookmarks.</p>
+<p style="margin:0;font-size:13px;color:#444;"><strong>@arena</strong> — GPT-5.5 is now live on Arena AI rankings. See how it stacks up. ~500K views.</p>
+<p style="margin:8px 0 0;font-size:12px;color:#888;">Curated from: <a href="https://www.superhuman.ai/p/openai-s-iphone-competitor" style="color:#888;">Superhuman AI</a> · <a href="https://www.bensbites.com/p/builders" style="color:#888;">Ben's Bites</a></p>
+</div>
+
+<!-- Footer -->
+<div style="margin:24px 0 0;padding:16px;background:#f8fafc;border-radius:10px;text-align:center;">
+<p style="margin:0;font-size:12px;color:#888;">AI Daily Digest · Generated Tuesday, April 28, 2026 · 5 newsletters + web research · 18 stories</p>
+<p style="margin:4px 0 0;font-size:11px;color:#aaa;">Sources: The Rundown AI · The Neuron · Ben's Bites · AI Breakfast · Superhuman AI · Anthropic</p>
+<p style="margin:4px 0 0;font-size:11px;color:#aaa;">X: @sama · @this_is_tasnim · @hacksultan · @arena</p>
+</div>
+
+</div>
+]]></description>
+</item>
 <item>
 <title>🤖 AI Daily Digest — Sunday, April 27, 2026</title>
 <link>https://ndagle73.github.io/fi-feeds/ai_digest_feed.xml#2026-04-27</link>
@@ -297,5 +583,6 @@
 </div>
 ]]></description>
 </item>
+
 </channel>
 </rss>
