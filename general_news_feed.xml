@@ -1,338 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>📰 General News Daily</title>
-  <description>Daily news briefing — markets, real estate, construction, finance, tech, health, and general interest</description>
-  <link>https://ndagle73.github.io/fi-feeds/general_news_feed.xml</link>
-  <atom:link href="https://ndagle73.github.io/fi-feeds/general_news_feed.xml" rel="self" type="application/rss+xml"/>
-  <language>en-us</language>
-  <lastBuildDate>Mon, 27 Apr 2026 16:00:00 -0700</lastBuildDate>
-
-  <item>
-    <title>📰 General News — Monday, April 27, 2026</title>
-    <description><![CDATA[
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #fafafa; color: #1a1a1a; line-height: 1.6; margin: 0; padding: 16px; }
-.container { max-width: 800px; margin: 0 auto; }
-.section-header { display: flex; align-items: center; gap: 12px; margin: 24px 0 16px 0; padding-bottom: 8px; font-weight: 600; font-size: 16px; border-bottom: 2px solid; }
-.markets .section-header { background: #1e3a5f; color: #4f9cf9; padding: 8px 12px; border-radius: 6px; border-bottom: none; }
-.finance .section-header { background: #3a2d0a; color: #f0b429; padding: 8px 12px; border-radius: 6px; border-bottom: none; }
-.construction .section-header { background: #2a1a3a; color: #c07af0; padding: 8px 12px; border-radius: 6px; border-bottom: none; }
-.technology .section-header { background: #0a2a2a; color: #4fd1c5; padding: 8px 12px; border-radius: 6px; border-bottom: none; }
-.health .section-header { background: #2a1a1a; color: #f08080; padding: 8px 12px; border-radius: 6px; border-bottom: none; }
-.general .section-header { background: #444; color: #999; padding: 8px 12px; border-radius: 6px; border-bottom: none; }
-.card { background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 10px; padding: 16px 18px; margin-bottom: 12px; }
-.card-title { font-weight: 600; font-size: 15px; color: #1a1a1a; margin: 0 0 8px 0; }
-.card-summary { font-size: 13px; color: #555; line-height: 1.5; margin: 0 0 10px 0; }.card-meta { display: flex; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; }
-.chip { display: inline-block; font-size: 11px; padding: 4px 10px; border-radius: 12px; font-weight: 500; }
-.source-chip { background: #e8e8e8; color: #666; }
-.category-chip { color: white; }
-.markets .category-chip { background: #4f9cf9; }
-.finance .category-chip { background: #f0b429; }
-.construction .category-chip { background: #c07af0; }
-.technology .category-chip { background: #4fd1c5; }
-.health .category-chip { background: #f08080; }
-.general .category-chip { background: #999; }
-.why-matters { font-size: 12px; color: #4f9cf9; background: #eef5ff; padding: 8px 12px; border-radius: 6px; margin-top: 8px; }
-.markets .why-matters { background: #eef5ff; color: #4f9cf9; }
-.finance .why-matters { background: #fff8e6; color: #f0b429; }
-.construction .why-matters { background: #f5e8ff; color: #c07af0; }
-.technology .why-matters { background: #e0f5f5; color: #4fd1c5; }
-.health .why-matters { background: #ffe8e8; color: #f08080; }
-.general .why-matters { background: #f0f0f0; color: #666; }
-.chart-container { text-align: center; margin: 20px 0; }
-svg { max-width: 100%; height: auto; }
-.footer { margin-top: 24px; padding-top: 12px; border-top: 1px solid #e0e0e0; font-size: 11px; color: #999; }
-.emoji { margin-right: 6px; }
-</style>
-</head>
-<body>
-<div class="container">
-
-<div class="markets">
-<div class="section-header">📈 MARKETS & ECONOMY</div>
-<div class="card">
-<div class="card-title">Markets Resilient Despite Geopolitical Uncertainty — Fidelity Pros See Double-Digit Earnings Growth Ahead</div>
-<div class="card-summary">Despite heightened uncertainty around Middle East developments, economic growth and corporate profits remain resilient. Fidelity's director of global macro Jurrien Timmer says the US could be on track for double-digit earnings growth this year. The rest of 2026 could be more positive for stocks than the start. Fidelity pros suggest looking at real estate stocks, international stocks (outpacing US stocks so far in 2026), and commodities for diversification.</div>
-<div class="card-meta">
-<span class="chip source-chip">Fidelity Investments (Apr 21)</span>
-<span class="chip category-chip">Markets</span>
+<title>General News Daily Digest</title>
+<link>https://ndagle73.github.io/fi-feeds/general_news_feed.xml</link>
+<atom:link href="https://ndagle73.github.io/fi-feeds/general_news_feed.xml" rel="self" type="application/rss+xml"/>
+<description>Daily digest of non-AI news: markets, real estate, finance, tech, health, and general interest</description>
+<language>en-us</language>
+<lastBuildDate>Mon, 28 Apr 2026 09:00:00 -0700</lastBuildDate>
+<item>
+<title>📰 General News Digest — Monday, April 28, 2026</title>
+<pubDate>Mon, 28 Apr 2026 09:00:00 -0700</pubDate>
+<guid isPermaLink="false">general-news-2026-04-28</guid>
+<description><![CDATA[
+<div style="text-align:center;padding:16px;background:linear-gradient(135deg,#1a73e8,#34a853);border-radius:12px;margin-bottom:16px;color:#fff;">
+<h2 style="margin:0;font-size:20px;">📰 General News Digest</h2>
+<p style="margin:4px 0 0 0;font-size:14px;">Monday, April 28, 2026</p>
+<p style="margin:4px 0 0 0;font-size:12px;">17 articles across 7 categories</p>
 </div>
-<div class="why-matters">💡 Portfolio diversification signals matter — international stocks outperforming US equities could shift allocation strategy for personal investments.</div>
+<div style="max-width:680px;margin:0 auto;font-family:system-ui,-apple-system,sans-serif;font-size:14px;line-height:1.6;color:#222;">
+<div style="border-left:4px solid #1a73e8;padding:8px 12px;margin:20px 0 10px 0;background:#e8f0fe;border-radius:6px;font-size:16px;font-weight:bold;">📊 MARKETS & ECONOMY</div>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>International Stocks Outpacing US Markets in 2026</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Fidelity "Good Question" Newsletter, Apr 28</div>
+<p>Despite a selloff when the Iran conflict began, international stocks are back on the upswing with gains nearly double those of US stocks this year. Germany announced a trillion dollars of fiscal spending packages, European banking sector is healthier and lending more, and Europe has diversified energy sources since the Russia-Ukraine conflict. Portfolio manager Faris Rahman says while US stocks remain the quarterback, international players deserve more playing time.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: International diversification isn't just theory — it's delivering real outperformance in 2026. European fiscal stimulus and banking health create a structural tailwind that could persist.</div>
 </div>
-
-<div class="card">
-<div class="card-title">Consumer Sentiment Hits Record Low — Will It Brake Stocks?</div>
-<div class="card-summary">The University of Michigan consumer sentiment index has reached a record low, raising questions about whether Americans' negative economic outlook will drag down equity markets. Fidelity analysts are watching whether the sentiment disconnect (consumers pessimistic while corporate earnings remain strong) resolves itself or becomes a self-fulfilling prophecy.</div>
-<div class="card-meta">
-<span class="chip source-chip">Fidelity Active Investor (Apr 24)</span>
-<span class="chip category-chip">Markets</span>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>Consumer Sentiment Hits Record Low</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Fidelity Active Investor, Apr 24</div>
+<p>Americans' outlook on the economy has reached record lows. The question is whether this consumer pessimism will put the brakes on stock market performance.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: Consumer sentiment is a leading indicator. Record lows often precede either economic slowdowns or contrarian buying opportunities — historically, extreme pessimism has sometimes marked market bottoms.</div>
 </div>
-<div class="why-matters">⚠️ Consumer confidence directly impacts spending on discretionary items like remodeling — a prolonged downturn in sentiment could slow residential project pipelines.</div>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>Exchange Funds: Diversifying Concentrated Positions</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Fidelity Active Investor, Apr 24</div>
+<p>For investors holding large concentrated stock positions, exchange funds offer a way to diversify without triggering an immediate taxable event. You contribute appreciated stock into a pool and receive a diversified basket in return.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: If you hold a single stock that's become a large portion of your portfolio, exchange funds are one of the few tax-efficient escape valves available.</div>
 </div>
-
-<div class="chart-container">
-<svg viewBox="0 0 600 220" xmlns="http://www.w3.org/2000/svg" style="background: #fafafa; border-radius: 8px;">
-<defs>
-<style>
-.chart-title { font-size: 14px; font-weight: 600; fill: #1a1a1a; }
-.chart-label { font-size: 11px; fill: #666; }
-.chart-grid { stroke: #e0e0e0; stroke-width: 0.5; }
-</style>
-</defs><rect width="600" height="220" fill="#fafafa" rx="8"/>
-<text x="300" y="25" text-anchor="middle" class="chart-title">Consumer Sentiment vs S&amp;P 500 Performance</text>
-<g class="chart-grid">
-<line x1="60" y1="50" x2="560" y2="50" stroke-dasharray="2,2"/>
-<line x1="60" y1="100" x2="560" y2="100" stroke-dasharray="2,2"/>
-<line x1="60" y1="150" x2="560" y2="150" stroke-dasharray="2,2"/>
-<line x1="60" y1="200" x2="560" y2="200"/>
-</g>
-<text x="30" y="155" text-anchor="end" class="chart-label">Neutral</text>
-<text x="30" y="105" text-anchor="end" class="chart-label">High</text>
-<text x="30" y="55" text-anchor="end" class="chart-label">Record</text>
-<polyline points="100,80 180,95 260,120 340,145 420,165 500,185" fill="none" stroke="#f08080" stroke-width="3" stroke-linejoin="round"/>
-<polyline points="100,170 180,160 260,155 340,145 420,130 500,110" fill="none" stroke="#4f9cf9" stroke-width="3" stroke-linejoin="round"/>
-<text x="520" y="100" class="chart-label" fill="#4f9cf9" font-weight="bold">↑ S&amp;P 500</text>
-<text x="520" y="190" class="chart-label" fill="#f08080" font-weight="bold">↓ Sentiment</text>
-<text x="300" y="215" text-anchor="middle" class="chart-label">Jan — Apr 2026</text>
-</svg>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>SEC and CFTC Issue New Crypto Guidance</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Fidelity Active Investor, Apr 24</div>
+<p>Regulatory bodies have issued their latest guidance on digital assets, clarifying rules around crypto trading and custody.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: Regulatory clarity (or lack thereof) directly impacts crypto investment strategies. New guidance may open doors for institutional adoption or create compliance hurdles.</div>
 </div>
-
-<div class="card">
-<div class="card-title">Treasury Bonds Breaking Pattern — Yields Rising Despite Risk</div>
-<div class="card-summary">Interest rates on bonds aren't following their typical pattern. Since the Iran conflict escalation, Treasury yields have risen and prices fallen — the opposite of the usual flight-to-safety pattern. Expectations that the Fed will keep rates higher for longer have limited any rally. The recent yield increases may have created more attractive entry points for bond investors.</div>
-<div class="card-meta">
-<span class="chip source-chip">Fidelity Investments (Apr 21)</span>
-<span class="chip category-chip">Markets</span>
+<div style="border-left:4px solid #34a853;padding:8px 12px;margin:20px 0 10px 0;background:#e6f4ea;border-radius:6px;font-size:16px;font-weight:bold;">🏠 REAL ESTATE</div>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>Housing Market Shows Signs of Rebound</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Fidelity "Good Question" Newsletter, Apr 28</div>
+<p>Home prices fell in ~30% of the nation's 300 largest markets between March 2025 and March 2026 (Zillow data via Fast Company). The gap between existing and new mortgage rates narrowed between June 2024 and December 2025. After similar narrows historically, housing turnover increased over the following year 70% of the time. Mortgage rates have started falling in recent weeks despite inflation and the Iran conflict rate spike. Homebuilder stocks have historically outperformed when turnover is at the lowest 10% of its range.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: For buyers, more inventory and potentially lower prices. For investors, homebuilder stocks have historically outperformed after periods of compressed turnover — this could be one of those inflection points.</div>
 </div>
-<div class="why-matters">💡 Higher-for-longer rates affect both personal investment strategy and the cost of financing for construction and remodeling projects.</div>
+<div style="border-left:4px solid #e8710a;padding:8px 12px;margin:20px 0 10px 0;background:#fef3e6;border-radius:6px;font-size:16px;font-weight:bold;">💰 PERSONAL FINANCE</div>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>10 Tax Moves to Make Now for 2026</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Fidelity Viewpoints, Apr 23</div>
+<p>Recent tax law changes mean making certain moves now could reduce next tax season's bill. With the 2025 tax season over, there are specific strategies to save more this year — but some benefits won't last.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: Tax planning in April/May is often more valuable than scrambling in December. Several current provisions are set to sunset, making 2026 a particularly important year to act.</div>
 </div>
-<div class="card">
-<div class="card-title">SEC and CFTC Release Latest Crypto Regulatory Guidance</div>
-<div class="card-summary">Federal regulatory bodies have issued new guidance regarding digital assets, continuing the evolving regulatory framework around cryptocurrency investments.</div>
-<div class="card-meta">
-<span class="chip source-chip">Fidelity Active Investor (Apr 24)</span>
-<span class="chip category-chip">Markets</span>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>Roth Conversion Timing: Market Swings Create Opportunity</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Fidelity Viewpoints, Apr 23</div>
+<p>Market volatility and today's tax rates may make Roth conversions particularly compelling right now. Converting when portfolio values are temporarily depressed means paying taxes on a lower amount.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: Market dips are Roth conversion opportunities — you convert at a lower value, pay less tax, and the recovery happens inside your tax-free Roth account.</div>
 </div>
-<div class="why-matters">✅ Regulatory clarity affects portfolio allocation decisions for digital asset exposure.</div>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>3 Steps to a More Resilient Portfolio</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Fidelity Wealth Management, Apr 23</div>
+<p>A well-diversified asset allocation can help manage market volatility. Fidelity's wealth management team outlines bond strategies for stability, income, and tax efficiency, plus guidance on preparing children for inheritance and coordinating finances with a spouse.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: Portfolio resilience isn't just about stocks vs. bonds — it's about having a complete financial framework that accounts for bonds, inheritance planning, and family coordination.</div>
 </div>
-
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>3 Cost-Cutting Tricks You Haven't Tried</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Fidelity "Good Question" Newsletter, Apr 28</div>
+<p>With inflation still rising: (1) Call your internet/phone/cable provider's retention department and negotiate — mention competitors' promotions. (2) Pay cash at independent businesses for 2-10% discounts (saves them credit card fees). (3) Sign up for your car insurer's safe driver program for up to 30% off premiums.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: These aren't the usual "skip the latte" tips. The retention department trick alone could save hundreds per year, and cash discounts are increasingly common at independent businesses.</div>
 </div>
-
-<div class="finance">
-<div class="section-header">💰 PERSONAL FINANCE</div>
-
-<div class="card">
-<div class="card-title">10 Tax Moves to Make Now — Benefits That Won't Last</div>
-<div class="card-summary">With the 2025 tax season over, Fidelity outlines 10 tax-saving strategies including timely Roth conversion tips (market swings and current tax rates make conversions particularly compelling now), HSA optimization, and strategies for saving beyond a 401(k). Also covers 5 moves even supersavers miss and how to find undervalued stocks in unusual markets.</div>
-<div class="card-meta">
-<span class="chip source-chip">Fidelity Viewpoints (Apr 23)</span>
-<span class="chip category-chip">Finance</span>
+<div style="border-left:4px solid #9334e6;padding:8px 12px;margin:20px 0 10px 0;background:#f3e8fd;border-radius:6px;font-size:16px;font-weight:bold;">🤖 TECHNOLOGY</div>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>Robot Shatters Human Half-Marathon Record</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Superhuman Robotics Special, Apr 25</div>
+<p>A humanoid robot built by Chinese company Honor completed the Beijing half-marathon in just over 50 minutes, beating the human world record of 57 minutes. Last year, the winning robot took over 2.5 hours. Also: Sony's Project Ace robot defeated elite table tennis players 3-of-5 matches. Tesla is launching robotaxis in Houston and Dallas. Delivery robots from Coco Robotics are feeding real-time hazard data to BlindSquare, a GPS app for visually impaired people.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: The year-over-year improvement is staggering — from 2.5 hours to sub-50 minutes. Physical robotics is hitting an exponential curve similar to what we saw with AI language models.</div>
 </div>
-<div class="why-matters">💡 Tax-advantaged strategies directly impact both personal wealth building and business tax planning for Insight Remodels.</div>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>Modular Robotic Home Factories Target Housing Crisis</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Superhuman Robotics Special, Apr 25</div>
+<p>Startup Reframe Systems (MIT spinoff) is building modular homes inside deployable microfactories, slashing construction time, skilled-labor dependency, and emissions. Finished homes are already occupied in Massachusetts, and the company is expanding to California to replace wildfire-destroyed homes.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: As a remodeling business owner, this is worth watching. Robotic construction methods are starting to produce occupied homes — not just prototypes. California expansion puts this directly in our market.</div>
 </div>
-
-<div class="card">
-<div class="card-title">Exchange Funds: Should You Consider Them?</div>
-<div class="card-summary">For investors with large, concentrated stock positions, exchange funds offer a way to diversify without triggering immediate capital gains taxes. The strategy involves contributing shares to a fund that holds a diversified portfolio of stocks.</div>
-<div class="card-meta">
-<span class="chip source-chip">Fidelity Active Investor (Apr 24)</span>
-<span class="chip category-chip">Finance</span>
+<div style="border-left:4px solid #d93025;padding:8px 12px;margin:20px 0 10px 0;background:#fce8e6;border-radius:6px;font-size:16px;font-weight:bold;">🏥 HEALTH & SCIENCE</div>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>Gut Bacteria Linked to Depression via Specific Chemical Chain</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Superhuman Sunday Special, Apr 26</div>
+<p>Harvard scientists identified a chain reaction linking gut bacteria to depression: Morganella morganii interacts with an industrial pollutant found in everyday products, producing a rogue molecule that triggers inflammatory proteins strongly associated with depression. Opens the door to immune-targeting treatments.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: This moves the gut-brain connection from theory to mechanism. Your next antidepressant might target your gut, not just your brain — a fundamental shift in how we think about mental health.</div>
 </div>
-<div class="why-matters">✅ Worth evaluating if any single-stock positions have grown disproportionately large in personal investment accounts.</div>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>Eye Injection of Fatty Acid Reverses Age-Related Vision Loss in Mice</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Superhuman Sunday Special, Apr 26</div>
+<p>UC Irvine scientists found that injecting a specific polyunsaturated fatty acid directly into the eye restores visual function in older mice and reverses cellular aging markers in the retina. The key gene ELOVL2 controls production of fatty acids essential for healthy vision but slows with age. Could offer treatment for age-related macular degeneration.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: The PUFA connection is notable — this is specifically about a polyunsaturated fatty acid that the body naturally produces less of with age. The ELOVL2 gene pathway could become a target for preventive eye health.</div>
 </div>
-<div class="card">
-<div class="card-title">3 Steps to Building a More Resilient Investment Portfolio</div>
-<div class="card-summary">A well-diversified asset allocation can help manage market volatility. Key strategies include diversifying across and within asset classes, considering different bond strategies for stability and income, and preparing children for inheritance through open family dialogue about values and financial plans.</div>
-<div class="card-meta">
-<span class="chip source-chip">Fidelity Wealth Management (Apr 23)</span>
-<span class="chip category-chip">Finance</span>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>First Gene Therapy to Restore Hearing Gets FDA Approval</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Superhuman Sunday Special, Apr 26</div>
+<p>Gene therapy "Otarmeni" restores hearing in children born with otoferlin deafness. In trials, 80% of treated patients could hear without implants, ~30% achieved fully normal hearing. May open the door to treating 150+ known genetic causes of hearing loss.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: An 80% success rate for restoring hearing through gene therapy is remarkable. This could be the beginning of a wave of single-gene hearing loss treatments.</div>
 </div>
-<div class="why-matters">💡 Portfolio resilience planning is especially relevant during periods of geopolitical uncertainty and market volatility.</div>
+<div style="border-left:4px solid #5f6368;padding:8px 12px;margin:20px 0 10px 0;background:#f1f3f4;border-radius:6px;font-size:16px;font-weight:bold;">🌍 GENERAL INTEREST</div>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>Ancient Kraken-Like Octopus Confirmed at 61 Feet Long</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Superhuman Sunday Special, Apr 26</div>
+<p>Scientists confirmed that Nanaimoteuthis haggarti, a finned octopus from the Cretaceous period (86-72M years ago), grew up to 61 feet — bigger than a school bus and larger than any known living invertebrate. Rewrites understanding of ancient ocean food webs, proving giant invertebrates once ruled the seas.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: Norse Kraken legends may have had a basis in real creatures. This discovery reshapes our picture of Cretaceous ocean ecosystems.</div>
 </div>
-
-<div class="card">
-<div class="card-title">Average Tax Refund Up 11% to $3,462 — Americans Prioritizing Savings</div>
-<div class="card-summary">52% of US taxpayers who expect refunds plan to use them to build savings (up from 49% in 2025). Almost 60% of Americans have the same or less emergency savings compared to a year ago. Fidelity recommends 3-6 months of essential expenses as an emergency fund.</div>
-<div class="card-meta">
-<span class="chip source-chip">Fidelity Investments (Apr 21)</span>
-<span class="chip category-chip">Finance</span>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>First-Ever Video of 'Earthset' Captured by Artemis II Astronaut</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Superhuman Sunday Special, Apr 26</div>
+<p>Astronaut Reid Wiseman recorded Earth slowly disappearing behind the moon's surface — a phenomenon never captured on video before. The video has 11M+ views and is being called a modern sequel to Apollo 8's iconic "Earthrise" photograph from 1968.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: A rare moment of shared wonder. The "Earthrise" photo from Apollo 8 changed how humanity saw itself — this video could have a similar cultural impact.</div>
 </div>
-<div class="why-matters">⚠️ Consumer saving behavior signals economic caution — could mean homeowners delay non-essential remodeling projects.</div>
+<div style="background:#fff;border:1px solid #e0e0e0;padding:12px;border-radius:12px;margin-bottom:10px;">
+<strong>MIT Students Turn Building Into Giant Playable Tetris Game</strong>
+<div style="color:#666;font-size:12px;margin-bottom:6px;">Source: Superhuman Sunday Special, Apr 26</div>
+<p>MIT students rigged a campus building's windows with LEDs and turned the entire skyscraper into a giant playable Tetris game at midnight.</p>
+<div style="font-style:italic;color:#444;margin-top:8px;padding:8px;background:#f8f9fa;border-radius:6px;">💡 Why this matters: Pure engineering joy. Sometimes the best use of technology is making people smile.</div>
 </div>
-
-</div>
-
-<div class="construction">
-<div class="section-header">🏗️ CONSTRUCTION & TRADES</div>
-
-<div class="card">
-<div class="card-title">Reframe Systems Building Modular Homes in Robotic Microfactories</div>
-<div class="card-summary">Startup Reframe Systems is deploying robotic microfactories that build modular homes on-site in areas where housing is needed most, cutting construction time, skilled-labor dependency, and emissions. Finished homes are already occupied in Massachusetts, and the company is now setting up in California to replace homes destroyed in last year's wildfires.</div>
-<div class="card-meta">
-<span class="chip source-chip">Superhuman / MIT News (Apr 25)</span>
-<span class="chip category-chip">Construction</span>
-</div>
-<div class="why-matters">🔥 Direct threat and opportunity — modular robotic construction could disrupt traditional remodeling if it expands beyond new builds. Worth monitoring how fast this scales in California.</div>
-</div>
-
-</div>
-<div class="technology">
-<div class="section-header">🖥️ TECHNOLOGY (non-AI)</div>
-
-<div class="card">
-<div class="card-title">Google Cloud Next 2026 Wrap-Up — Enterprise Agent Management Takes Center Stage</div>
-<div class="card-summary">Google's Cloud Next conference revealed a shift from "Can we build an agent?" to "How do we manage thousands of them?" Key announcements include: Workspace Intelligence bridging context across Gmail, Docs, Sheets, Slides, and Drive; Apple's Siri overhaul to be powered by Gemini (standalone app, persistent chat logs); two new 8th-gen TPUs; and 260 total announcements.</div>
-<div class="card-meta">
-<span class="chip source-chip">Superhuman (Apr 27)</span>
-<span class="chip category-chip">Technology</span>
-</div>
-<div class="why-matters">💡 The Apple Siri overhaul powered by Gemini could significantly change how voice assistants work on Apple devices you use daily.</div>
-</div>
-
-<div class="card">
-<div class="card-title">Delivery Robots Becoming Eyes for the Blind</div>
-<div class="card-summary">Coco Robotics is repurposing its sidewalk delivery robot fleet to feed real-time hazard data to BlindSquare, the world's most widely used GPS app for visually impaired people. Users get spoken alerts in 26 languages about obstacles 10 meters ahead.</div>
-<div class="card-meta">
-<span class="chip source-chip">Superhuman / Fortune (Apr 25)</span>
-<span class="chip category-chip">Technology</span>
-</div>
-<div class="why-matters">✅ A rare example of commercial infrastructure creating unexpected public good — shows how robotics investment can have dual-use value.</div>
-</div>
-
-<div class="card">
-<div class="card-title">Robot Shatters Human Half-Marathon Record</div>
-<div class="card-summary">A humanoid robot built by Chinese company Honor completed the Beijing half-marathon in just over 50 minutes, crushing the human world record of 57 minutes. Last year, the winning robot took over 2.5 hours. Sony's Project Ace robot also defeated elite table tennis players 3-of-5, scoring 16-8 on direct serves.</div>
-<div class="card-meta">
-<span class="chip source-chip">Superhuman / TechCrunch (Apr 25)</span>
-<span class="chip category-chip">Technology</span>
-</div>
-<div class="why-matters">💡 The speed of robotics advancement (from 2.5 hours to under 50 minutes in one year) signals how quickly robotic capabilities are accelerating across all fields.</div>
-</div>
-<div class="card">
-<div class="card-title">Google Ads Updates Partner Ads Setting Controls</div>
-<div class="card-summary">Google is updating its partner ads setting controls, giving users more control over how their data is used for advertising through My Ad Center and Google Account settings.</div>
-<div class="card-meta">
-<span class="chip source-chip">Google (Apr 24)</span>
-<span class="chip category-chip">Technology</span>
-</div>
-<div class="why-matters">✅ Minor but worth noting for any Google Ads campaigns run for Insight Remodels.</div>
-</div>
-
-</div>
-
-<div class="health">
-<div class="section-header">🏥 HEALTH & WELLNESS</div>
-
-<div class="card">
-<div class="card-title">Harvard Links Gut Bacteria to Depression via Industrial Pollutant</div>
-<div class="card-summary">Harvard scientists identified a chain reaction linking gut bacteria to depression: Morganella morganii interacts with an industrial pollutant found in everyday products, producing a molecule that triggers inflammatory proteins associated with depression. Opens the door to immune-targeting treatments — your next antidepressant might work on your gut, not just your brain.</div>
-<div class="card-meta">
-<span class="chip source-chip">Superhuman / ScienceDaily (Apr 26)</span>
-<span class="chip category-chip">Health</span>
-</div>
-<div class="why-matters">💡 Supports the whole-food, low-PUFA approach — industrial pollutants in processed products now linked to gut-brain depression pathways.</div>
-</div>
-
-<div class="card">
-<div class="card-title">Eye Injection Restores Vision in Aging Mice — Could Treat Macular Degeneration</div>
-<div class="card-summary">UC Irvine researchers found that injecting a specific polyunsaturated fatty acid directly into the eye restores visual function in older mice and reverses cellular aging markers. The key is the ELOVL2 gene, which controls fatty acid production essential for healthy vision but slows with age. Could potentially treat age-related macular degeneration, a leading cause of blindness.</div>
-<div class="card-meta">
-<span class="chip source-chip">Superhuman / ScienceDaily (Apr 26)</span>
-<span class="chip category-chip">Health</span>
-</div>
-<div class="why-matters">✅ Age-related macular degeneration research advancing — worth tracking for long-term health planning.</div>
-</div>
-<div class="card">
-<div class="card-title">Smart Pillow Sleeve Alerts Deaf Sleepers to Emergencies</div>
-<div class="card-summary">Scientists built a smart pillow sleeve with four haptic actuators that deliver targeted vibrations to wake deaf and hard-of-hearing sleepers during fire alarms, break-ins, or calls. Connects to smartphone and uses unique vibration patterns for different alert types. Seeking industry partner to commercialize.</div>
-<div class="card-meta">
-<span class="chip source-chip">Superhuman / Interesting Engineering (Apr 26)</span>
-<span class="chip category-chip">Health</span>
-</div>
-<div class="why-matters">✅ Innovative accessibility tech — relevant for ADA-conscious remodeling projects.</div>
-</div>
-
-</div>
-
-<div class="general">
-<div class="section-header">📰 GENERAL INTEREST</div>
-
-<div class="card">
-<div class="card-title">Ancient Kraken-Like Octopus Confirmed Larger Than Giant Squid</div>
-<div class="card-summary">Scientists confirmed Nanaimoteuthis haggarti, a finned octopus from 86-72 million years ago, grew up to 61 feet long — bigger than a school bus and larger than any known living invertebrate. Rewrites understanding of ancient ocean food webs and proves giant invertebrates once ruled the seas.</div>
-<div class="card-meta">
-<span class="chip source-chip">Superhuman / Reuters (Apr 26)</span>
-<span class="chip category-chip">General Interest</span>
-</div>
-<div class="why-matters">✅ Pure science cool factor — Norse legend's Kraken may have had a real-world basis.</div>
-</div>
-
-<div class="card">
-<div class="card-title">First-Ever 'Earthset' Video Captured by Artemis II Astronaut</div>
-<div class="card-summary">Artemis II astronaut Reid Wiseman released footage of the first-ever recorded "Earthset" — Earth disappearing behind the Moon's horizon. The video has over 11M views and is being called a modern sequel to Apollo 8's iconic 1968 "Earthrise" photograph.</div>
-<div class="card-meta">
-<span class="chip source-chip">Superhuman / NYT (Apr 26)</span>
-<span class="chip category-chip">General Interest</span>
-</div>
-<div class="why-matters">✅ A once-in-a-generation space moment — the kind of footage that reframes perspective.</div>
-</div>
-<div class="card">
-<div class="card-title">Mars Organic Compounds Discovery Strengthens Case for Past Life</div>
-<div class="card-summary">NASA's Curiosity rover found seven diverse organic compounds in a Martian lakebed rock (five never previously detected on Mars). While not confirming life, it proves Mars had the right ingredients. Strengthens the case for returning rock samples to Earth.</div>
-<div class="card-meta">
-<span class="chip source-chip">Superhuman / Reuters (Apr 26)</span>
-<span class="chip category-chip">General Interest</span>
-</div>
-<div class="why-matters">💡 Adds momentum to Mars sample return missions — one of the biggest NASA initiatives of the decade.</div>
-</div>
-
-<div class="card">
-<div class="card-title">First Gene Therapy Restoring Hearing in Deaf Patients Gets FDA Approval</div>
-<div class="card-summary">Otarmeni, the breakthrough gene therapy, restores hearing in children born with otoferlin deafness. In trials, 80% of treated patients heard without implants, and 30% achieved fully normal hearing. Could open the door to treating 150+ genetic causes of hearing loss.</div>
-<div class="card-meta">
-<span class="chip source-chip">Superhuman / NYT (Apr 26)</span>
-<span class="chip category-chip">General Interest</span>
-</div>
-<div class="why-matters">✅ Major medical breakthrough — gene therapy moving from concept to FDA-approved reality.</div>
-</div>
-
-</div>
-
-<div style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 10px; padding: 16px 18px; margin-bottom: 12px;">
-<div style="font-weight: 600; font-size: 15px; color: #1a1a1a; margin-bottom: 12px;">📅 UPCOMING EVENTS</div>
-
-<div style="font-size: 13px; color: #555; line-height: 1.6;">
-<strong>Fidelity Webinars (Apr 28 – May 7):</strong><br/>
-• Apr 28: Following the Fundamentals (Noon ET)<br/>
-• Apr 28: Market Sense (2:00 PM ET)<br/>
-• Apr 30: Investment Research Update Q2 2026 (Noon ET)<br/>
-• Apr 30: In the Money — Options Trading (2:00 PM ET)<br/>
-• May 5: What Are the Charts Telling Us? (Noon ET)<br/>
-• May 6: Medicare Enrollment Decisions (Noon ET)<br/>
-• May 6: Factor ETFs in Focus (2:00 PM ET)<br/>
-• May 7: Demystifying Bond Selection (Noon ET)<br/><br/>
-<strong>Fidelity IPO Alerts:</strong><br/>
-• Suja Life, Inc. — equity participation announcement (Apr 27)<br/>
-• Hemab Therapeutics Holdings, Inc. — equity participation announcement (Apr 27)
+<div style="text-align:center;color:#999;font-size:11px;padding:16px;border-top:1px solid #e0e0e0;margin-top:20px;">
+Curated from Fidelity Investments and Superhuman newsletters • Updated Mon Apr 28, 2026
 </div>
 </div>
-
-<div class="footer">
-  Sources: Gmail inbox newsletters and subscriptions (Fidelity Investments, Superhuman, Google)<br/>
-  Generated April 27, 2026 by Claude Cowork · General News RSS Feed
-</div>
-
-</div>
-</body>
-</html>
-    ]]></description>
-    <pubDate>Mon, 27 Apr 2026 16:00:00 -0700</pubDate>
-    <guid isPermaLink="false">general-news-2026-04-27</guid>
-  </item>
-
+]]></description>
+</item>
 </channel>
 </rss>
