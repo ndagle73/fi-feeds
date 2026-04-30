@@ -6,7 +6,8 @@
 <link>https://ndagle73.github.io/fi-feeds/fi_feed.xml</link>
 <atom:link href="https://ndagle73.github.io/fi-feeds/fi_feed.xml" rel="self" type="application/rss+xml"/>
 <language>en-us</language>
-<lastBuildDate>Wed, 29 Apr 2026 00:00:00 -0700</lastBuildDate>
+<lastBuildDate>Thu, 30 Apr 2026 16:45:04 +0000</lastBuildDate>
+
 <item>
 <title>📊 Open Financial Intelligence Dashboard</title>
 <description><![CDATA[
@@ -22,9 +23,121 @@ Interactive charts and analysis — markets, crypto, housing, jobs, construction
 </div>
 </div>
 ]]></description>
-<pubDate>Wed, 29 Apr 2026 00:00:00 -0700</pubDate>
+<pubDate>Thu, 30 Apr 2026 16:44:19 +0000</pubDate>
 <guid isPermaLink="true">https://ndagle73.github.io/fi-feeds/FinancialIntelDashboard.html</guid>
 </item>
+
+<item>
+<title>📊 Financial Intelligence — Thursday, April 30, 2026</title>
+<description><![CDATA[
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+<div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+<span style="background:#1e3a5f; color:#4f9cf9; padding:3px 10px; border-radius:4px; font-size:13px;">📈 MARKETS &amp; RISK</span>
+<span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Daily · as of Apr 30</span>
+</div>
+<div style="font-size:13px; color:#555; line-height:1.6;">
+<b>Regime: Neutral</b> · S&amp;P futures +0.15% · DXY 98.86 (↓ trend) · 10Y yield 4.42% · VIX 18.81<br/>
+✅ Fear &amp; Greed: 70 (Greed) · Put/Call: 0.83 · HY Spreads: Tight<br/>
+💡 Oil surging to $114 WTI on Iran/Strait dynamics · Gold $4,638 near ATH<br/>
+👉 Sector rotation: XLE leading (energy), XLK lagging (tech fatigue continues)<br/>
+⚠️ Alert tickers: APP, PLTR, IBRX — all flagged for volatility
+</div>
+</div>
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+<div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+<span style="background:#3a2d0a; color:#f0b429; padding:3px 10px; border-radius:4px; font-size:13px;">₿ CRYPTO &amp; DIGITAL ASSETS</span>
+<span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Daily | Weekly deep-dive updates Mondays · as of Apr 30</span>
+</div>
+<div style="font-size:13px; color:#555; line-height:1.6;">
+<b>BTC: $77,161 EOD</b> (Apr 29) · 24h: -1.1% · Dominance: 60.0% · Structure: Neutral<br/>
+⚠️ Testing $78,180 intraday resistance; $75,731 support holding<br/>
+💡 Weekly (Apr 27): BTC/IGV correlation 0.68 — decoupling thesis gaining traction as BTC gained while tech sold off<br/>
+✅ On-chain phase: <b>Accumulation</b> — exchange reserves at 7-year low, LTH supply at ATH, whale buying at decade pace<br/>
+👉 Stablecoin market cap: $322B new ATH — structural demand floor independent of BTC price action<br/>
+🔥 BTC dominance broke above 60% — capital rotating from alts to BTC, classic risk-off posture within crypto
+</div>
+</div>
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+<div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+<span style="background:#2d4a22; color:#7dcf5a; padding:3px 10px; border-radius:4px; font-size:13px;">🏠 HOUSING &amp; REAL ESTATE</span>
+<span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Local: when new data | National: Monthly (1st) · as of Apr 30</span>
+</div>
+<div style="font-size:13px; color:#555; line-height:1.6;">
+<b>🏘️ Hollister/San Benito (today):</b> Median $765K SFH · 100 active listings · 38 DOM<br/>
+💡 63 new listings, 30 pending, 41 closed in March — balanced market<br/>
+<b>Monthly (Apr 1):</b> 30Y rate 6.38% · CA median $850.7K · Local median $748.6K · Months supply 1.52<br/>
+Existing sales 4.09M · New homes 587K · NAHB HMI 38 (builder pessimism)<br/>
+⚠️ Case-Shiller YoY +1.2% — price appreciation stalling · NAR median $398K
+</div>
+</div>
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+<div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+<span style="background:#0a2a2a; color:#4fd1c5; padding:3px 10px; border-radius:4px; font-size:13px;">💼 JOBS &amp; LABOR</span>
+<span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Monthly (1st) | Claims: weekly when flagged · as of Apr 1</span>
+</div>
+<div style="font-size:13px; color:#555; line-height:1.6;">
+🔥 <b>NFP: -92K</b> — first negative print, prior revised -17K additional · U-3: 4.4% (rising)<br/>
+⚠️ LFPR dropped to 62.0% · Avg hourly earnings YoY: +1.4% (decelerating)<br/>
+Construction payrolls: +30K · CA unemployment: 5.1%<br/>
+JOLTS openings: 6.9M · Quit rate: 1.9% · ADP private: +62K<br/>
+Initial claims 4wk avg: 210K · Continuing claims: 1,819K<br/>
+👉 Labor market deteriorating — negative NFP is a recession signal worth monitoring
+</div>
+</div>
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+<div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+<span style="background:#2a1a3a; color:#c07af0; padding:3px 10px; border-radius:4px; font-size:13px;">🏗️ CONSTRUCTION &amp; REMODELING</span>
+<span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Weekly (Fridays) · as of Apr 24</span>
+</div>
+<div style="font-size:13px; color:#555; line-height:1.6;">
+<table style="width:100%; font-size:12px; border-collapse:collapse; margin:6px 0;">
+<tr style="border-bottom:1px solid #ddd;"><td style="padding:3px 0;"><b>Lumber</b></td><td>$583.50/MBF</td><td style="padding:3px 0;"><b>Copper</b></td><td>$6.02/lb</td></tr>
+<tr style="border-bottom:1px solid #ddd;"><td style="padding:3px 0;"><b>Steel HRC</b></td><td>$1,055/ton</td><td style="padding:3px 0;"><b>ABI</b></td><td>49.8</td></tr>
+</table>
+⚠️ Cost environment: <b>Inflating</b> · Copper and steel trending up<br/>
+RMI: 62 (expansion) · Permits: 1,518K · Backlog: 8.6 months<br/>
+Construction spending: $2,190.4B · ABI 49.8 (contraction territory)
+</div>
+</div>
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+<div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+<span style="background:#444; color:#999; padding:3px 10px; border-radius:4px; font-size:13px;">📊 MACRO REGIME &amp; SCORECARD</span>
+<span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Weekly (Mondays) · as of Apr 27</span>
+</div>
+<div style="font-size:13px; color:#555; line-height:1.6;">
+<b>Regime: Risk-On</b> — 4 of 5 indicators supportive<br/>
+<table style="width:100%; font-size:12px; border-collapse:collapse; margin:6px 0;">
+<tr style="border-bottom:1px solid #ddd;"><td style="padding:3px 0;">Yield Curve 2s10s</td><td>+0.55%</td><td>✅ Supportive</td></tr>
+<tr style="border-bottom:1px solid #ddd;"><td style="padding:3px 0;">Credit Spreads</td><td>~284 bps</td><td>✅ Supportive</td></tr>
+<tr style="border-bottom:1px solid #ddd;"><td style="padding:3px 0;">ISM PMI</td><td>52.7</td><td>✅ Supportive</td></tr>
+<tr style="border-bottom:1px solid #ddd;"><td style="padding:3px 0;">Fed Path</td><td>~1 cut</td><td>⚪ Neutral</td></tr>
+<tr style="border-bottom:1px solid #ddd;"><td style="padding:3px 0;">DXY Trend</td><td>Down</td><td>✅ Supportive</td></tr>
+</table>
+👉 Sector rotation: XLE, XLF, XLV leading / XLK, XLY, XLC lagging — real economy over digital economy tilt<br/>
+⚠️ Watch: Iran peace talks stalled — oil spike risk could reverse dollar weakness
+</div>
+</div>
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+<div style="font-size:15px; font-weight:700; margin-bottom:10px;">
+<span style="background:#2a1a1a; color:#f08080; padding:3px 10px; border-radius:4px; font-size:13px;">💰 PORTFOLIO &amp; EARNINGS</span>
+<span style="font-size:11px; background:#333; color:#aaa; padding:2px 8px; border-radius:4px; margin-left:8px;">Monthly (1st) · as of Apr 1</span>
+</div>
+<div style="font-size:13px; color:#555; line-height:1.6;">
+S&amp;P EPS beat rate: 75% · Blended EPS growth: +13.0%<br/>
+🔥 <b>Portfolio alerts:</b> IBRX crashed 26% on FDA Anktiva warning; XRPC down 41% on XRP collapse; APP and AVGO pulled back 15%+ from highs<br/>
+⚠️ <b>Key risks:</b> TSMC capacity constraints threatening AI chip supply; IBRX regulatory/litigation risk unresolved; crypto altcoin exposure (XRPC) deteriorating
+</div>
+</div>
+<div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
+📊 Financial Intelligence Daily Snapshot<br/>
+Dashboard: <a href="https://ndagle73.github.io/fi-feeds/FinancialIntelDashboard.html" style="color:#4f9cf9;">Open Interactive Dashboard</a><br/>
+Generated Thursday, April 30, 2026 by Claude Cowork · Nightly Consolidator
+</div>
+]]></description>
+<pubDate>Thu, 30 Apr 2026 16:44:19 +0000</pubDate>
+<guid isPermaLink="false">fi-daily-2026-04-30</guid>
+</item>
+
 <item>
 <title>📊 Financial Intelligence — Wednesday, April 29, 2026</title>
 <description><![CDATA[
@@ -127,6 +240,7 @@ Generated April 29, 2026 by Claude Cowork · Nightly Consolidator
 <pubDate>Wed, 29 Apr 2026 00:00:00 -0700</pubDate>
 <guid isPermaLink="false">fi-daily-2026-04-29</guid>
 </item>
+
 <item>
 <title>📊 Financial Intelligence — Tuesday, April 28, 2026</title>
 <description>
@@ -305,7 +419,6 @@ Generated 2026-04-27 by Claude Cowork · Nightly Consolidator
 <guid isPermaLink="false">fi-daily-2026-04-27</guid>
 </item>
 
-
 <item>
       <title>📊 Financial Intelligence — Sunday, April 26, 2026</title>
       <description>&lt;div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;"&gt;
@@ -399,9 +512,6 @@ Generated 2026-04-27 by Claude Cowork · Nightly Consolidator
       <pubDate>Sun, 26 Apr 2026 09:30:00 -0000</pubDate>
       <guid isPermaLink="false">fi-daily-2026-04-26</guid>
     </item>
-
-    
-
 
 <item>
       <title>📊 Financial Intelligence — Saturday, April 25, 2026</title>
@@ -505,9 +615,6 @@ Generated 2026-04-27 by Claude Cowork · Nightly Consolidator
       <pubDate>Sat, 25 Apr 2026 09:30:00 -0700</pubDate>
       <guid isPermaLink="false">fi-daily-2026-04-25</guid>
     </item>
-    
-    
-
 
 <item>
       <title>📊 Financial Intelligence — Sunday, April 19, 2026</title>
@@ -626,9 +733,6 @@ Generated 2026-04-27 by Claude Cowork · Nightly Consolidator
       <pubDate>Sun, 19 Apr 2026 11:39:00 -0700</pubDate>
       <guid isPermaLink="false">fi-daily-2026-04-19</guid>
     </item>
-    
-    
-
 
 <item>
       <title>📊 Financial Intelligence — Monday, April 20, 2026</title>
@@ -638,9 +742,6 @@ Generated 2026-04-27 by Claude Cowork · Nightly Consolidator
       <pubDate>Mon, 20 Apr 2026 09:30:00 +0000</pubDate>
       <guid isPermaLink="false">fi-daily-2026-04-20</guid>
     </item>
-    
-    
-
 
 <item>
       <title>📊 Financial Intelligence — Tuesday, April 21, 2026</title>
@@ -657,9 +758,6 @@ Generated 2026-04-27 by Claude Cowork · Nightly Consolidator
       <pubDate>Tue, 21 Apr 2026 16:30:00 +0000</pubDate>
       <guid isPermaLink="false">fi-daily-2026-04-21</guid>
     </item>
-    
-    
-
 
 <item>
       <title>📊 Financial Intelligence — Wednesday, April 22, 2026</title>
@@ -676,9 +774,6 @@ Generated 2026-04-27 by Claude Cowork · Nightly Consolidator
       <pubDate>Wed, 22 Apr 2026 16:46:00 GMT</pubDate>
       <guid isPermaLink="false">fi-daily-2026-04-22</guid>
     </item>
-    
-    
-
 
 <item>
       <title>📊 Financial Intelligence — Thursday, April 23, 2026</title>
@@ -801,9 +896,6 @@ Generated 2026-04-27 by Claude Cowork · Nightly Consolidator
       <pubDate>Thu, 23 Apr 2026 16:48:07 GMT</pubDate>
       <guid isPermaLink="false">fi-daily-2026-04-23</guid>
     </item>
-    
-    
-
 
 <item>
       <title>📊 Financial Intelligence — Friday, April 24, 2026</title>
@@ -900,10 +992,6 @@ Generated Apr 24, 2026 by Claude Cowork · Nightly Consolidator
       <pubDate>Fri, 24 Apr 2026 00:00:00 -0700</pubDate>
       <guid isPermaLink="false">fi-daily-2026-04-24</guid>
     </item>
-    
-
-
-
 
 </channel>
 </rss>
