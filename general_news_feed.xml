@@ -1,13 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-  <title>📰 General News Daily</title>
-  <description>Daily news briefing — markets, real estate, construction, finance, tech, health, and general interest</description>
-  <link>https://ndagle73.github.io/fi-feeds/general_news_feed.xml</link>
-  <atom:link href="https://ndagle73.github.io/fi-feeds/general_news_feed.xml" rel="self" type="application/rss+xml"/>
-  <language>en-us</language>
-  <lastBuildDate>Fri, 02 May 2026 09:00:00 -0700</lastBuildDate>
-  <item>
+  <channel>
+    <title>📰 General News Daily</title>
+    <description>Daily news briefing — markets, real estate, construction, finance, tech, health, and general interest</description>
+    <link>https://ndagle73.github.io/fi-feeds/general_news_feed.xml</link>
+    <atom:link href="https://ndagle73.github.io/fi-feeds/general_news_feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 May 2026 09:00:00 -0700</lastBuildDate>
+    <item>
+      <title>📰 General News — Sunday, May 3, 2026</title>
+      <description><![CDATA[
+<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; max-width:680px; margin:0 auto; padding:16px; color:#1a1a1a;">
+
+<div style="margin-bottom:18px;">
+  <div style="font-size:22px; font-weight:700; margin-bottom:4px;">📰 General News — Sunday, May 3, 2026</div>
+  <div style="font-size:13px; color:#777;">Markets, real estate, construction, finance, tech, health, and general interest</div>
+</div>
+
+<div style="font-size:14px; font-weight:700; letter-spacing:0.5px; color:#888; margin:24px 0 10px 0; text-transform:uppercase;">🏥 Health & Wellness</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.businesswire.com/news/home/20260427361988/en/Motif-Neurotech-Receives-FDA-Approval-to-Begin-First-Clinical-Trial-of-its-Therapeutic-BCI-for-Treatment-Resistant-Depression" style="color:#1a1a1a; text-decoration:none;">FDA approves first human trial of brain implant for treatment-resistant depression</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Motif Neurotech got FDA clearance for clinical trials of DOT, a wireless implant that sits above brain tissue rather than penetrating it and delivers programmable electrical stimulation to depression-related circuits. Roughly 3 million Americans have depression that doesn't respond to standard treatment.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Superhuman / BusinessWire</span>
+    <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">🏥 Health</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> A less-invasive BCI moving past FDA gatekeeping is a meaningful signal for the neuromodulation device market and for anyone watching mental-health treatment innovation.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.kcl.ac.uk/news/scientists-turn-wool-into-sustainable-material-for-bone-repair" style="color:#1a1a1a; text-decoration:none;">Wool-derived keratin outperforms collagen in bone regeneration trial</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    King's College London researchers used keratin extracted from wool to regenerate bone in rats with skull defects, producing more structurally sound bone than the collagen scaffolds surgeons have relied on for decades. Keratin is renewable, scalable, and currently treated as farming waste.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">King's College London</span>
+    <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">🏥 Health</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> Cheap, renewable surgical materials with better performance is the kind of quiet breakthrough that compounds across orthopedics — worth watching as it moves toward human trials.
+  </div>
+</div>
+
+<div style="font-size:14px; font-weight:700; letter-spacing:0.5px; color:#888; margin:24px 0 10px 0; text-transform:uppercase;">🖥️ Technology & Energy</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://interestingengineering.com/energy/panels-produce-hydrogen-fuel-water-sunlight" style="color:#1a1a1a; text-decoration:none;">German startup builds solar panel that produces hydrogen directly from water and sunlight</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Photreon's photocatalytic panels collapse the two-step green-hydrogen process (solar capture + electrolysis) into a single step, cutting cost and complexity. Modular design works at rooftop scale or in large solar hydrogen farms — opening on-site fuel production for manufacturers and industrial sites.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Interesting Engineering</span>
+    <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Tech</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> If on-site hydrogen production becomes practical at building scale, the long-term implications for industrial energy and even construction-site power are significant.
+  </div>
+</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://paleolatitude.org/" style="color:#1a1a1a; text-decoration:none;">New free tool traces any address back 320 million years to the age of Pangaea</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Dutch scientists launched Paleolatitude, an open web tool that maps the geological history of any modern location. It confirmed the Netherlands once sat at the same tropical latitude as today's Persian Gulf — explaining fossil discoveries that had puzzled researchers for years.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Paleolatitude.org</span>
+    <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">🖥️ Tech</span>
+  </div>
+  <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+    👉 <strong>Why this matters:</strong> A fun rabbit hole — type in your Gilroy or Hollister address and see what was sitting under your feet hundreds of millions of years ago.
+  </div>
+</div>
+
+<div style="font-size:14px; font-weight:700; letter-spacing:0.5px; color:#888; margin:24px 0 10px 0; text-transform:uppercase;">📰 General Interest</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+    <a href="https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/" style="color:#1a1a1a; text-decoration:none;">Underwater robot follows sperm whale pods for months, recording how calves learn to speak</a>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    An autonomous glider listens for sperm whale clicks, identifies their direction, and tracks the same pod over time — capturing how calves learn vocal patterns from their mothers and how whales respond to shipping noise. Marks a shift from brief encounters to continuous study of another form of intelligence.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Reuters</span>
+    <span style="font-size:11px; background:#444; color:#999; padding:2px 8px; border-radius:4px; font-weight:600;">📰 General</span>
+  </div>
+</div>
+
+<div style="font-size:14px; font-weight:700; letter-spacing:0.5px; color:#888; margin:24px 0 10px 0; text-transform:uppercase;">📈 Markets & Economy</div>
+
+<div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+  <div style="font-size:15px; font-weight:700; margin-bottom:6px;">Fidelity company news alerts (3 alerts received today)</div>
+  <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+    Routine Fidelity automated company news/research alerts received this morning. These are subscription notifications tied to your watchlist holdings — log into Fidelity to see the underlying stories.
+  </div>
+  <div style="margin-bottom:8px;">
+    <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Fidelity Alerts</span>
+    <span style="font-size:11px; background:#1e3a5f; color:#4f9cf9; padding:2px 8px; border-radius:4px; font-weight:600;">📈 Markets</span>
+  </div>
+</div>
+
+<div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
+  Sources: Gmail inbox newsletters and subscriptions (aidigestnews@gmail.com)<br/>
+  Generated May 3, 2026 by Claude Cowork · General News RSS Feed
+</div>
+
+</div>
+]]></description>
+      <pubDate>Sun, 03 May 2026 09:00:00 -0700</pubDate>
+      <guid isPermaLink="false">general-news-2026-05-03</guid>
+    </item>
+    <item>
     <title>📰 General News — Friday, May 2, 2026</title>
     <link>https://ndagle73.github.io/fi-feeds/general_news_feed.xml</link>
     <guid isPermaLink="false">general-news-2026-05-02</guid>
@@ -246,5 +362,5 @@
 </div>
 ]]></description>
   </item>
-</channel>
+  </channel>
 </rss>
