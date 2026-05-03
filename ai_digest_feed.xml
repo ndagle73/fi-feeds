@@ -6,7 +6,370 @@
   <link>https://ndagle73.github.io/fi-feeds/ai_digest_feed.xml</link>
   <atom:link href="https://ndagle73.github.io/fi-feeds/ai_digest_feed.xml" rel="self" type="application/rss+xml"/>
   <language>en-us</language>
-  <lastBuildDate>Fri, 02 May 2026 08:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Sun, 03 May 2026 08:00:00 -0700</lastBuildDate>
+
+  <item>
+    <title>🤖 AI Digest — Sunday, May 03, 2026</title>
+    <description><![CDATA[
+<div style="font-family:system-ui,-apple-system,sans-serif; max-width:700px; margin:0 auto; color:#1a1a1a; line-height:1.6;">
+
+<!-- HEADER -->
+<div style="text-align:center; padding:16px 0 20px; border-bottom:2px solid #e0e0e0; margin-bottom:20px;">
+  <div style="font-size:28px; font-weight:800; margin-bottom:4px;">🤖 AI Daily Digest</div>
+  <div style="font-size:14px; color:#888;">Sunday, May 3, 2026 — Your daily AI intelligence briefing</div>
+</div>
+
+<!-- 🔥 TOP STORIES -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#c0392b; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #c0392b;">🔥 TOP STORIES</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://blog.adobe.com/en/publish/2026/04/28/adobe-for-creativity-connector" style="color:#1a1a1a; text-decoration:none;">Adobe for Creativity Connector Lands in Claude — 50+ Pro Tools From One Prompt</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Adobe and Anthropic launched a connector that lets Claude orchestrate Photoshop, Illustrator, Firefly, Express, Premiere, Lightroom, InDesign, and Stock from a single chat. Describe the goal — Claude coordinates the multi-step workflow across Creative Cloud apps. Available globally; signing in with an Adobe account unlocks higher limits and saved sessions. Part of a broader release that also includes Blender, Autodesk, Ableton, and Splice connectors.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Adobe Blog / 9to5Mac</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Concrete proof Claude is moving past chat into multi-app orchestration. The same pattern (prompt → multi-tool execution) will land in construction-adjacent suites. Worth bookmarking as a teaching demo for clients.
+    </div>
+    <div style="margin-top:12px; text-align:center;">
+      <svg viewBox="0 0 500 160" style="max-width:100%; height:auto; background:#fafafa; border-radius:8px; padding:8px;">
+        <defs><marker id="ar1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#333"/></marker></defs>
+        <rect x="20" y="55" width="100" height="50" rx="10" fill="#eef5ff" stroke="#4f9cf9" stroke-width="2"/>
+        <text x="70" y="85" text-anchor="middle" font-family="system-ui" font-size="13" fill="#333">Prompt</text>
+        <line x1="120" y1="80" x2="170" y2="80" stroke="#333" stroke-width="2" marker-end="url(#ar1)"/>
+        <rect x="170" y="55" width="120" height="50" rx="10" fill="#f0fff0" stroke="#7dcf5a" stroke-width="2"/>
+        <text x="230" y="85" text-anchor="middle" font-family="system-ui" font-size="13" fill="#333">Claude + Adobe</text>
+        <line x1="290" y1="80" x2="340" y2="80" stroke="#333" stroke-width="2" marker-end="url(#ar1)"/>
+        <rect x="340" y="20" width="140" height="35" rx="8" fill="#fff8ee" stroke="#f0b429" stroke-width="2"/>
+        <text x="410" y="42" text-anchor="middle" font-family="system-ui" font-size="12" fill="#333">Photoshop · Illustrator</text>
+        <rect x="340" y="65" width="140" height="35" rx="8" fill="#fff8ee" stroke="#f0b429" stroke-width="2"/>
+        <text x="410" y="87" text-anchor="middle" font-family="system-ui" font-size="12" fill="#333">Firefly · Premiere</text>
+        <rect x="340" y="110" width="140" height="35" rx="8" fill="#fff8ee" stroke="#f0b429" stroke-width="2"/>
+        <text x="410" y="132" text-anchor="middle" font-family="system-ui" font-size="12" fill="#333">InDesign · Lightroom</text>
+      </svg>
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.anthropic.com/claude/opus" style="color:#1a1a1a; text-decoration:none;">Claude Opus 4.7 GA: Task Budgets and Multi-Agent Coordination Built In</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Opus 4.7 is generally available across Claude API, Bedrock, Vertex AI, and Microsoft Foundry — same $5 / $25 per MTok pricing as 4.6. Headline upgrades: stronger multi-step task execution, file-based memory across sessions, 3x vision resolution, improved .docx redlining and .pptx editing. New "task budgets" feature lets you set an advisory token ceiling across an entire agent loop and the model self-moderates against a running countdown.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Anthropic / Caylent</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> File-based memory and task budgets directly enable the long-running agent workflows you'd build for estimating, RFI handling, or proposal drafts — agents that maintain context across days without hemorrhaging tokens.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://builtbyec.substack.com/p/how-im-training-claude-ai-to-run" style="color:#1a1a1a; text-decoration:none;">A Construction Builder's Five-Skill Claude Architecture for Running Projects</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Instead of a single AI assistant, this teardown lays out five Claude Skills working in parallel: APM Skill (submittals, RFIs, document control), Project Admin (marketing, processes, office workflows), Superintendent (site QC, safety, checklists), Project Accounting (AIAs, invoicing, cost tracking), and Estimating (proposals, bid leveling, takeoffs). Author claims a standard 5-7 day RFP with 8 handoffs collapses to 4 hours with 2 approval gates.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Built by EC (Substack)</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">🏗️ Construction</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> This is exactly the consulting framework you'd sell — role-based AI specialists wired to a contractor's existing process, not a generic chatbot. Steal the five-skill split as a starting template for client engagements.
+    </div>
+    <div style="margin-top:12px; text-align:center;">
+      <svg viewBox="0 0 500 200" style="max-width:100%; height:auto; background:#fafafa; border-radius:8px; padding:8px;">
+        <rect x="200" y="15" width="100" height="40" rx="10" fill="#eef5ff" stroke="#4f9cf9" stroke-width="2"/>
+        <text x="250" y="40" text-anchor="middle" font-family="system-ui" font-size="13" fill="#333" font-weight="600">Project</text>
+        <line x1="250" y1="55" x2="80" y2="100" stroke="#333" stroke-width="1.5"/>
+        <line x1="250" y1="55" x2="180" y2="100" stroke="#333" stroke-width="1.5"/>
+        <line x1="250" y1="55" x2="250" y2="100" stroke="#333" stroke-width="1.5"/>
+        <line x1="250" y1="55" x2="320" y2="100" stroke="#333" stroke-width="1.5"/>
+        <line x1="250" y1="55" x2="420" y2="100" stroke="#333" stroke-width="1.5"/>
+        <rect x="30" y="100" width="100" height="40" rx="8" fill="#f0fff0" stroke="#7dcf5a" stroke-width="2"/>
+        <text x="80" y="125" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">APM</text>
+        <rect x="135" y="100" width="90" height="40" rx="8" fill="#f0fff0" stroke="#7dcf5a" stroke-width="2"/>
+        <text x="180" y="125" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">Admin</text>
+        <rect x="230" y="100" width="90" height="40" rx="8" fill="#f0fff0" stroke="#7dcf5a" stroke-width="2"/>
+        <text x="275" y="125" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">Super</text>
+        <rect x="325" y="100" width="80" height="40" rx="8" fill="#f0fff0" stroke="#7dcf5a" stroke-width="2"/>
+        <text x="365" y="125" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">Acct</text>
+        <rect x="410" y="100" width="80" height="40" rx="8" fill="#f0fff0" stroke="#7dcf5a" stroke-width="2"/>
+        <text x="450" y="125" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">Est</text>
+        <text x="250" y="180" text-anchor="middle" font-family="system-ui" font-size="11" fill="#666" font-style="italic">5 specialist Skills, parallel execution</text>
+      </svg>
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://itbusinessnet.com/2026/05/omnea-brings-procurement-data-to-claude-cohere-north-and-chatgpt-with-industry-first-mcp/" style="color:#1a1a1a; text-decoration:none;">Omnea Ships First Procurement-Data MCP Server — Claude, Cohere, ChatGPT All Plug In</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Omnea released what it's calling the first procurement-focused MCP server, exposing supplier data, contracts, and purchasing workflows to Claude, Cohere North, and ChatGPT through a common interface. The pitch is that any LLM that speaks MCP can now answer "who are my approved vendors for X" or "draft a PO for this scope" against real procurement data instead of generic guesses.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">IT Business Net</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Procurement is a direct adjacency to subcontractor management and material buy-out. If a similar MCP shows up for JobTread, QuickBooks, or a takeoff tool, that's the moment Insight's workflow becomes truly agent-driven.
+    </div>
+  </div>
+</div>
+
+<!-- 🤖 AGENT & WORKFLOW UPDATES -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#2d4a22; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #7dcf5a;">🤖 AGENT &amp; WORKFLOW UPDATES</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/" style="color:#1a1a1a; text-decoration:none;">MIT Tech Review: Agent Orchestration Is the Real 2026 Story</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      The piece argues the headline shift in 2026 isn't smarter single agents — it's tools that yoke multiple agents together, hand each a job, and coordinate the handoffs. Gartner is forecasting 40% of enterprises embed AI agents by year-end. The author calls out Microsoft's AG2 (the AutoGen rewrite) and its GroupChat coordination pattern as the practical front-runner.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">MIT Technology Review</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Confirms the consulting thesis: clients shouldn't be buying "an AI" — they should be buying coordinated agent workflows. Use this article as the reference frame when explaining the shift to non-technical owners.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://claude.com/blog/building-ai-agents-for-the-enterprise" style="color:#1a1a1a; text-decoration:none;">Anthropic: How Enterprises Are Embedding Institutional Knowledge Into Agents</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Late-April post from Anthropic walking through how enterprise customers are turning tribal knowledge — process docs, decision rules, naming conventions — into agentic systems that run on Claude. The framing: institutional knowledge is now a deployable asset, not a wiki. Use cases include onboarding, compliance review, and recurring process automation.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Anthropic</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">🤖 Agents</span>
+      <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">💼 Consulting</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Direct play for the consulting practice — the "package up the owner's playbook into Claude Skills" framing is exactly what small contractors need but won't build alone. This is the deliverable.
+    </div>
+  </div>
+</div>
+
+<!-- 🔧 NEW TOOLS & MODEL RELEASES -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#7a5a0a; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #f0b429;">🔧 NEW TOOLS &amp; MODEL RELEASES</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.pulsemcp.com/servers" style="color:#1a1a1a; text-decoration:none;">PulseMCP April Drops: Google Maps, Excel, Atlassian, Microsoft Browser Control</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Notable April 2026 MCP additions surfaced through PulseMCP: a Google Maps server for geocoding/routing/places, a no-Excel-installed openpyxl server for spreadsheet manipulation, a Confluence + Jira (Atlassian) server, and a Microsoft browser-control server for navigating sites and interacting with elements. OAuth 2.1 with incremental scope consent also landed in the spec this month.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">PulseMCP</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Maps + Excel + browser control covers a lot of routine field-office work. The Excel-without-Excel server is especially relevant for any client who lives in spreadsheets but doesn't want to install a stack to automate them.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/" style="color:#1a1a1a; text-decoration:none;">Claude Design Launches — Quick Visuals Direct From the Chat, Exports to Canva</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Anthropic Labs shipped Claude Design as a way to explore software-experience ideas inside Claude and export to other tools. First export target is Canva. Positioned as faster prototyping for non-designers, not a Figma replacement.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">TechCrunch</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">🔧 Tool Release</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Useful for sketching client-facing visuals (proposal mocks, simple landing pages) without bouncing between tools. Worth a 30-minute test for the consulting brand work.
+    </div>
+  </div>
+</div>
+
+<!-- 🏗️ CONSTRUCTION & TRADES USE CASES -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#5a2a8a; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #c07af0;">🏗️ CONSTRUCTION &amp; TRADES USE CASES</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.simplywise.com/blog/best-ai-construction-estimating-tools-for-contractors-2026/" style="color:#1a1a1a; text-decoration:none;">2026 Estimating-Tool Roundup: Togal, Handoff, STACK, Kreo Lead the Mid-Market</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      The mid-market sweet spot for AI estimating sits at $149-$299/month/user. Togal.AI claims 98% takeoff accuracy on floor plans at $299/mo. Handoff AI bundles takeoff + CRM + proposals + invoicing at $149/mo. STACK runs $1,899-$2,999/year and added auto-counting and pattern recognition. Industry headline: 38% of contractors now report measurable AI business impact, up from 17% a year ago.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">SimplyWise</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">🏗️ Construction</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> Useful price/feature reference when scoping client recommendations. Handoff AI's bundled CRM/proposals approach is the closest competitor to a Claude-Skill custom build — worth knowing where the off-the-shelf line lands.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.constructionowners.com/news/construction-ai-adoption-doubles-in-2026-as-smart-tools-transform-jobsites" style="color:#1a1a1a; text-decoration:none;">Construction AI Adoption Doubled in 2026 — But Most Firms Still Have No Standard</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Use of AI tools on jobsites and in back offices roughly doubled year-over-year, but the report flags a familiar gap: most firms have adopted point tools (estimating, scheduling, doc review) without a unifying playbook. Net effect is fragmented data and tool overlap, not the productivity step-change leadership expected.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Construction Owners</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">🏗️ Construction</span>
+      <span style="font-size:11px; background:#2a1a1a; color:#f08080; padding:2px 8px; border-radius:4px; font-weight:600;">💼 Consulting</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> ⚠️ This is the consulting opportunity in one paragraph. Contractors are buying tools but not strategy. The five-Skill architecture (Top Stories #3) is exactly the unifying playbook this gap needs.
+    </div>
+  </div>
+</div>
+
+<!-- 📝 PROMPTS, FRAMEWORKS & CONSULTING -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#0a5a55; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #4fd1c5;">📝 PROMPTS, FRAMEWORKS &amp; CONSULTING</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://pasqualepillitteri.it/en/news/1090/prompt-engineering-2026-frameworks-complete-guide" style="color:#1a1a1a; text-decoration:none;">Two Frameworks That Actually Survive 2026: CO-STAR and RTF</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Survey of which prompt frameworks held up as models got more capable. Winners: CO-STAR (Context, Objective, Style, Tone, Audience, Response) for content work — "Audience" is called out as the highest-leverage variable — and RTF (Role, Task, Format) for repeatable operational prompts like checklists, summaries, comparisons, and SOPs. The piece argues most other named frameworks have collapsed into these two.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Pasquale Pillitteri</span>
+      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">📝 Prompts</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      👉 <strong>Why this matters:</strong> 💡 RTF is the right pattern for the kinds of operator prompts you'd hand to a project admin or super — short, role-bound, format-locked. Use CO-STAR for client-facing content (proposals, marketing). Two frameworks is enough to teach.
+    </div>
+  </div>
+</div>
+
+<!-- 🐦 FROM THE FEED -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#1a3a6a; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #7eb8f7;">🐦 FROM THE FEED</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:14px 18px; margin-bottom:10px;">
+    <div style="font-size:13px; color:#333; margin-bottom:6px;">
+      <strong>@anthropic</strong> — Code with Claude developer conference is May 6 in San Francisco. New connectors and skills demos are teased throughout the week.
+    </div>
+    <div style="margin-bottom:0;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">x.com/anthropicai</span>
+      <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 X/Twitter</span>
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:14px 18px; margin-bottom:10px;">
+    <div style="font-size:13px; color:#333; margin-bottom:6px;">
+      <strong>@bentossell</strong> — Argues the "wrapper company" debate is over: the winners are operators who wrap a single niche workflow tightly, not platforms trying to do everything. Cites construction, HVAC, and dental ops as 2026's quietly profitable niches.
+    </div>
+    <div style="margin-bottom:0;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">x.com/bentossell</span>
+      <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 X/Twitter</span>
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:14px 18px; margin-bottom:10px;">
+    <div style="font-size:13px; color:#333; margin-bottom:6px;">
+      <strong>@zapier</strong> — New Claude + Zapier action templates landed for "agent triggers" — let an agent kick off a multi-step Zap, watch the result, and decide whether to retry or escalate. Targeted at non-technical ops teams.
+    </div>
+    <div style="margin-bottom:0;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">x.com/zapier</span>
+      <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 X/Twitter</span>
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:14px 18px; margin-bottom:10px;">
+    <div style="font-size:13px; color:#333; margin-bottom:6px;">
+      <strong>@swyx</strong> — Recap of the week: Adobe + Claude is the marquee announcement, but the more interesting signal is how many vertical MCP servers (procurement, HR, compliance) shipped without fanfare. "The boring connectors are where the money is."
+    </div>
+    <div style="margin-bottom:0;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">x.com/swyx</span>
+      <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">🐦 X/Twitter</span>
+    </div>
+  </div>
+</div>
+
+<!-- 🎬 VIDEOS WORTH WATCHING -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#7a4a0a; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #f5a623;">🎬 VIDEOS WORTH WATCHING</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px; display:flex; gap:14px; align-items:flex-start;">
+    <div style="width:120px; min-width:120px; height:68px; background:#e0e0e0; border-radius:6px; display:flex; align-items:center; justify-content:center; font-size:24px;">▶️</div>
+    <div>
+      <div style="font-size:14px; font-weight:700; margin-bottom:4px;">
+        <a href="https://www.youtube.com/watch?v=gHB4JFG9i3k" style="color:#1a1a1a; text-decoration:none;">Claude Code: Build Your First AI Agent</a>
+      </div>
+      <div style="font-size:12px; color:#555; margin-bottom:8px;">Walks through standing up a working agent with Claude Code without writing code yourself — a useful demo template for non-technical clients.</div>
+      <div>
+        <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">YouTube</span>
+        <a href="https://www.youtube.com/watch?v=gHB4JFG9i3k" style="font-size:11px; font-weight:600; color:#4f9cf9; background:#eef5ff; padding:2px 10px; border-radius:4px; text-decoration:none;">Watch →</a>
+      </div>
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px; display:flex; gap:14px; align-items:flex-start;">
+    <div style="width:120px; min-width:120px; height:68px; background:#e0e0e0; border-radius:6px; display:flex; align-items:center; justify-content:center; font-size:24px;">▶️</div>
+    <div>
+      <div style="font-size:14px; font-weight:700; margin-bottom:4px;">
+        <a href="https://www.youtube.com/watch?v=tDGiWn0flK8" style="color:#1a1a1a; text-decoration:none;">From Zero to Your First Agentic AI Workflow in 26 Minutes (Claude Code)</a>
+      </div>
+      <div style="font-size:12px; color:#555; margin-bottom:8px;">Short, end-to-end build of a single agentic workflow. Good pacing for a teaching session — covers prompt, tool selection, run, and review without going deep on code.</div>
+      <div>
+        <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">YouTube</span>
+        <a href="https://www.youtube.com/watch?v=tDGiWn0flK8" style="font-size:11px; font-weight:600; color:#4f9cf9; background:#eef5ff; padding:2px 10px; border-radius:4px; text-decoration:none;">Watch →</a>
+      </div>
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px; display:flex; gap:14px; align-items:flex-start;">
+    <div style="width:120px; min-width:120px; height:68px; background:#e0e0e0; border-radius:6px; display:flex; align-items:center; justify-content:center; font-size:24px;">▶️</div>
+    <div>
+      <div style="font-size:14px; font-weight:700; margin-bottom:4px;">
+        <a href="https://www.youtube.com/watch?v=vFepZE_wrfg" style="color:#1a1a1a; text-decoration:none;">How to Build $10,000 Agentic Workflows (Claude Code Tutorial)</a>
+      </div>
+      <div style="font-size:12px; color:#555; margin-bottom:8px;">Pitched as the consulting framing — packaging Claude-driven workflows as repeatable client deliverables. Watch for the pricing argument and engagement structure, not the code.</div>
+      <div>
+        <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">YouTube</span>
+        <a href="https://www.youtube.com/watch?v=vFepZE_wrfg" style="font-size:11px; font-weight:600; color:#4f9cf9; background:#eef5ff; padding:2px 10px; border-radius:4px; text-decoration:none;">Watch →</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
+  Sources: Anthropic News · Adobe Blog · TechCrunch · MIT Technology Review · PulseMCP · Caylent · 9to5Mac · SimplyWise · Construction Owners · Built by EC · Pasquale Pillitteri · IT Business Net<br/>
+  X: @anthropic · @bentossell · @zapier · @swyx<br/>
+  Video: YouTube — Claude Code agent tutorials<br/>
+  Generated Sun, May 3, 2026 by Claude Cowork · AI Daily Digest RSS Feed<br/>
+  <em>Note: Gmail account verification (gmail_get_profile) was unavailable in this run, so the inbox sweep was skipped per the task's hard security boundary. Web research only.</em>
+</div>
+
+</div>
+    ]]></description>
+    <pubDate>Sun, 03 May 2026 08:00:00 -0700</pubDate>
+    <guid isPermaLink="false">ai-digest-2026-05-03</guid>
+  </item>
 
   <item>
     <title>🤖 AI Digest — Friday, May 02, 2026</title>
