@@ -6,7 +6,373 @@
   <link>https://ndagle73.github.io/fi-feeds/ai_digest_feed.xml</link>
   <atom:link href="https://ndagle73.github.io/fi-feeds/ai_digest_feed.xml" rel="self" type="application/rss+xml"/>
   <language>en-us</language>
-  <lastBuildDate>Tue, 05 May 2026 08:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 06 May 2026 08:00:00 -0700</lastBuildDate>
+
+
+  <item>
+    <title>&#129302; AI Digest &#8212; Wednesday, May 06, 2026</title>
+    <description><![CDATA[
+<div style="font-family:system-ui,-apple-system,sans-serif; max-width:700px; margin:0 auto; color:#1a1a1a; line-height:1.6;">
+
+<div style="text-align:center; padding:16px 0 20px; border-bottom:2px solid #e0e0e0; margin-bottom:20px;">
+  <div style="font-size:28px; font-weight:800; margin-bottom:4px;">&#129302; AI Daily Digest</div>
+  <div style="font-size:14px; color:#888;">Wednesday, May 6, 2026 &#8212; Your daily AI intelligence briefing</div>
+</div>
+
+<!-- TOP STORIES -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#c0392b; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #c0392b;">&#128293; TOP STORIES</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.anthropic.com/news/claude-opus-4-7" style="color:#1a1a1a; text-decoration:none;">Claude Opus 4.7 ships &#8212; sharper coding, higher-resolution vision, same price</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Anthropic released Opus 4.7 to general availability with material gains on long-running agent tasks and image-heavy work. Vision now reads images at higher resolution &#8212; relevant for plan sets, photographed receipts, and field documentation. Pricing held at $5/M input and $25/M output.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Anthropic News</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">&#128295; Tool Release</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">&#127959; Construction</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> Higher-res vision is the practical unlock for trades workflows &#8212; Opus 4.7 can now reliably read dimensions off marked-up plan PDFs and itemize photographed material receipts without preprocessing. Worth re-running any vision pipeline you previously gave up on.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://openai.com/news/" style="color:#1a1a1a; text-decoration:none;">OpenAI ships GPT-5.5 Instant + ChatGPT Ads + low-latency voice stack</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Yesterday's drop included GPT-5.5 Instant (multi-step task model marketed as faster and better at long-horizon work), a new ChatGPT advertising product, and infrastructure for real-time voice agents at scale. Sam Altman has been pitching GPT-5.5 as the model behind a planned automated AI research intern by September.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">OpenAI</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">&#128295; Tool Release</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">&#129302; Agents</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> Low-latency voice at scale is the second wave of the inbound-call agent story. Combined with yesterday's Saperly carrier news, the stack is now in place for trades businesses to run a real 24/7 reception agent &#8212; not just a transcription bot.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://claude.com/product/cowork" style="color:#1a1a1a; text-decoration:none;">Anthropic adds Adobe, Blender, Ableton, Affinity, Autodesk Fusion connectors to Cowork</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Cowork now connects directly to creative and engineering desktop apps. Autodesk Fusion is the headline for trades &#8212; Claude can now read parametric models and design data inside Cowork sessions. Microsoft 365 add-ins (Excel, PowerPoint, Word) are GA; Outlook add-in is imminent.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Anthropic News</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">&#127959; Construction</span>
+      <span style="font-size:11px; background:#3a2d0a; color:#f0b429; padding:2px 8px; border-radius:4px; font-weight:600;">&#128295; Tool Release</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> Fusion + Cowork is a credible demo for any GC or fabricator running parametric design. For Insight Remodels specifically: Excel + Word + (soon) Outlook GA means client-deliverable workflows finally run end-to-end without copy-paste between Cowork and the office stack.
+    </div>
+    <div style="margin-top:12px; text-align:center;">
+      <svg viewBox="0 0 500 160" style="max-width:100%; height:auto; background:#fafafa; border-radius:8px; padding:8px;">
+        <rect x="20" y="55" width="110" height="50" rx="10" fill="#eef5ff" stroke="#4f9cf9" stroke-width="2"/>
+        <text x="75" y="80" text-anchor="middle" font-family="system-ui" font-size="12" fill="#333">Excel / Word</text>
+        <text x="75" y="95" text-anchor="middle" font-family="system-ui" font-size="11" fill="#666">add-ins (GA)</text>
+        <rect x="195" y="55" width="110" height="50" rx="10" fill="#f0fff0" stroke="#7dcf5a" stroke-width="2"/>
+        <text x="250" y="80" text-anchor="middle" font-family="system-ui" font-size="13" fill="#333">Claude</text>
+        <text x="250" y="95" text-anchor="middle" font-family="system-ui" font-size="11" fill="#666">Cowork</text>
+        <rect x="370" y="20" width="110" height="40" rx="10" fill="#fff8ee" stroke="#f0b429" stroke-width="2"/>
+        <text x="425" y="45" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">Autodesk Fusion</text>
+        <rect x="370" y="70" width="110" height="40" rx="10" fill="#fff8ee" stroke="#f0b429" stroke-width="2"/>
+        <text x="425" y="95" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">Adobe / Blender</text>
+        <rect x="370" y="120" width="110" height="30" rx="10" fill="#ffeeee" stroke="#f08080" stroke-width="2"/>
+        <text x="425" y="140" text-anchor="middle" font-family="system-ui" font-size="11" fill="#333">Outlook (soon)</text>
+        <line x1="130" y1="80" x2="195" y2="80" stroke="#333" stroke-width="2" marker-end="url(#arr1)"/>
+        <line x1="305" y1="75" x2="370" y2="40" stroke="#333" stroke-width="2" marker-end="url(#arr1)"/>
+        <line x1="305" y1="80" x2="370" y2="90" stroke="#333" stroke-width="2" marker-end="url(#arr1)"/>
+        <line x1="305" y1="85" x2="370" y2="135" stroke="#333" stroke-width="2" stroke-dasharray="4 3" marker-end="url(#arr1)"/>
+        <defs><marker id="arr1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#333"/></marker></defs>
+      </svg>
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.anthropic.com/news" style="color:#1a1a1a; text-decoration:none;">Memory for Managed Agents lands in public beta &#8212; cross-session learning, audit logs</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Anthropic's Managed Agents now ship with a filesystem-backed memory layer that learns across sessions, with API control, audit logs, and portable stores. Built for enterprise teams running long-running agents.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Anthropic News</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">&#129302; Agents</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> Audit-logged memory is the missing piece for selling agents into regulated work &#8212; a contractor's bid-review or RFI agent can finally have receipts that hold up in a dispute. Worth designing the memory schema before clients ask.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.jobtread.com/integrations" style="color:#1a1a1a; text-decoration:none;">JobTread x AI: extract, summarize, and transform via OpenAI and Anthropic</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      JobTread is now actively marketing AI capabilities on top of its QuickBooks Online integration: extract data from documents, summarize job state, and transform sync payloads through OpenAI or Anthropic models. Time-entry rates auto-sync to QBO Payroll; jobs auto-create as QBO Projects.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">JobTread</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">&#127959; Construction</span>
+      <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">&#128188; Consulting</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> First-party AI in JobTread changes the consulting pitch from "let me bolt AI on top" to "let me make the AI you already have do real work." Pre-build a discovery checklist for what's exposed vs. what still needs custom MCP.
+    </div>
+  </div>
+</div>
+
+<!-- AGENTS & WORKFLOWS -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#2d6a4f; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #2d6a4f;">&#129302; AGENT &amp; WORKFLOW UPDATES</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://zapier.com/mcp" style="color:#1a1a1a; text-decoration:none;">Zapier MCP Agentic config in beta &#8212; 14 meta-tools, 9,000+ apps</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Zapier's "Agentic" MCP configuration is rolling out broadly. Fourteen static meta-tools let an agent discover, enable, and execute Zapier actions entirely from chat &#8212; no per-app setup. Costs two Zapier tasks per tool call. Works with Claude, ChatGPT, Cursor.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Zapier</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">&#129302; Agents</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> One MCP, 9,000 apps, governed access. This is the simplest "just give me automation" pitch for SMB clients who don't have a developer &#8212; you wire Zapier MCP once and the agent figures the rest out.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.pulsemcp.com/servers/paidsync" style="color:#1a1a1a; text-decoration:none;">PaidSync MCP &#8212; agent control over Google, Meta, and LinkedIn ads</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Released April 8, getting traction now. Full read/write across Google Ads, Meta Ads, and LinkedIn Ads through a single MCP &#8212; 200+ tools. Lets an agent budget-shift, pause underperforming creatives, and report back without dashboard hopping.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">PulseMCP</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">&#129302; Agents</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> Local-services ads are messy and overspent at most trades shops. A weekly "audit my ads and shift budget toward what's converting" agent is a lower-risk consulting beachhead than touching production data.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.pulsemcp.com/servers/searchcraft" style="color:#1a1a1a; text-decoration:none;">Webclaw MCP &#8212; web extraction with TLS fingerprinting</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Released April 18. Web extraction engine that bypasses common bot-detection (TLS fingerprinting, header rotation). Useful for agents that have to scrape supplier catalogs, code books, or municipal portals that block standard fetchers.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">PulseMCP</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">&#129302; Agents</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> A lot of agent demos break the second they hit Cloudflare. This kind of tooling raises the floor for "the agent will pull pricing for me" workflows where suppliers are inconsistently behind bot walls.
+    </div>
+  </div>
+</div>
+
+<!-- CONSTRUCTION USE CASES -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#7d4cad; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #7d4cad;">&#127959; CONSTRUCTION &amp; TRADES USE CASES</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.ampcome.com/post/ai-agents-construction-industry" style="color:#1a1a1a; text-decoration:none;">Tender-processing agents reporting ~90% faster turnaround, ~95% accuracy in production</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Real production case studies of AI agents handling tender extraction, revision detection, and PM-system sync end-to-end. Agents perceive the document, decide the multi-step action, and execute under guardrails with full audit trail. Distinct from chatbot "AI assistants."
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Ampcome</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">&#127959; Construction</span>
+      <span style="font-size:11px; background:#2d4a22; color:#7dcf5a; padding:2px 8px; border-radius:4px; font-weight:600;">&#129302; Agents</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> Solid reference numbers to quote in pitches. The "agents pursue goals, assistants answer questions" framing is also the cleanest way to explain to a contractor why this is different from ChatGPT.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.autodesk.com/blogs/construction/2026-ai-trends-25-experts-share-insights/" style="color:#1a1a1a; text-decoration:none;">Autodesk: 27% of AEC currently uses AI, 94% plan to expand in 2026</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Autodesk's 2026 trends panel pegs current AI adoption in architecture, engineering, and construction at just 27% &#8212; while 94% of those firms plan to grow it this year. Construction remains one of the largest, least-digitized industries by operational maturity.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Autodesk Digital Builder</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">&#127959; Construction</span>
+      <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">&#128188; Consulting</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> The TAM math is in your favor. Three out of four AEC firms still aren't using AI at all, and most of the remaining adopters are doing it badly. This is the demand curve a consulting practice rides for the next 24 months.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://archdesk.com/blog/agentic-ai-in-construction-2026" style="color:#1a1a1a; text-decoration:none;">Archdesk: data, not tools, is the bottleneck for agentic AI in construction</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Argument that the firms pulling ahead in 2026 aren't winning on tool selection &#8212; they're winning because their job data is already structured enough for an agent to reason over. Firms with messy spreadsheets and PDFs first need a data layer before agents matter.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Archdesk</span>
+      <span style="font-size:11px; background:#2a1a3a; color:#c07af0; padding:2px 8px; border-radius:4px; font-weight:600;">&#127959; Construction</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> The first deliverable in any consulting engagement should be a data audit, not an agent demo. Selling "we'll get your data clean enough to automate" is more honest and more billable than "we'll install ChatGPT."
+    </div>
+  </div>
+</div>
+
+<!-- PROMPTS & CONSULTING -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#0f9b8e; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #0f9b8e;">&#128221; PROMPTS, FRAMEWORKS &amp; CONSULTING</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://pasqualepillitteri.it/en/news/1090/prompt-engineering-2026-frameworks-complete-guide" style="color:#1a1a1a; text-decoration:none;">2026 prompt-framework roundup &#8212; what still works, what's been quietly retired</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Survey of which prompt-engineering frameworks survived the shift to long-context and reasoning models. Role + Context + Task + Format and constraint-based prompting still hold; many "5 Ps" style templates are now noise. Emphasis has shifted from prompt to context engineering: what data you put in, in what order, with what priority.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Pasquale Pillitteri</span>
+      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">&#128221; Prompts</span>
+      <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">&#128188; Consulting</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> Useful update for the consulting curriculum. Stop teaching memorized prompt templates &#8212; teach clients how to assemble context (what files, what history, what constraints) and let modern models do the rest.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://www.ipserverone.com/blog/prompt-engineering-guide-2026-expert-rules/" style="color:#1a1a1a; text-decoration:none;">Scaling business AI in 2026: rules-based prompting for non-coders</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Practical 2026 guide for non-technical owners. Argues for replacing ad-hoc prompts with explicit constraint sets &#8212; length, audience, exclusion list, style, priority. The "vagueness tax" framing is good language for client onboarding.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">IP ServerOne</span>
+      <span style="font-size:11px; background:#0a2a2a; color:#4fd1c5; padding:2px 8px; border-radius:4px; font-weight:600;">&#128221; Prompts</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> "Vagueness tax" is a sticky phrase to use in workshops &#8212; non-technical owners get it instantly. Steal the framing.
+    </div>
+  </div>
+</div>
+
+<!-- X / TWITTER -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#1d77c7; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #1d77c7;">&#128038; FROM THE FEED</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://x.com/sama/status/1983584366547829073" style="color:#1a1a1a; text-decoration:none;">@sama: target an automated AI research intern by Sept 2026, full automated researcher by March 2028</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Sam Altman recapping a livestream: OpenAI's internal goals are an automated AI research intern running on hundreds of thousands of GPUs by September 2026, and a true automated AI researcher by March 2028. He noted they may "totally fail."
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">X / @sama</span>
+      <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">&#128038; X/Twitter</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> Whether or not it ships on time, the timeline frames the next 18-month consulting window. If even half-credible, every business should have a working agent stack before the labor cost arbitrage closes.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://x.com/anthropic" style="color:#1a1a1a; text-decoration:none;">@anthropic: Opus 4.7 + Memory for Managed Agents both shipped this week</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Anthropic's account is leading with two stories: Opus 4.7 and Memory for Managed Agents in public beta. Both ship into Cowork and the Claude API; both are immediately useful in production agent loops.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">X / @anthropic</span>
+      <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">&#128038; X/Twitter</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> Two upgrades land on the Claude side this week with no required code changes. Worth a Cowork session this week to re-test prior workflows that hit Sonnet's vision or memory ceilings.
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px;">
+    <div style="font-size:15px; font-weight:700; margin-bottom:6px;">
+      <a href="https://x.com/zapier" style="color:#1a1a1a; text-decoration:none;">@zapier: governed MCP across Claude, ChatGPT, and Cursor &#8212; one connection</a>
+    </div>
+    <div style="font-size:13px; color:#555; margin-bottom:10px; line-height:1.5;">
+      Zapier's pitch this week: IT teams get one governed MCP connection and every approved AI client (Claude, ChatGPT, Cursor) inherits it. Platform-agnostic by design.
+    </div>
+    <div style="margin-bottom:8px;">
+      <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">X / @zapier</span>
+      <span style="font-size:11px; background:#1a1a2a; color:#7eb8f7; padding:2px 8px; border-radius:4px; font-weight:600;">&#128038; X/Twitter</span>
+    </div>
+    <div style="font-size:12px; color:#4f9cf9; background:#eef5ff; padding:8px 12px; border-radius:6px; margin-top:8px;">
+      &#128073; <strong>Why this matters:</strong> The "one MCP, many AIs" pitch is the right answer for any client who isn't sure which AI platform to commit to. Stops the religious-war conversation cold.
+    </div>
+  </div>
+</div>
+
+<!-- VIDEOS -->
+<div style="margin-bottom:24px;">
+  <div style="font-size:18px; font-weight:800; color:#c47918; margin-bottom:14px; padding-bottom:6px; border-bottom:2px solid #c47918;">&#127916; VIDEOS WORTH WATCHING</div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px; display:flex; gap:14px; align-items:flex-start;">
+    <div style="width:120px; min-width:120px; height:68px; background:#e0e0e0; border-radius:6px; display:flex; align-items:center; justify-content:center; font-size:24px;">&#9654;&#65039;</div>
+    <div>
+      <div style="font-size:14px; font-weight:700; margin-bottom:4px;">
+        <a href="https://www.youtube.com/@mreflow" style="color:#1a1a1a; text-decoration:none;">Matt Wolfe &#8212; This Week in AI (May 1, 2026)</a>
+      </div>
+      <div style="font-size:12px; color:#555; margin-bottom:8px;">Matt Wolfe's weekly news roundup. Covers GPT-5.5 lead-up, Claude Opus 4.7 rumors at the time, and Cowork desktop connector additions.</div>
+      <div>
+        <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">Matt Wolfe</span>
+        <a href="https://www.youtube.com/@mreflow" style="font-size:11px; font-weight:600; color:#4f9cf9; background:#eef5ff; padding:2px 10px; border-radius:4px; text-decoration:none;">Watch &rarr;</a>
+      </div>
+    </div>
+  </div>
+
+  <div style="background:#f8f8f8; border:1px solid #e0e0e0; border-radius:10px; padding:16px 18px; margin-bottom:12px; display:flex; gap:14px; align-items:flex-start;">
+    <div style="width:120px; min-width:120px; height:68px; background:#e0e0e0; border-radius:6px; display:flex; align-items:center; justify-content:center; font-size:24px;">&#9654;&#65039;</div>
+    <div>
+      <div style="font-size:14px; font-weight:700; margin-bottom:4px;">
+        <a href="https://www.youtube.com/watch?v=SlRzTFx8Qtg" style="color:#1a1a1a; text-decoration:none;">The AI Tools I Actually Use Every Day (2026)</a>
+      </div>
+      <div style="font-size:12px; color:#555; margin-bottom:8px;">Practical, no-fluff tour of the everyday-use AI stack for an operator-mindset user. Useful as a recommendation list for clients getting started.</div>
+      <div>
+        <span style="font-size:11px; background:#e8e8e8; color:#666; padding:2px 8px; border-radius:4px;">YouTube</span>
+        <a href="https://www.youtube.com/watch?v=SlRzTFx8Qtg" style="font-size:11px; font-weight:600; color:#4f9cf9; background:#eef5ff; padding:2px 10px; border-radius:4px; text-decoration:none;">Watch &rarr;</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="margin-top:24px; padding-top:12px; border-top:1px solid #e0e0e0; font-size:11px; color:#999;">
+  Sources: Anthropic News &middot; OpenAI &middot; The Rundown AI &middot; The Neuron &middot; Ben's Bites &middot; PulseMCP &middot; Future Tools &middot; Autodesk Digital Builder &middot; JobTread &middot; Zapier<br/>
+  X: @sama &middot; @anthropic &middot; @zapier &middot; @bentossell &middot; @mattshumer_ &middot; @levelsio &middot; @swyx &middot; @APompliano<br/>
+  Video: YouTube &mdash; Matt Wolfe &middot; ConstructIQ &middot; Anthropic &middot; Skill Leap AI<br/>
+  Note: Gmail account verification (gmail_get_profile) tool unavailable this run &mdash; web research only. Generated Wed, May 6, 2026 by Claude Cowork &middot; AI Daily Digest RSS Feed
+</div>
+
+</div>
+    ]]></description>
+    <pubDate>Wed, 06 May 2026 08:00:00 -0700</pubDate>
+    <guid isPermaLink="false">ai-digest-2026-05-06</guid>
+  </item>
 
   <item>
     <title>&#129302; AI Digest &#8212; Tuesday, May 05, 2026</title>
@@ -387,8 +753,7 @@
     <guid isPermaLink="false">ai-digest-2026-05-05</guid>
   </item>
 
-
-<item>
+  <item>
     <title>🤖 AI Digest — Monday, May 04, 2026</title>
     <description><![CDATA[
 <div style="font-family:system-ui,-apple-system,sans-serif; max-width:700px; margin:0 auto; color:#1a1a1a; line-height:1.6;">
@@ -675,7 +1040,7 @@
     <guid isPermaLink="false">ai-digest-2026-05-04</guid>
   </item>
 
-<item>
+  <item>
     <title>🤖 AI Digest — Sunday, May 03, 2026</title>
     <description><![CDATA[
 <div style="font-family:system-ui,-apple-system,sans-serif; max-width:700px; margin:0 auto; color:#1a1a1a; line-height:1.6;">
@@ -1038,7 +1403,7 @@
     <guid isPermaLink="false">ai-digest-2026-05-03</guid>
   </item>
 
-<item>
+  <item>
     <title>🤖 AI Digest — Friday, May 02, 2026</title>
     <description><![CDATA[
 <div style="font-family:system-ui,-apple-system,sans-serif; max-width:700px; margin:0 auto; color:#1a1a1a; line-height:1.6;">
